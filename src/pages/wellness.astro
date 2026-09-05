@@ -1,15 +1,43 @@
 ---
 import Base from '../layouts/Base.astro';
-import { url } from '../lib/url';
+import PageHero from '../components/PageHero.astro';
+import CtaBand from '../components/CtaBand.astro';
+import Faq from '../components/Faq.astro';
+
+const nutrition = [
+  { t: 'Stability', d: 'Balanced meals regulate blood sugar, reducing mood swings and cravings.' },
+  { t: 'Healing', d: 'Nutrients strengthen the liver, heart, and digestive system, repairing damage from substance use.' },
+  { t: 'Resilience', d: 'Better sleep, stronger immunity, and restored energy help clients engage more deeply in therapy.' },
+  { t: 'Hope', d: 'Small wins — improved appetite, energy, and mood — remind clients that change is possible.' },
+];
+const practices = ['Yoga-inspired movement to restore calm and connection with the body.', 'Meditation and mindfulness to reduce stress and cravings.', 'Breathwork and reflection to quiet the nervous system.', 'Lifestyle balance strategies that help rebuild everyday structure.'];
+const faqs = [
+  { q: 'What wellness services do you offer?', a: 'A range of optional, supplemental services — including mindfulness practice, yoga-inspired movement, nutritional counseling, Ayurveda, and stress-management support.' },
+  { q: 'Are wellness services included in treatment programs?', a: 'Yes — wellness services are integrated into detox and residential treatment plans, complementing clinical care with physical and emotional support.' },
+  { q: 'Do you offer personalized wellness plans?', a: 'Yes — our clinical and wellness teams collaborate to tailor wellness plans to each client’s needs, supporting physical, emotional, and mental health.' },
+];
 ---
-<Base title="Wellness Services — New Beginnings Recovery" description="Holistic wellness — nutrition counseling and Ayurveda — alongside clinical addiction treatment.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Wellness Services</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Wellness Services in Rancho Mirage & Palm Springs — New Beginnings Recovery" description="Optional, supplemental wellness — nutrition counseling, Ayurveda-inspired practices, and mindfulness — that complement clinical addiction treatment in Rancho Mirage.">
+  <PageHero eyebrow="Wellness Services" title="Whole-person healing in recovery" lede="Recovery isn’t only about breaking free from drugs or alcohol — it’s about learning to live fully again. Our wellness services are optional and supplemental, offered alongside medical and therapeutic care." />
+
+  <section class="section">
+    <div class="container prose">
+      <h2>Nutrition counseling: rebuilding from within</h2>
+      <p>Substance use often leaves the body starved of what it needs most. With the guidance of a registered dietitian, clients can begin to restore what addiction has taken away.</p>
+      <div class="feature-grid">
+        {nutrition.map((n) => (<div class="feature"><h3>{n.t}</h3><p>{n.d}</p></div>))}
+      </div>
+
+      <h2>Ayurveda & mind-body practices</h2>
+      <p>Our founder’s passion for Ayurveda and holistic healing shapes the spirit of New Beginnings. These services are not part of our licensed treatment program; clients who wish to explore them may do so as optional supports.</p>
+      <ul>{practices.map((p) => (<li>{p}</li>))}</ul>
+      <p>These practices don’t replace therapy or medicine — they enhance recovery by helping clients feel more centered, resilient, and whole.</p>
+
+      <h2>The Rancho Mirage setting</h2>
+      <p>Wellness is also about environment. The desert sun, mountain views, and private courtyards of our Rancho Mirage property create a natural sense of peace. The pool offers a place for renewal, while quiet spaces allow reflection and calm.</p>
     </div>
-  </div></section>
+  </section>
+
+  <Faq items={faqs} title="FAQs about wellness services" />
+  <CtaBand title="Begin whole-person healing today" text="Every client receives safe, evidence-based care, with the option to explore services that strengthen body, mind, and spirit." />
 </Base>

@@ -1,15 +1,42 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { url } from '../../lib/url';
+import PageHero from '../../components/PageHero.astro';
+import CtaBand from '../../components/CtaBand.astro';
+
+const team = [
+  { name: 'Dr. Hrant Gevorgian, MD, MPH', role: 'Medical Director', bio: 'A physician specializing in Emergency and Addiction Medicine with 15+ years of experience across Los Angeles, Riverside, and San Bernardino counties — from Skid Row outreach and emergency departments to methadone programs and correctional health. He currently serves as Medical Director of Addiction Medicine at San Gorgonio Memorial Hospital, where he established addiction consult services and founded a MAT Bridge Clinic in Banning. MD, St. George’s University; Emergency Medicine residency at Rutgers Health (Chief Resident); MPH, Keck School of Medicine at USC; Addiction Medicine fellowship, Loma Linda University.' },
+  { name: 'Candice Camp, CMA, SUDRC', role: 'Lead Medical Technician', bio: 'More than 18 years of medical-field experience and personally in recovery. She believes addiction is a complex medical condition, not a moral failing, and approaches patient support, clinical coordination, and relapse-prevention planning with compassion and trauma-informed care.' },
+  { name: 'Paige Housel, CMA, SUDRC 1', role: 'Case Manager', bio: 'Entered the addiction-treatment field through personal experience and the loss of loved ones to addiction. She offers nonjudgmental support and a steady presence, committed to helping clients rediscover their sense of self and purpose.' },
+  { name: 'Dionicio Cruz, RADT Trainee', role: 'Addiction Technician', bio: 'Over a decade of recovery-support experience since 2011, including work in structured, faith-based recovery homes. He supports individuals through mentorship, encouragement, and practical life-skill development.' },
+  { name: 'Joe Boss, CADC II, ICADC', role: 'Addiction Counselor', bio: 'A Certified Addiction Counselor II and Internationally Certified Alcohol and Drug Counselor with nine years of professional experience, including the Betty Ford Center and ABC Recovery Center, and over 20 years of personal recovery. Expertise in motivational interviewing, CBT, group therapy, crisis intervention, and codependency facilitation.' },
+  { name: 'Margaret Ehry', role: 'Spiritual Care Counselor', bio: 'Over 25 years of mental-health and spiritual-care experience, previously serving as Director at a psychiatric hospital. Known for a kind, calming presence, she offers individual counseling and group support focused on reflection, healing, and growth.' },
+  { name: 'Brian Waterhouse', role: 'Admissions Representative', bio: 'More than 15 years through his own journey of addiction and recovery. He guides individuals through the treatment-entry process with clarity and compassion, and works closely with families on healthy boundaries and communication.' },
+];
 ---
-<Base title="Meet Our Team — New Beginnings Recovery" description="The clinical and care team at New Beginnings Recovery.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Meet Our Team</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Meet Our Team — New Beginnings Recovery" description="The clinical and care team behind New Beginnings Recovery in Rancho Mirage — a medical director, counselors, case managers, and technicians committed to compassionate care.">
+  <PageHero eyebrow="Meet Our Team" title="The people behind every fresh start" lede="What sets our team apart isn’t just their expertise — it’s their belief in hope and their dedication to walking alongside each person on the path to recovery." />
+
+  <section class="section">
+    <div class="container">
+      <div class="team-grid">
+        {team.map((m) => (
+          <article class="member card">
+            <h2>{m.name}</h2>
+            <p class="role">{m.role}</p>
+            <p class="bio">{m.bio}</p>
+          </article>
+        ))}
+      </div>
     </div>
-  </div></section>
+  </section>
+
+  <CtaBand title="Talk to our admissions team" text="A confidential conversation is the first step. We’re available 24/7." />
+
+  <style>
+    .team-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.25rem; }
+    .member h2 { font-size: 1.25rem; }
+    .member .role { font-family: "Mulish", sans-serif; font-weight: 700; font-size: .82rem; letter-spacing: .1em; text-transform: uppercase; color: var(--accent); margin: .3rem 0 .8rem; }
+    .member .bio { color: var(--text-soft); font-size: .95rem; }
+    @media (max-width: 48rem) { .team-grid { grid-template-columns: 1fr; } }
+  </style>
 </Base>

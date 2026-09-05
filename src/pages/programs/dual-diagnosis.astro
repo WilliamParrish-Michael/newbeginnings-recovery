@@ -1,15 +1,19 @@
 ---
 import Base from '../../layouts/Base.astro';
+import PageHero from '../../components/PageHero.astro';
+import CtaBand from '../../components/CtaBand.astro';
 import { url } from '../../lib/url';
 ---
-<Base title="Dual Diagnosis — New Beginnings Recovery" description="Integrated care for addiction and co-occurring mental health conditions.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Dual Diagnosis</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Dual Diagnosis Support — New Beginnings Recovery" description="Integrated care for addiction and co-occurring mental health challenges — anxiety, depression, and unresolved trauma — within our residential program in Rancho Mirage.">
+  <PageHero eyebrow="Dual Diagnosis" title="Treating mental health alongside addiction" lede="Addiction rarely exists in isolation. Many clients also experience anxiety, depression, or the weight of unresolved trauma." />
+
+  <section class="section">
+    <div class="container prose">
+      <p>At New Beginnings Recovery, our program treats both substance use and co-occurring mental health challenges together — because lasting recovery rarely comes from treating one alone. Dual-diagnosis support is woven into our residential program, where individual counseling, group therapy, trauma-informed care, and family involvement address the whole person.</p>
+      <p>Care is individualized: our clinical team works with each client to understand what’s driving the addiction and to build a plan that supports both mental health and sobriety.</p>
+      <div class="callout"><p>Dual-diagnosis care at New Beginnings is delivered within our residential program. <a href={url('/programs/residential/')}>Explore residential rehab →</a></p></div>
     </div>
-  </div></section>
+  </section>
+
+  <CtaBand title="Talk to someone who understands" text="A confidential conversation with our admissions team is the first step. Most major insurance accepted." />
 </Base>

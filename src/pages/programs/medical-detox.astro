@@ -1,15 +1,80 @@
 ---
 import Base from '../../layouts/Base.astro';
+import PageHero from '../../components/PageHero.astro';
+import CtaBand from '../../components/CtaBand.astro';
+import Faq from '../../components/Faq.astro';
 import { url } from '../../lib/url';
+
+const process = [
+  { t: 'Medical intake', d: 'A full evaluation of medical history, substance use, and overall health.' },
+  { t: 'Stabilization', d: '24/7 monitoring with medications and comfort supports as needed.' },
+  { t: 'Ongoing support', d: 'Compassionate staff available day and night to ease fears and build trust.' },
+  { t: 'Transition into rehab', d: 'Once stabilized, clients move into our residential rehab program to continue healing.' },
+];
+const durations = [
+  { t: 'Alcohol', d: '3–7 days, sometimes longer.' },
+  { t: 'Opioids', d: '5–10 days depending on duration and substance.' },
+  { t: 'Benzodiazepines', d: 'Several weeks, requiring a slow taper.' },
+  { t: 'Stimulants', d: '3–5 days for physical symptoms, with additional emotional recovery.' },
+];
+const faqs = [
+  { q: 'What happens during medical detox?', a: 'Clients are medically monitored, provided with medications when needed, and supported to ease withdrawal symptoms safely.' },
+  { q: 'How long does detox take?', a: 'Most detox programs last 3–10 days, though benzodiazepine detox may require a longer taper.' },
+  { q: 'Can you detox at home?', a: 'Detoxing at home can be unsafe. Alcohol and benzodiazepine withdrawal can be life-threatening without medical support.' },
+  { q: 'Is medical detox appropriate for all substance dependencies?', a: 'Yes — our experienced medical team safely detoxifies clients dependent on alcohol, opioids, benzodiazepines, stimulants, and other substances, with individualized care plans tailored to each person’s health.' },
+  { q: 'What happens after detox?', a: 'Detox is the first step. After stabilization, clients transition into residential rehab to begin therapy and build long-term recovery skills.' },
+  { q: 'Do you accept insurance for detox?', a: 'Many major insurance plans are accepted, and our admissions team can verify your benefits to help you.' },
+];
 ---
-<Base title="Medical Detox — New Beginnings Recovery" description="Medically supervised detox for alcohol, opioids, and drugs in Rancho Mirage.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Medical Detox</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Medical Detox in Rancho Mirage & Palm Springs — New Beginnings Recovery" description="Medically supervised, 24/7 detox for alcohol, opioids, benzodiazepines, and stimulants in Rancho Mirage — safe, dignified, and comfort-focused.">
+  <PageHero eyebrow="Medical Detox" title="A safe first step toward recovery" lede="Clients are cared for 24/7 by licensed medical professionals in a serene setting just minutes from Palm Springs — so families can feel relief knowing their loved one is safe and supported." />
+
+  <section class="section">
+    <div class="container prose">
+      <h2>Why detox is the first step</h2>
+      <p>Detox is the process of clearing alcohol or drugs from the body — but it isn’t just physical. It’s the moment when someone chooses recovery, and that choice deserves the highest level of care. Without medical support, withdrawal can be dangerous:</p>
+      <ul>
+        <li><strong>Alcohol</strong> withdrawal can cause seizures or delirium tremens (DTs).</li>
+        <li><strong>Opioid</strong> withdrawal may not be fatal, but it is extremely painful and often leads to relapse.</li>
+        <li><strong>Benzodiazepine</strong> withdrawal can be life-threatening if not managed carefully.</li>
+        <li><strong>Stimulant</strong> withdrawal often brings intense depression, anxiety, and cravings.</li>
+      </ul>
+      <div class="callout"><p>According to the CDC, alcohol misuse is responsible for over 178,000 deaths in the U.S. each year, and untreated withdrawal contributes to emergency hospital visits. SAMHSA research shows that medically supervised detox increases the likelihood of continuing into treatment instead of relapsing.</p></div>
     </div>
-  </div></section>
+  </section>
+
+  <section class="section" style="background:var(--surface-alt)">
+    <div class="container prose" style="max-width:52rem">
+      <h2>The medical detox process</h2>
+      <p>Detox at New Beginnings is structured, supportive, and designed to reduce fear.</p>
+      <ol class="steps">
+        {process.map((s, i) => (<li><span class="num tabular">{i + 1}</span><div><h3>{s.t}</h3><p>{s.d}</p></div></li>))}
+      </ol>
+
+      <h2 style="margin-top:3rem">How long does detox last?</h2>
+      <p>The length of detox varies based on the substance and individual history. Our medical team creates an individualized plan so families always know what to expect.</p>
+      <div class="feature-grid">
+        {durations.map((d) => (<div class="feature"><h3>{d.t}</h3><p>{d.d}</p></div>))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container prose">
+      <h2>Optional wellness supports during detox</h2>
+      <p>While medical care is always the foundation, clients may choose optional services that support overall well-being: nutrition counseling with a registered dietitian, mindfulness and meditation practices, and Ayurveda-inspired wellness practices. These supports are optional and designed to make detox more holistic and restorative.</p>
+      <p><a href={url('/programs/residential/')}>See what comes next: residential rehab →</a></p>
+    </div>
+  </section>
+
+  <Faq items={faqs} title="FAQs about medical detox" />
+  <CtaBand title="Begin detox safely today" text="Detox is the first step — but it should never be faced alone. Confidential insurance verification and a 24/7 admissions team." />
+
+  <style>
+    .steps { list-style: none; padding: 0; display: grid; gap: 1rem; margin-top: 1.25rem; }
+    .steps li { display: grid; grid-template-columns: 2.75rem 1fr; gap: 1rem; align-items: start; }
+    .steps .num { font-family: "Fraunces", serif; font-size: 1.1rem; font-weight: 600; color: var(--accent); border: 1px solid var(--hair-strong); border-radius: 50%; width: 2.75rem; height: 2.75rem; display: grid; place-items: center; }
+    .steps h3 { font-family: "Mulish", sans-serif; font-size: 1.05rem; font-weight: 700; margin-bottom: .1rem; }
+    .steps p { color: var(--text-soft); margin: 0; }
+  </style>
 </Base>

@@ -1,0 +1,17 @@
+---
+import { url } from '../lib/url';
+interface Props { title?: string; text?: string; }
+const { title = 'Ready when you are.', text = 'Confidential help, most major insurance accepted. Talk to our admissions team today.' } = Astro.props;
+---
+<section class="cta-band">
+  <div class="container inner">
+    <div class="stack">
+      <h2>{title}</h2>
+      <p>{text}</p>
+    </div>
+    <div style="display:flex;gap:.6rem;flex-wrap:wrap">
+      <a href="tel:+17607623605" class="btn btn-onband">Call (760) 762-3605</a>
+      <a href={url('/verify-insurance/')} class="btn btn-ghost-onband">Verify your insurance</a>
+    </div>
+  </div>
+</section>

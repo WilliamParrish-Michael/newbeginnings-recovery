@@ -1,15 +1,38 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { url } from '../../lib/url';
+import PageHero from '../../components/PageHero.astro';
+import CtaBand from '../../components/CtaBand.astro';
+import Faq from '../../components/Faq.astro';
+
+const faqs = [
+  { q: 'How do I know if I need alcohol detox?', a: 'You may need alcohol detox if you experience withdrawal symptoms when you stop drinking — shaking, anxiety, sweating, nausea, headaches, or trouble sleeping. People who drink heavily or regularly can benefit from a structured detox program where they can safely stabilize before continuing treatment.' },
+  { q: 'How long does alcohol detox usually take?', a: 'Timelines vary. Many people begin experiencing withdrawal within several hours of their last drink. Symptoms often peak in the first few days and improve over about five to seven days, though some symptoms can linger longer.' },
+  { q: 'Is medical supervision important during alcohol detox?', a: 'Yes. Alcohol withdrawal can lead to serious complications, especially after long-term heavy drinking. Medical supervision helps ensure safety by monitoring symptoms and providing support throughout withdrawal.' },
+  { q: 'What happens after alcohol detox?', a: 'Detox is typically the first step. Afterward, many people transition into residential rehab, outpatient programs, counseling, or therapy that address the underlying causes of alcohol use and support long-term sobriety.' },
+  { q: 'Do you accept insurance for detox?', a: 'Many major insurance plans are accepted, and our admissions team can verify your benefits to help you.' },
+];
 ---
-<Base title="Alcohol Detox — New Beginnings Recovery" description="Evidence-based alcohol detox in the Coachella Valley.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Alcohol Detox</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Alcohol Detox in the Coachella Valley — New Beginnings Recovery" description="Safe, medically supervised alcohol detox in Rancho Mirage and the Coachella Valley — 24/7 care through withdrawal, minutes from Palm Springs.">
+  <PageHero eyebrow="Alcohol Detox" title="Alcohol detox in the Coachella Valley" lede="Alcohol withdrawal can range from uncomfortable to dangerous. We help individuals begin recovery with safe, supportive detox — cared for 24/7 by licensed medical professionals." />
+
+  <section class="section">
+    <div class="container prose">
+      <h2>What is alcohol detox?</h2>
+      <p>Alcohol detox is the process of allowing the body to safely eliminate alcohol while managing withdrawal symptoms. When someone becomes physically dependent on alcohol, the body adjusts to its presence; when drinking suddenly stops, the nervous system can become overactive, leading to withdrawal. Detox focuses on helping individuals safely stabilize while preparing them for the next stage of treatment.</p>
+
+      <h2>How alcohol detox helps</h2>
+      <ul>
+        <li><strong>Medical monitoring</strong> — supervision during withdrawal helps ensure safety and allows symptoms to be addressed quickly.</li>
+        <li><strong>Supportive care</strong> — compassionate encouragement helps individuals stay comfortable and supported.</li>
+        <li><strong>Stabilization</strong> — the goal is to help individuals safely move through withdrawal so they can begin ongoing treatment.</li>
+        <li><strong>Transition to treatment</strong> — afterward, individuals are better prepared to continue recovery through counseling, therapy, and relapse-prevention planning.</li>
+      </ul>
+
+      <h2>Alcohol detox and ongoing recovery</h2>
+      <p>Detox alone does not treat the underlying causes of addiction. While it helps the body stabilize, long-term recovery often requires continued support such as therapy, counseling, and structured treatment. At New Beginnings, individuals can transition from alcohol detox directly into residential care.</p>
     </div>
-  </div></section>
+  </section>
+
+  <Faq items={faqs} title="FAQs about alcohol detox" />
+  <CtaBand title="Begin detox safely today" text="Detox is the first step — but it should never be faced alone. Confidential insurance verification and a 24/7 admissions team." />
 </Base>

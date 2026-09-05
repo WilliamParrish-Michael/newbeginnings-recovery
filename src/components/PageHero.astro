@@ -1,0 +1,19 @@
+---
+interface Props { eyebrow?: string; title: string; lede?: string; }
+const { eyebrow = 'New Beginnings Recovery', title, lede } = Astro.props;
+---
+<section class="page-hero">
+  <div class="container stack">
+    <span class="eyebrow">{eyebrow}</span>
+    <h1>{title}</h1>
+    {lede && <p class="lede">{lede}</p>}
+  </div>
+</section>
+<style>
+  .page-hero { background:
+    radial-gradient(90% 120% at 92% -20%, var(--gold-100) 0%, transparent 45%),
+    linear-gradient(180deg, var(--surface-alt) 0%, var(--bg) 100%);
+    border-bottom: 1px solid var(--hair); padding-block: clamp(2.75rem, 6vw, 4.25rem); }
+  .page-hero h1 { font-size: clamp(2rem, 1.4rem + 2.6vw, 3.1rem); font-weight: 600; letter-spacing: -.015em; }
+  .page-hero .lede { margin-top: .25rem; }
+</style>

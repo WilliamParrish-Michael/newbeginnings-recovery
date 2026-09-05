@@ -125,6 +125,32 @@ img { max-width: 100%; height: auto; display: block; }
 .skip-link { position: absolute; left: 1rem; top: -3rem; z-index: 100; background: var(--surface); color: var(--accent-ink); padding: .6rem 1rem; border-radius: var(--r-sm); box-shadow: var(--shadow-md); transition: top .15s ease; }
 .skip-link:focus { top: 1rem; }
 
+/* ---------- Prose (content + legal pages) ---------- */
+.prose { max-width: 44rem; }
+.prose > * + * { margin-top: 1.1rem; }
+.prose h2 { font-size: 1.6rem; margin-top: 2.5rem; }
+.prose h3 { font-size: 1.2rem; margin-top: 1.75rem; color: var(--accent-ink); }
+.prose p, .prose li { color: var(--text-soft); }
+.prose a { color: var(--accent-ink); text-decoration: underline; }
+.prose ul, .prose ol { padding-left: 1.25rem; display: grid; gap: .5rem; }
+.prose strong { color: var(--text); }
+.prose .updated { font-family: "Mulish", sans-serif; font-size: .85rem; color: var(--text-muted); }
+.prose .callout { background: var(--accent-soft); border: 1px solid color-mix(in srgb, var(--accent) 25%, transparent); border-radius: var(--r-md); padding: 1rem 1.25rem; }
+.prose .callout p { color: var(--text); margin: 0; }
+
+/* two-column feature list for program/wellness pages */
+.feature-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin-top: 1.5rem; }
+.feature { background: var(--surface); border: 1px solid var(--hair); border-radius: var(--r-md); padding: 1.1rem 1.25rem; }
+.feature h3 { font-family: "Mulish", sans-serif; font-size: 1rem; font-weight: 700; color: var(--accent-ink); margin-bottom: .3rem; }
+.feature p { color: var(--text-soft); font-size: .93rem; margin: 0; }
+@media (max-width: 40rem) { .feature-grid { grid-template-columns: 1fr; } }
+
+/* CTA band reused across interior pages */
+.cta-band { background: var(--band); color: var(--on-band); margin-top: 3rem; }
+.cta-band .inner { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap; padding-block: clamp(2rem, 5vw, 3rem); }
+.cta-band h2 { color: #fff; font-size: clamp(1.4rem, 1.1rem + 1.2vw, 2rem); }
+.cta-band p { color: var(--on-band-soft); margin-top: .35rem; max-width: 46ch; }
+
 /* ---------- Utilities ---------- */
 .visually-hidden { position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
 .tabular { font-variant-numeric: tabular-nums; }

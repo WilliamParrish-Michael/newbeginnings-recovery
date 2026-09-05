@@ -1,15 +1,43 @@
 ---
 import Base from '../layouts/Base.astro';
-import { url } from '../lib/url';
+import PageHero from '../components/PageHero.astro';
 ---
-<Base title="Accessibility — New Beginnings Recovery" description="Our commitment to an accessible website, conformance target, and how to reach us.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Accessibility</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base
+  title="Accessibility — New Beginnings Recovery"
+  description="Our commitment to an accessible website, our conformance target, known limitations, and how to reach us about accessibility."
+>
+  <PageHero
+    eyebrow="Accessibility Statement"
+    title="Everyone deserves a clear path to help."
+    lede="We want this website to work for everyone, including people who use assistive technology."
+  />
+  <section class="section">
+    <div class="container prose">
+      <p class="updated">Last reviewed: {new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</p>
+
+      <h2>Our commitment</h2>
+      <p>New Beginnings Recovery is committed to making <strong>newbeginningsrecovery.com</strong> accessible to the widest possible audience, regardless of ability or technology. We are actively working to increase the accessibility and usability of our website.</p>
+
+      <h2>Conformance target</h2>
+      <p>We aim to conform to the <strong>Web Content Accessibility Guidelines (WCAG) 2.2, Level AA</strong>, the standard referenced by the Americans with Disabilities Act and adopted by the U.S. Department of Justice’s web accessibility guidance. These guidelines explain how to make web content more accessible for people with a wide range of disabilities, including visual, auditory, physical, speech, cognitive, and neurological conditions.</p>
+
+      <h2>What we do</h2>
+      <ul>
+        <li>Provide text alternatives for meaningful images.</li>
+        <li>Support keyboard navigation with a visible focus indicator and a “skip to main content” link.</li>
+        <li>Maintain sufficient color contrast for text and interface elements.</li>
+        <li>Use clear headings, labels, and landmarks so pages are easy to navigate with a screen reader.</li>
+        <li>Respect “reduce motion” system settings.</li>
+      </ul>
+      <p>We do not use an accessibility “overlay” widget. Overlays do not reliably fix accessibility problems, so we build accessibility into the site itself.</p>
+
+      <h2>Known limitations</h2>
+      <p>This site is being actively rebuilt, and some pages may not yet fully meet our target. We are prioritizing fixes and welcome your feedback. If you encounter a barrier, please tell us — we will work to provide the information or service you need through an accessible alternative.</p>
+
+      <h2>Contact us about accessibility</h2>
+      <div class="callout">
+        <p>If any part of this website is difficult to use, call us at <a href="tel:+17607623605">(760) 762-3605</a>. Please describe the problem, the page, and the assistive technology you use so we can help and improve.</p>
+      </div>
     </div>
-  </div></section>
+  </section>
 </Base>

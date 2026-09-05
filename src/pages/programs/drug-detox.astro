@@ -1,15 +1,54 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { url } from '../../lib/url';
+import PageHero from '../../components/PageHero.astro';
+import CtaBand from '../../components/CtaBand.astro';
+import Faq from '../../components/Faq.astro';
+
+const substances = ['Opioids (heroin, fentanyl, prescription pain medications)', 'Methamphetamine', 'Cocaine and crack cocaine', 'Benzodiazepines (such as Xanax or Valium)', 'Prescription drug misuse', 'Polysubstance use'];
+const resources = [
+  { t: 'SAMHSA — Detox & Treatment Information', href: 'https://www.samhsa.gov/' },
+  { t: 'CDC — Alcohol & Withdrawal Data', href: 'https://www.cdc.gov/alcohol/' },
+  { t: 'NIDA — Withdrawal & Treatment Research', href: 'https://nida.nih.gov/' },
+  { t: 'NIAAA — Alcohol Facts & Statistics', href: 'https://www.niaaa.nih.gov/' },
+];
+const faqs = [
+  { q: 'How do I know if I need drug detox?', a: 'You may need drug detox if you experience withdrawal symptoms when you stop using or try to cut back — nausea, sweating, anxiety, irritability, muscle aches, insomnia, or strong cravings. Regular or heavy use can benefit from detox support to safely stabilize before treatment.' },
+  { q: 'What are common drug withdrawal symptoms?', a: 'They vary by substance and may include nausea, fatigue, anxiety, sweating, tremors, mood changes, sleep disturbances, and intense cravings. Some withdrawal can be severe, which is why a supervised environment is often recommended.' },
+  { q: 'Is drug detox dangerous without supervision?', a: 'Detoxing from certain substances without supervision can be risky. Opioids, benzodiazepines, or alcohol used alongside other substances can cause significant withdrawal. A structured environment helps ensure safety and support.' },
+  { q: 'Can people detox from multiple substances at once?', a: 'Yes. Many people seeking treatment have used more than one substance (polysubstance use). Detox programs can monitor and manage withdrawal across multiple substances.' },
+  { q: 'What happens after drug detox?', a: 'Detox is usually the first step. Afterward, many people continue through residential rehab, outpatient programs, therapy, or counseling that address the underlying causes of addiction.' },
+];
 ---
-<Base title="Drug Detox — New Beginnings Recovery" description="Medically supervised drug detox in the Coachella Valley.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Drug Detox</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Drug Detox in the Coachella Valley — New Beginnings Recovery" description="Compassionate, medically supervised drug detox in Rancho Mirage and the Coachella Valley for opioids, stimulants, benzodiazepines, and polysubstance use.">
+  <PageHero eyebrow="Drug Detox" title="Drug detox in the Coachella Valley" lede="When use stops after prolonged or heavy use, withdrawal can be uncomfortable or dangerous. We provide compassionate support as individuals safely begin recovery." />
+
+  <section class="section">
+    <div class="container prose">
+      <h2>What is drug detox?</h2>
+      <p>Drug detox is the process of clearing drugs from the body while managing withdrawal symptoms in a safe, supportive environment. When someone develops a physical dependence, the body adapts to the drug being present; when use stops, withdrawal occurs as the body works to regain balance. Detox focuses on stabilization and safety while preparing individuals for ongoing treatment.</p>
+
+      <h2>Substances that may require detox</h2>
+      <ul>{substances.map((s) => (<li>{s}</li>))}</ul>
+      <p>Each substance can produce different withdrawal symptoms, which is why professional detox support helps individuals safely manage the process.</p>
+
+      <h2>How drug detox helps</h2>
+      <ul>
+        <li><strong>Monitoring and stabilization</strong> — support during withdrawal helps individuals remain safe as their bodies adjust.</li>
+        <li><strong>Symptom management</strong> — care focuses on keeping individuals as comfortable as possible while symptoms pass.</li>
+        <li><strong>Emotional support</strong> — compassionate support helps individuals stay motivated through a challenging process.</li>
+        <li><strong>Transition to treatment</strong> — afterward, individuals are better prepared to continue recovery through therapy and structured care.</li>
+      </ul>
     </div>
-  </div></section>
+  </section>
+
+  <Faq items={faqs} title="FAQs about drug detox" />
+
+  <section class="section" style="background:var(--surface-alt)">
+    <div class="container prose">
+      <h2>Trusted resources</h2>
+      <ul>{resources.map((r) => (<li><a href={r.href} rel="noopener noreferrer nofollow" target="_blank">{r.t}</a></li>))}</ul>
+    </div>
+  </section>
+
+  <CtaBand title="Begin detox safely today" text="Detox is the first step — but it should never be faced alone. Confidential insurance verification and a 24/7 admissions team." />
 </Base>

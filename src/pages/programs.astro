@@ -1,15 +1,60 @@
 ---
 import Base from '../layouts/Base.astro';
+import PageHero from '../components/PageHero.astro';
+import CtaBand from '../components/CtaBand.astro';
+import Faq from '../components/Faq.astro';
 import { url } from '../lib/url';
+
+const programs = [
+  { t: 'Medical Detox', d: '24/7 supervision and licensed medical support to withdraw safely from alcohol, opioids, benzodiazepines, stimulants, and other substances — comfort-focused care in a private, serene setting.', href: '/programs/medical-detox/' },
+  { t: 'Residential Rehab', d: 'After detox, clients live on-site where therapy, wellness services, and daily structure build a strong foundation for long-term recovery.', href: '/programs/residential/' },
+  { t: 'Dual Diagnosis Support', d: 'Care that treats substance use and co-occurring mental health challenges — anxiety, depression, and unresolved trauma — together.', href: '/programs/dual-diagnosis/' },
+];
+const faqs = [
+  { q: 'What types of addiction treatment programs do you offer?', a: 'Medically supervised detox, residential treatment, dual diagnosis support, and personalized therapy plans.' },
+  { q: 'How do I know which program is right for me?', a: 'Our admissions specialists conduct confidential assessments to determine the appropriate level of care based on substance use history, medical needs, and treatment goals.' },
+  { q: 'Are your programs covered by insurance?', a: 'Many major insurance plans are accepted. Our team can help verify your coverage and explore payment options.' },
+  { q: 'What should I expect during treatment?', a: 'Structured therapy, medical care, wellness activities, and skill-building in a supportive environment designed to stabilize health and develop tools for long-term sobriety.' },
+];
 ---
-<Base title="Programs — New Beginnings Recovery" description="Detox, residential treatment, and dual-diagnosis care at New Beginnings Recovery.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Programs</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Addiction Treatment Programs — New Beginnings Recovery" description="Medically supervised detox, residential treatment, and dual-diagnosis support in Rancho Mirage, Palm Springs, and the Coachella Valley.">
+  <PageHero eyebrow="Our Programs" title="Addiction treatment in Rancho Mirage & Palm Springs" lede="Evidence-based, compassionate care for individuals and families across the Coachella Valley — from the first supervised days of detox through residential rehab." />
+
+  <section class="section">
+    <div class="container">
+      <div class="prose">
+        <h2>Comprehensive care, compassionate support</h2>
+        <p>At New Beginnings Recovery, we provide addiction treatment designed to support clients from the very beginning of their recovery journey forward — combining more than 20 years of healthcare experience with trusted medical expertise in a restorative environment.</p>
+      </div>
+      <div class="prog-grid" style="margin-top:2.5rem">
+        {programs.map((p) => (
+          <a class="prog card" href={url(p.href)}>
+            <h3>{p.t}</h3>
+            <p>{p.d}</p>
+            <span class="more">Learn more →</span>
+          </a>
+        ))}
+      </div>
     </div>
-  </div></section>
+  </section>
+
+  <section class="section" style="background:var(--surface-alt)">
+    <div class="container prose">
+      <h2>Serving the Coachella Valley</h2>
+      <p>New Beginnings is a trusted local option for safe, compassionate addiction treatment serving Rancho Mirage, Palm Springs, Cathedral City, Indio, and Riverside County. Our programs address alcohol, opioids, prescription medications, and multiple substances — always with dignity and respect.</p>
+    </div>
+  </section>
+
+  <Faq items={faqs} />
+  <CtaBand />
+
+  <style>
+    .prog-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.1rem; }
+    .prog { text-decoration: none; color: var(--text); display: flex; flex-direction: column; gap: .6rem; transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease; }
+    .prog:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); border-color: color-mix(in srgb, var(--accent) 40%, var(--hair)); }
+    .prog h3 { font-size: 1.28rem; color: var(--accent-ink); }
+    .prog p { color: var(--text-soft); font-size: .96rem; flex: 1; }
+    .prog .more { font-weight: 700; color: var(--accent); font-size: .9rem; }
+    @media (max-width: 60rem) { .prog-grid { grid-template-columns: 1fr; } }
+  </style>
 </Base>

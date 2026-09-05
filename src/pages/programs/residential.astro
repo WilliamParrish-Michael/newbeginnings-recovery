@@ -1,15 +1,48 @@
 ---
 import Base from '../../layouts/Base.astro';
+import PageHero from '../../components/PageHero.astro';
+import CtaBand from '../../components/CtaBand.astro';
+import Faq from '../../components/Faq.astro';
 import { url } from '../../lib/url';
+
+const therapies = ['Individual counseling', 'Group therapy', 'Family therapy', 'Trauma-informed care', 'Relapse-prevention training'];
+const day = [
+  { t: 'Morning', d: 'Individual or group therapy, guided reflection, or wellness activities.' },
+  { t: 'Afternoon', d: 'Skill-building, relapse-prevention groups, or family sessions.' },
+  { t: 'Evening', d: 'Community meals, mindfulness practices, or quiet time to recharge.' },
+];
+const faqs = [
+  { q: 'What happens in residential rehab?', a: 'Clients live on-site and participate in a structured schedule of therapy, wellness, and recovery activities. Meals, housing, and 24/7 support are included.' },
+  { q: 'How long is inpatient rehab?', a: 'Most programs last 30–90 days, depending on personal needs, progress, and goals. Many clients begin with 30 days; others benefit from extended 60- or 90-day programs.' },
+  { q: 'Is residential rehab effective?', a: 'Research shows inpatient rehab can significantly improve recovery outcomes compared to outpatient care alone, especially for those with severe addictions.' },
+  { q: 'What should I bring to rehab?', a: 'Comfortable clothing, personal hygiene items, and any necessary medications. Our admissions team provides a full packing list.' },
+  { q: 'Is residential rehab covered by insurance?', a: 'Many major insurance plans are accepted. Our admissions team can verify benefits and walk you through coverage options.' },
+];
 ---
-<Base title="Residential Treatment — New Beginnings Recovery" description="Residential addiction treatment in Rancho Mirage, minutes from Palm Springs.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Residential Treatment</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Residential Rehab in Palm Springs & Rancho Mirage — New Beginnings Recovery" description="Structured, compassionate residential addiction treatment in Rancho Mirage — therapy, wellness, and 24/7 support in a private desert setting minutes from Palm Springs.">
+  <PageHero eyebrow="Residential Rehab" title="A safe place for healing" lede="Residential rehab is more than a program — it’s a chance to step away from the chaos of addiction and begin again in a safe, structured, and compassionate environment." />
+
+  <section class="section">
+    <div class="container prose">
+      <h2>What is residential rehab?</h2>
+      <p>Residential (inpatient) rehab is a structured program where clients live on-site during recovery. It provides 24/7 support and supervision, a safe space away from triggers and daily stressors, a structured daily routine that builds stability, and access to therapies, wellness services, and community support.</p>
+
+      <h2>A day in residential rehab</h2>
+      <div class="feature-grid" style="grid-template-columns:repeat(3,1fr)">
+        {day.map((d) => (<div class="feature"><h3>{d.t}</h3><p>{d.d}</p></div>))}
+      </div>
+
+      <h2>Therapies offered</h2>
+      <ul>{therapies.map((t) => (<li>{t}</li>))}</ul>
+
+      <h2>Treating mental health alongside addiction</h2>
+      <p>Addiction rarely exists in isolation. Many clients also experience anxiety, depression, or the weight of unresolved trauma. Our program treats both substance use and co-occurring mental health challenges together. <a href={url('/programs/dual-diagnosis/')}>Learn about dual-diagnosis support →</a></p>
+
+      <h2>The Rancho Mirage environment</h2>
+      <p>Our private property offers a sparkling pool for rest and reflection, private courtyards framed by desert and mountain views, and warm, modern interiors that feel safe and restorative. The setting reminds clients daily: recovery is not punishment — it is a return to life.</p>
     </div>
-  </div></section>
+  </section>
+
+  <Faq items={faqs} title="FAQs about residential rehab" />
+  <CtaBand title="Begin residential rehab today" text="Our admissions team is available 24/7, with confidential insurance verification and flexible payment options." />
 </Base>

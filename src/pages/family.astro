@@ -1,15 +1,39 @@
 ---
 import Base from '../layouts/Base.astro';
-import { url } from '../lib/url';
+import PageHero from '../components/PageHero.astro';
+import CtaBand from '../components/CtaBand.astro';
+import Faq from '../components/Faq.astro';
+
+const faqs = [
+  { q: 'What is family support in addiction recovery?', a: 'Education, therapy, and communication tools that help loved ones understand addiction, heal relationships, and strengthen the recovery process for the whole family.' },
+  { q: 'Why is family involvement important?', a: 'Involving family can improve outcomes by reinforcing healthy boundaries, increasing emotional support, and helping loved ones participate in aftercare planning.' },
+  { q: 'Do you offer family therapy?', a: 'Yes — we provide family therapy sessions to help family members learn communication skills, rebuild trust, and support their loved one’s recovery.' },
+  { q: 'How can families stay involved during treatment?', a: 'Through scheduled sessions, phone or video check-ins, educational resources, and structured therapy designed to include loved ones — within healthcare privacy boundaries.' },
+];
 ---
-<Base title="For Families — New Beginnings Recovery" description="Support and resources for the families of people in treatment at New Beginnings Recovery.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>For Families</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Family Support in Addiction Recovery — New Beginnings Recovery" description="Guidance, education, family therapy, and communication for the families of people in addiction treatment — within HIPAA privacy protections — in Rancho Mirage.">
+  <PageHero eyebrow="For Families" title="You don’t have to walk this alone" lede="Families often carry fear, confusion, and heartbreak. At New Beginnings Recovery, we believe families deserve care, too — with guidance, resources, and communication wherever possible." />
+
+  <section class="section">
+    <div class="container prose">
+      <h2>Respecting privacy, supporting families</h2>
+      <p>Addiction treatment takes place in a healthcare setting, which means we are guided by confidentiality laws such as HIPAA that protect every client’s privacy and dignity.</p>
+      <ul>
+        <li>If your loved one <strong>signs a release of information</strong>, our staff can share updates, answer questions, and involve you directly in their care.</li>
+        <li>If your loved one <strong>chooses not to sign a release</strong>, we cannot share details — but that does not mean you are left out. We still provide education, resources, and emotional support.</li>
+      </ul>
+
+      <h2>Education & resources</h2>
+      <p>We help families understand the disease model of addiction, the withdrawal and detox process, the structure of residential rehab, and what to expect during early recovery — so you feel informed and empowered.</p>
+
+      <h2>Family therapy & groups</h2>
+      <p>When clinically appropriate, we offer family therapy sessions to rebuild trust, improve communication, establish healthy boundaries, and provide space for honest, guided conversations. We may also connect families to support groups for ongoing encouragement.</p>
+
+      <h2>Guidance for your own healing</h2>
+      <p>Families often feel pressure to fix their loved one — but recovery is their choice. What you can do is care for yourself: understand addiction as an illness, manage stress with healthy coping strategies, encourage recovery without enabling, and build resilience. Your strength supports your loved one.</p>
     </div>
-  </div></section>
+  </section>
+
+  <Faq items={faqs} title="FAQs about family support" />
+  <CtaBand title="Begin healing together" text="Recovery is not just for the individual — it’s for the family, too. Talk to our admissions team about how you can be involved." />
 </Base>
