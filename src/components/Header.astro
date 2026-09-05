@@ -1,0 +1,87 @@
+---
+const nav = [
+  { label: 'About', href: '/about/' },
+  { label: 'Programs', href: '/programs/' },
+  { label: 'Wellness', href: '/wellness/' },
+  { label: 'Family', href: '/family/' },
+  { label: 'Resources', href: '/resources/' },
+];
+const phone = '(760) 762-3605';
+const tel = 'tel:+17607623605';
+---
+<header class="site-header">
+  <div class="container bar">
+    <a href="/" class="brand" aria-label="New Beginnings Recovery — home">
+      <svg class="mark" viewBox="0 0 40 40" width="40" height="40" aria-hidden="true" focusable="false">
+        <circle cx="20" cy="22" r="7" fill="var(--gold-500)"></circle>
+        <g stroke="var(--gold-500)" stroke-width="2.2" stroke-linecap="round">
+          <line x1="20" y1="6" x2="20" y2="11"></line>
+          <line x1="7" y1="22" x2="12" y2="22"></line>
+          <line x1="28" y1="22" x2="33" y2="22"></line>
+          <line x1="10.5" y1="12.5" x2="14" y2="16"></line>
+          <line x1="29.5" y1="12.5" x2="26" y2="16"></line>
+        </g>
+        <path d="M4 30 h32" stroke="var(--indigo-700)" stroke-width="2.4" stroke-linecap="round"></path>
+      </svg>
+      <span class="wordmark"><b>New Beginnings</b><span>Recovery</span></span>
+    </a>
+
+    <nav class="primary-nav" aria-label="Primary">
+      <button class="nav-toggle" aria-expanded="false" aria-controls="nav-list">
+        <span class="visually-hidden">Menu</span>
+        <span class="burger" aria-hidden="true"></span>
+      </button>
+      <ul id="nav-list">
+        {nav.map((n) => (<li><a href={n.href}>{n.label}</a></li>))}
+      </ul>
+    </nav>
+
+    <div class="header-cta">
+      <a href="/contact/" class="btn btn-outline">Contact Us</a>
+      <a href={tel} class="btn btn-cta" aria-label={`Call New Beginnings Recovery at ${phone}`}>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M5 4h4l2 5-3 2a12 12 0 006 6l2-3 5 2v4a2 2 0 01-2 2A17 17 0 013 6a2 2 0 012-2z"/></svg>
+        {phone}
+      </a>
+    </div>
+  </div>
+</header>
+
+<style>
+  .site-header { position: sticky; top: 0; z-index: 40; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: saturate(1.4) blur(8px); border-bottom: 1px solid var(--hair); }
+  .bar { display: flex; align-items: center; gap: 1.25rem; min-height: 4.75rem; }
+  .brand { display: inline-flex; align-items: center; gap: .65rem; text-decoration: none; color: var(--text); }
+  .mark { flex: none; }
+  .wordmark { display: flex; flex-direction: column; line-height: 1; }
+  .wordmark b { font-family: "Fraunces", serif; font-weight: 600; font-size: 1.22rem; color: var(--indigo-700); letter-spacing: -.01em; }
+  .wordmark span { font-size: .64rem; letter-spacing: .26em; text-transform: uppercase; color: var(--text-muted); margin-top: 2px; }
+
+  .primary-nav { margin-inline-start: auto; }
+  .primary-nav ul { list-style: none; display: flex; gap: 1.6rem; margin: 0; padding: 0; }
+  .primary-nav a { text-decoration: none; color: var(--text-soft); font-weight: 600; font-size: .96rem; padding: .35rem 0; border-bottom: 2px solid transparent; }
+  .primary-nav a:hover { color: var(--accent-ink); border-bottom-color: var(--accent); }
+  .header-cta { display: flex; align-items: center; gap: .6rem; }
+  .nav-toggle { display: none; }
+
+  @media (max-width: 62rem) {
+    .primary-nav { margin-inline-start: auto; }
+    .nav-toggle { display: inline-grid; place-items: center; width: 2.75rem; height: 2.75rem; border: 1px solid var(--hair); background: var(--surface); border-radius: var(--r-sm); }
+    .burger, .burger::before, .burger::after { content: ""; display: block; width: 20px; height: 2px; background: var(--text); border-radius: 2px; position: relative; }
+    .burger::before { position: absolute; top: -6px; } .burger::after { position: absolute; top: 6px; }
+    #nav-list { position: absolute; left: 0; right: 0; top: 100%; background: var(--surface); border-bottom: 1px solid var(--hair); flex-direction: column; gap: 0; padding: .5rem 1.5rem 1rem; box-shadow: var(--shadow-md); display: none; }
+    #nav-list[data-open] { display: flex; }
+    .primary-nav li { border-top: 1px solid var(--hair); }
+    .primary-nav li a { display: block; padding: .85rem 0; }
+    .header-cta .btn-outline { display: none; }
+  }
+  @media (max-width: 30rem) { .header-cta .btn-cta span, .wordmark span { } }
+</style>
+
+<script>
+  const toggle = document.querySelector('.nav-toggle');
+  const list = document.getElementById('nav-list');
+  toggle?.addEventListener('click', () => {
+    const open = list?.hasAttribute('data-open');
+    if (open) list?.removeAttribute('data-open'); else list?.setAttribute('data-open', '');
+    toggle.setAttribute('aria-expanded', String(!open));
+  });
+</script>

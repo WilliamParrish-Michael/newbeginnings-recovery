@@ -1,0 +1,122 @@
+---
+import Base from '../layouts/Base.astro';
+
+const programs = [
+  { t: 'Medical Detox', d: 'Evidence-based, medically supervised detox for alcohol, opioids, and other drugs — safe, monitored, and as comfortable as withdrawal can be.', href: '/programs/medical-detox/' },
+  { t: 'Residential Treatment', d: 'Residential care in Rancho Mirage, minutes from Palm Springs, in a calm setting that doesn’t feel like an institution.', href: '/programs/residential/' },
+  { t: 'Dual Diagnosis', d: 'Care that treats addiction and mental health together, because lasting recovery rarely comes from treating one alone.', href: '/programs/dual-diagnosis/' },
+  { t: 'Holistic Wellness', d: 'Nutrition counseling, Ayurveda, and whole-person wellness that rebuild the body and mind alongside clinical treatment.', href: '/wellness/' },
+];
+---
+<Base
+  title="New Beginnings Recovery"
+  description="Private, medically supervised detox and residential addiction treatment in Rancho Mirage, California — dual-diagnosis care and holistic wellness in the Coachella Valley."
+>
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container hero-grid">
+      <div class="hero-copy stack">
+        <span class="eyebrow">Rancho Mirage · Coachella Valley</span>
+        <h1>Private addiction treatment, set in the calm of the desert.</h1>
+        <p class="lede">New Beginnings Recovery is a private detox and residential treatment center in Rancho Mirage, California — medically supervised care, dual-diagnosis expertise, and holistic wellness, all in one place.</p>
+        <div class="hero-cta">
+          <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
+          <a href="/verify-insurance/" class="btn btn-outline">Verify your insurance</a>
+        </div>
+        <p class="trust">Confidential · Most major insurance accepted · Admissions available now</p>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="sun"></div>
+        <div class="ridge"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROGRAMS -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head stack">
+        <span class="eyebrow">What we treat</span>
+        <h2>One place for the whole arc of recovery.</h2>
+        <p class="lede">From the first supervised days of detox through residential care and the wellness that keeps recovery going.</p>
+      </div>
+      <div class="prog-grid">
+        {programs.map((p) => (
+          <a class="prog card" href={p.href}>
+            <h3>{p.t}</h3>
+            <p>{p.d}</p>
+            <span class="more">Learn more →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- PLACE -->
+  <section class="section place">
+    <div class="container place-grid">
+      <div class="stack">
+        <span class="eyebrow">How we fit into the Coachella Valley</span>
+        <h2>Close enough to reach. Far enough to heal.</h2>
+        <p class="measure">Rancho Mirage sits minutes from Palm Springs and the wider Coachella Valley — accessible for families, yet quiet and private. Our residential setting is intentionally unlike a hospital: warm, calm, and built for the work of getting well.</p>
+        <p class="measure">Substance use and alcohol dependence remain among the most pressing health challenges in California. We meet people where they are, with clinical care that’s honest about the road and steady all the way through it.</p>
+      </div>
+      <ul class="stats">
+        <li><span class="n tabular">24/7</span><span class="l">Medically supervised detox</span></li>
+        <li><span class="n tabular">1:1</span><span class="l">Dual-diagnosis clinical care</span></li>
+        <li><span class="n">Whole-person</span><span class="l">Nutrition &amp; holistic wellness</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- INSURANCE BAND -->
+  <section class="band-cta">
+    <div class="container band-inner">
+      <div class="stack">
+        <h2>Find out if your insurance covers treatment.</h2>
+        <p>A quick, confidential insurance check — no obligation, and we never share your information.</p>
+      </div>
+      <a href="/verify-insurance/" class="btn btn-onband">Verify your insurance</a>
+    </div>
+  </section>
+
+  <style>
+    .hero { background:
+      radial-gradient(120% 90% at 85% -10%, var(--gold-100) 0%, transparent 55%),
+      linear-gradient(180deg, var(--surface-alt) 0%, var(--bg) 100%);
+      border-bottom: 1px solid var(--hair); overflow: clip; }
+    .hero-grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: 2rem; align-items: center; min-height: min(78vh, 640px); padding-block: clamp(2.5rem, 6vw, 4.5rem); }
+    .hero h1 { font-size: clamp(2.4rem, 1.6rem + 3.6vw, 4rem); font-weight: 600; letter-spacing: -.015em; }
+    .hero-cta { display: flex; gap: .75rem; flex-wrap: wrap; margin-top: .5rem; }
+    .trust { font-size: .9rem; color: var(--text-muted); font-weight: 600; }
+    .hero-art { position: relative; height: 100%; min-height: 300px; }
+    .hero-art .sun { position: absolute; right: 8%; top: 12%; width: 190px; height: 190px; border-radius: 50%; background: radial-gradient(circle at 40% 35%, var(--gold-500), var(--gold-600)); box-shadow: 0 0 90px -10px var(--gold-500); }
+    .hero-art .ridge { position: absolute; inset-inline: -5%; bottom: 6%; height: 46%; background: linear-gradient(180deg, color-mix(in srgb, var(--indigo-700) 85%, #000) 0%, var(--indigo-900) 100%); clip-path: polygon(0 55%, 18% 40%, 34% 52%, 52% 30%, 70% 48%, 86% 34%, 100% 50%, 100% 100%, 0 100%); border-radius: 0 0 var(--r-lg) var(--r-lg); opacity: .9; }
+    @media (max-width: 52rem) { .hero-grid { grid-template-columns: 1fr; min-height: 0; } .hero-art { display: none; } }
+
+    .section-head { margin-bottom: 2.5rem; }
+    .section-head h2 { font-size: clamp(1.8rem, 1.3rem + 1.8vw, 2.6rem); }
+    .prog-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.1rem; }
+    .prog { text-decoration: none; color: var(--text); display: flex; flex-direction: column; gap: .6rem; transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease; }
+    .prog:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); border-color: color-mix(in srgb, var(--accent) 40%, var(--hair)); }
+    .prog h3 { font-size: 1.28rem; color: var(--accent-ink); }
+    .prog p { color: var(--text-soft); font-size: .96rem; flex: 1; }
+    .prog .more { font-weight: 700; color: var(--accent); font-size: .9rem; }
+    @media (max-width: 64rem) { .prog-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 34rem) { .prog-grid { grid-template-columns: 1fr; } }
+
+    .place { background: var(--surface-alt); }
+    .place-grid { display: grid; grid-template-columns: 1.3fr .7fr; gap: 3rem; align-items: center; }
+    .place h2 { font-size: clamp(1.8rem, 1.3rem + 1.8vw, 2.5rem); }
+    .stats { list-style: none; margin: 0; padding: 0; display: grid; gap: 1rem; }
+    .stats li { background: var(--surface); border: 1px solid var(--hair); border-left: 4px solid var(--gold-500); border-radius: var(--r-md); padding: 1rem 1.25rem; display: flex; flex-direction: column; }
+    .stats .n { font-family: "Fraunces", serif; font-size: 1.7rem; font-weight: 600; color: var(--accent-ink); line-height: 1; }
+    .stats .l { color: var(--text-muted); font-size: .9rem; margin-top: .3rem; }
+    @media (max-width: 52rem) { .place-grid { grid-template-columns: 1fr; gap: 2rem; } }
+
+    .band-cta { background: var(--band); color: var(--on-band); }
+    .band-inner { display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding-block: clamp(2.5rem, 6vw, 3.5rem); flex-wrap: wrap; }
+    .band-cta h2 { color: #fff; font-size: clamp(1.6rem, 1.2rem + 1.4vw, 2.2rem); }
+    .band-cta p { color: var(--on-band-soft); max-width: 44ch; margin-top: .5rem; }
+  </style>
+</Base>

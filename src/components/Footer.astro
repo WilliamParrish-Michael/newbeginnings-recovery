@@ -1,0 +1,80 @@
+---
+const cols = [
+  { h: 'Programs', links: [
+    { t: 'Medical Detox', href: '/programs/medical-detox/' },
+    { t: 'Alcohol Detox', href: '/programs/alcohol-detox/' },
+    { t: 'Drug Detox', href: '/programs/drug-detox/' },
+    { t: 'Residential Rehab', href: '/programs/residential/' },
+    { t: 'Dual Diagnosis', href: '/programs/dual-diagnosis/' },
+  ]},
+  { h: 'Explore', links: [
+    { t: 'About Us', href: '/about/' },
+    { t: 'Meet Our Team', href: '/about/team/' },
+    { t: 'Wellness Services', href: '/wellness/' },
+    { t: 'For Families', href: '/family/' },
+    { t: 'Resources', href: '/resources/' },
+  ]},
+];
+// Legal links — several of these fix audit findings (Terms, Accessibility,
+// Notice of Privacy Practices, Do Not Sell/Share, Consumer Health Data).
+const legal = [
+  { t: 'Privacy Policy', href: '/privacy-policy/' },
+  { t: 'Consumer Health Data Notice', href: '/consumer-health-data/' },
+  { t: 'Notice of Privacy Practices', href: '/notice-of-privacy-practices/' },
+  { t: 'Terms of Use', href: '/terms/' },
+  { t: 'Accessibility', href: '/accessibility/' },
+  { t: 'Do Not Sell or Share My Personal Information', href: '/privacy-choices/' },
+  { t: 'Limit the Use of My Sensitive Personal Information', href: '/privacy-choices/#sensitive' },
+];
+---
+<footer class="site-footer">
+  <div class="container top">
+    <div class="identity">
+      <span class="wordmark"><b>New Beginnings Recovery</b></span>
+      <address>
+        Rancho Mirage, California · Coachella Valley<br />
+        <a href="tel:+17607623605">(760) 762-3605</a>
+      </address>
+      <p class="lic">Licensed by the California Department of Health Care Services (DHCS).<br />
+        <span class="lic-num">License #: [add DHCS certification number]</span></p>
+      <p class="ls">Verified by LegitScript for addiction-treatment advertising.</p>
+    </div>
+    {cols.map((c) => (
+      <nav class="col" aria-label={c.h}>
+        <h2>{c.h}</h2>
+        <ul>{c.links.map((l) => (<li><a href={l.href}>{l.t}</a></li>))}</ul>
+      </nav>
+    ))}
+    <div class="col reach">
+      <h2>Get help now</h2>
+      <p class="measure">Confidential. Most major insurance accepted.</p>
+      <a href="/verify-insurance/" class="btn btn-onband">Verify Your Insurance</a>
+    </div>
+  </div>
+
+  <div class="container legal-bar">
+    <ul class="legal">{legal.map((l) => (<li><a href={l.href}>{l.t}</a></li>))}</ul>
+    <p class="copy">© {new Date().getFullYear()} New Beginnings Recovery. If you or someone you know is in crisis, call or text <a href="tel:988">988</a> (Suicide &amp; Crisis Lifeline).</p>
+  </div>
+</footer>
+
+<style>
+  .site-footer { background: var(--band); color: var(--on-band); margin-top: 2rem; }
+  .top { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1.2fr; gap: 2.5rem 2rem; padding-block: 3.5rem 2.5rem; }
+  .site-footer h2 { font-family: "Mulish", sans-serif; font-size: .8rem; letter-spacing: .14em; text-transform: uppercase; color: var(--on-band-soft); font-weight: 700; margin-bottom: 1rem; }
+  .site-footer a { color: var(--on-band); text-decoration: none; }
+  .site-footer a:hover { text-decoration: underline; }
+  .col ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .6rem; font-size: .95rem; }
+  .identity .wordmark b { font-family: "Fraunces", serif; font-size: 1.3rem; color: #fff; }
+  .identity address { font-style: normal; margin-top: .8rem; color: var(--on-band-soft); line-height: 1.7; }
+  .lic { font-size: .82rem; color: var(--on-band-soft); margin-top: 1rem; line-height: 1.5; }
+  .lic-num { opacity: .7; }
+  .ls { font-size: .82rem; color: var(--on-band-soft); margin-top: .5rem; }
+  .reach p { color: var(--on-band-soft); margin-bottom: 1rem; font-size: .95rem; }
+  .legal-bar { border-top: 1px solid color-mix(in srgb, var(--on-band) 18%, transparent); padding-block: 1.5rem 2.5rem; }
+  .legal { list-style: none; display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; margin: 0 0 1rem; padding: 0; font-size: .82rem; }
+  .legal a { color: var(--on-band-soft); }
+  .copy { font-size: .82rem; color: var(--on-band-soft); }
+  @media (max-width: 60rem) { .top { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 34rem) { .top { grid-template-columns: 1fr; } }
+</style>

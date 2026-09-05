@@ -1,0 +1,81 @@
+---
+// Consent manager. Non-essential tags (analytics/ads) load ONLY after opt-in and
+// NEVER on PHI pages. Honors Global Privacy Control as a binding opt-out. This is
+// the structural fix for the audit's #1 finding (tags-before-consent) and the
+// CPRA "Do Not Sell/Share" + GPC obligations.
+---
+<div id="consent" class="consent" hidden role="dialog" aria-modal="false" aria-labelledby="consent-title">
+  <div class="consent-inner">
+    <div class="consent-copy">
+      <p id="consent-title"><strong>Your privacy choices</strong></p>
+      <p>We use only essential cookies by default. With your permission we’d also use analytics to improve this site. We never place advertising or analytics tags on pages where you share health information. See our <a href="/privacy-policy/">Privacy Policy</a> and <a href="/privacy-choices/">Your Privacy Choices</a>.</p>
+      <p id="gpc-note" class="gpc-note" hidden>We detected a Global Privacy Control signal and have honored it as an opt-out.</p>
+    </div>
+    <div class="consent-actions">
+      <button type="button" class="btn btn-outline" data-consent="reject">Reject non-essential</button>
+      <button type="button" class="btn btn-cta" data-consent="accept">Accept analytics</button>
+    </div>
+  </div>
+</div>
+
+<style>
+  .consent { position: fixed; inset-inline: 1rem; bottom: 1rem; z-index: 60; background: var(--surface); border: 1px solid var(--hair); border-radius: var(--r-lg); box-shadow: var(--shadow-md); max-width: 46rem; margin-inline: auto; }
+  .consent-inner { padding: 1.25rem 1.4rem; display: grid; gap: 1rem; }
+  .consent-copy p { margin: 0; font-size: .92rem; color: var(--text-soft); }
+  .consent-copy p + p { margin-top: .5rem; }
+  #consent-title strong { font-family: "Fraunces", serif; font-size: 1.1rem; color: var(--text); }
+  .gpc-note { color: var(--accent-ink); font-weight: 600; }
+  .consent-actions { display: flex; gap: .6rem; flex-wrap: wrap; }
+  .consent-actions .btn { flex: 1 1 auto; justify-content: center; }
+  @media (min-width: 40rem) { .consent-inner { grid-template-columns: 1fr auto; align-items: center; } .consent-actions { flex-wrap: nowrap; } .consent-actions .btn { flex: 0 0 auto; } }
+</style>
+
+<script>
+  type Choice = 'accept' | 'reject';
+  const KEY = 'nbr-consent-v1';
+
+  // Consent Mode v2 defaults — everything denied until an explicit opt-in.
+  const w = window as any;
+  w.dataLayer = w.dataLayer || [];
+  function gtag(...args: any[]) { w.dataLayer.push(args); }
+  w.gtag = w.gtag || gtag;
+  gtag('consent', 'default', {
+    ad_storage: 'denied', analytics_storage: 'denied',
+    ad_user_data: 'denied', ad_personalization: 'denied',
+  });
+
+  const gpc = (navigator as any).globalPrivacyControl === true;
+
+  function apply(choice: Choice) {
+    const granted = choice === 'accept' && !gpc;
+    if (granted) {
+      gtag('consent', 'update', {
+        analytics_storage: 'granted',
+        // Advertising stays denied until the client enables ad tags with a DPA/BAA.
+      });
+      // Consented analytics tags would be loaded here (client GA4 id, added later).
+      w.dispatchEvent(new CustomEvent('nbr:consent', { detail: { analytics: true } }));
+    }
+    try { localStorage.setItem(KEY, JSON.stringify({ choice, gpc, t: Date.now() })); } catch {}
+  }
+
+  const banner = document.getElementById('consent')!;
+  const stored = (() => { try { return JSON.parse(localStorage.getItem(KEY) || 'null'); } catch { return null; } })();
+
+  if (gpc) {
+    // Binding opt-out: record rejection, surface the notice, don't nag.
+    apply('reject');
+    if (!stored) {
+      const note = document.getElementById('gpc-note'); if (note) note.hidden = false;
+      banner.hidden = false;
+    }
+  } else if (stored?.choice) {
+    apply(stored.choice);
+  } else {
+    banner.hidden = false;
+  }
+
+  banner.querySelectorAll<HTMLButtonElement>('[data-consent]').forEach((b) => {
+    b.addEventListener('click', () => { apply(b.dataset.consent as Choice); banner.hidden = true; });
+  });
+</script>
