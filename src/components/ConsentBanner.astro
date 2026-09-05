@@ -3,12 +3,13 @@
 // NEVER on PHI pages. Honors Global Privacy Control as a binding opt-out. This is
 // the structural fix for the audit's #1 finding (tags-before-consent) and the
 // CPRA "Do Not Sell/Share" + GPC obligations.
+import { url } from '../lib/url';
 ---
 <div id="consent" class="consent" hidden role="dialog" aria-modal="false" aria-labelledby="consent-title">
   <div class="consent-inner">
     <div class="consent-copy">
       <p id="consent-title"><strong>Your privacy choices</strong></p>
-      <p>We use only essential cookies by default. With your permission we’d also use analytics to improve this site. We never place advertising or analytics tags on pages where you share health information. See our <a href="/privacy-policy/">Privacy Policy</a> and <a href="/privacy-choices/">Your Privacy Choices</a>.</p>
+      <p>We use only essential cookies by default. With your permission we’d also use analytics to improve this site. We never place advertising or analytics tags on pages where you share health information. See our <a href={url('/privacy-policy/')}>Privacy Policy</a> and <a href={url('/privacy-choices/')}>Your Privacy Choices</a>.</p>
       <p id="gpc-note" class="gpc-note" hidden>We detected a Global Privacy Control signal and have honored it as an opt-out.</p>
     </div>
     <div class="consent-actions">

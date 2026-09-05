@@ -1,4 +1,5 @@
 ---
+import { url } from '../lib/url';
 const cols = [
   { h: 'Programs', links: [
     { t: 'Medical Detox', href: '/programs/medical-detox/' },
@@ -42,18 +43,18 @@ const legal = [
     {cols.map((c) => (
       <nav class="col" aria-label={c.h}>
         <h2>{c.h}</h2>
-        <ul>{c.links.map((l) => (<li><a href={l.href}>{l.t}</a></li>))}</ul>
+        <ul>{c.links.map((l) => (<li><a href={url(l.href)}>{l.t}</a></li>))}</ul>
       </nav>
     ))}
     <div class="col reach">
       <h2>Get help now</h2>
       <p class="measure">Confidential. Most major insurance accepted.</p>
-      <a href="/verify-insurance/" class="btn btn-onband">Verify Your Insurance</a>
+      <a href={url('/verify-insurance/')} class="btn btn-onband">Verify Your Insurance</a>
     </div>
   </div>
 
   <div class="container legal-bar">
-    <ul class="legal">{legal.map((l) => (<li><a href={l.href}>{l.t}</a></li>))}</ul>
+    <ul class="legal">{legal.map((l) => (<li><a href={url(l.href)}>{l.t}</a></li>))}</ul>
     <p class="copy">© {new Date().getFullYear()} New Beginnings Recovery. If you or someone you know is in crisis, call or text <a href="tel:988">988</a> (Suicide &amp; Crisis Lifeline).</p>
   </div>
 </footer>
