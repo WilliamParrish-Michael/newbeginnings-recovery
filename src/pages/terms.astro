@@ -1,15 +1,42 @@
 ---
 import Base from '../layouts/Base.astro';
-import { url } from '../lib/url';
+import PageHero from '../components/PageHero.astro';
+import DraftBanner from '../components/DraftBanner.astro';
+import { site } from '../lib/site';
 ---
-<Base title="Terms of Use — New Beginnings Recovery" description="The terms governing use of the New Beginnings Recovery website.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Terms of Use</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Terms of Use — New Beginnings Recovery" description="The terms governing use of the New Beginnings Recovery website, including medical and liability disclaimers.">
+  <PageHero eyebrow="Terms of Use" title="Terms of use" />
+  <section class="section">
+    <div class="container prose">
+      <DraftBanner />
+      <p class="updated">Effective date: [to be set at launch]</p>
+
+      <p>These Terms of Use govern your use of newbeginningsrecovery.com (the “Site”), operated by New Beginnings Recovery. By using the Site, you agree to these terms. If you do not agree, please do not use the Site.</p>
+
+      <h2>Not medical advice</h2>
+      <p>The Site provides general information about our services and about addiction and recovery. It is <strong>not medical advice</strong> and is not a substitute for professional diagnosis or treatment. Using the Site does not create a provider–patient relationship. Always seek the advice of a qualified health provider with any questions about a medical condition.</p>
+      <div class="callout"><p><strong>In an emergency, call 911.</strong> For mental-health crisis support, call or text 988, the Suicide &amp; Crisis Lifeline.</p></div>
+
+      <h2>No guarantee of outcomes</h2>
+      <p>Recovery outcomes vary from person to person. Nothing on the Site is a promise or guarantee of any particular result. Any experiences described are individual and may not be typical.</p>
+
+      <h2>Intellectual property</h2>
+      <p>The Site’s content, design, and marks are owned by New Beginnings Recovery or its licensors and may not be copied or used without permission.</p>
+
+      <h2>Third-party links</h2>
+      <p>The Site may link to third-party resources for your convenience. We are not responsible for their content or practices.</p>
+
+      <h2>Acceptable use</h2>
+      <p>You agree not to misuse the Site, interfere with its operation, or use it for any unlawful purpose.</p>
+
+      <h2>Disclaimers &amp; limitation of liability</h2>
+      <p>The Site is provided “as is,” without warranties of any kind to the fullest extent permitted by law. To the fullest extent permitted by law, New Beginnings Recovery is not liable for any indirect, incidental, or consequential damages arising from your use of the Site.</p>
+
+      <h2>Governing law</h2>
+      <p>These terms are governed by the laws of the State of California, without regard to conflict-of-laws rules, and any dispute will be brought in the state or federal courts located in Riverside County, California.</p>
+
+      <h2>Changes &amp; contact</h2>
+      <p>We may update these terms and will revise the effective date above. Questions? Call <a href={site.phoneHref}>{site.phone}</a> or email <a href={`mailto:${site.email}`}>{site.email}</a>.</p>
     </div>
-  </div></section>
+  </section>
 </Base>

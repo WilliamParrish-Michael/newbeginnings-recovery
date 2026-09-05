@@ -1,15 +1,46 @@
 ---
 import Base from '../layouts/Base.astro';
+import PageHero from '../components/PageHero.astro';
+import { site } from '../lib/site';
 import { url } from '../lib/url';
 ---
-<Base title="Contact Us — New Beginnings Recovery" description="Contact New Beginnings Recovery in Rancho Mirage, California.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Contact Us</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Contact Us — New Beginnings Recovery" description="Reach New Beginnings Recovery in Rancho Mirage, California. Confidential admissions available 24/7 by phone.">
+  <PageHero eyebrow="Contact Us" title="Reach out — confidentially, any time" lede="Whether you’re calling for yourself or someone you love, our admissions team is here to listen. Most conversations start with a simple, private phone call." />
+
+  <section class="section">
+    <div class="container contact-grid">
+      <div class="stack">
+        <div class="contact-card card">
+          <span class="k">Call (24/7)</span>
+          <a class="big" href={site.phoneHref}>{site.phone}</a>
+        </div>
+        <div class="contact-card card">
+          <span class="k">Email</span>
+          <a class="big" href={`mailto:${site.email}`}>{site.email}</a>
+          <p class="note">Please don’t include sensitive health details in email — call us for anything confidential.</p>
+        </div>
+        <div class="contact-card card">
+          <span class="k">Visit</span>
+          <address>{site.addressLine}</address>
+          <p class="note">Serving {site.serviceArea}.</p>
+        </div>
+      </div>
+      <div class="prose">
+        <h2>What happens when you call</h2>
+        <p>Your first call is private and pressure-free. Our team listens, answers your questions, and helps determine whether New Beginnings is the right fit — then walks you through insurance and next steps.</p>
+        <p>Prefer to start with insurance? We can run a quick, confidential benefits check. <a href={url('/verify-insurance/')}>Verify your insurance →</a></p>
+        <div class="callout"><p>A secure online intake form is coming with the new site. Until then, the fastest and most private way to reach us is by phone.</p></div>
+        <p style="margin-top:1.5rem"><strong>In crisis?</strong> If you or someone you know is in immediate danger, call 911. For mental-health crisis support, call or text <a href="tel:988">988</a>, the Suicide &amp; Crisis Lifeline.</p>
+      </div>
     </div>
-  </div></section>
+  </section>
+
+  <style>
+    .contact-grid { display: grid; grid-template-columns: .9fr 1.1fr; gap: 2.5rem; align-items: start; }
+    .contact-card .k { font-family: "Mulish", sans-serif; font-weight: 700; font-size: .74rem; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); }
+    .contact-card .big { display: block; font-family: "Fraunces", serif; font-size: 1.5rem; color: var(--accent-ink); text-decoration: none; margin-top: .3rem; }
+    .contact-card address { font-style: normal; font-size: 1.1rem; margin-top: .3rem; }
+    .contact-card .note { color: var(--text-muted); font-size: .85rem; margin-top: .5rem; }
+    @media (max-width: 52rem) { .contact-grid { grid-template-columns: 1fr; gap: 1.5rem; } }
+  </style>
 </Base>

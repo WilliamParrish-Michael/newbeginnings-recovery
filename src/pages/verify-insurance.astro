@@ -1,15 +1,44 @@
 ---
 import Base from '../layouts/Base.astro';
-import { url } from '../lib/url';
+import PageHero from '../components/PageHero.astro';
+import { site } from '../lib/site';
+
+const steps = [
+  { t: 'Call or reach out', d: 'A quick, confidential conversation with our admissions team — no obligation.' },
+  { t: 'We check your benefits', d: 'We contact your insurer directly to confirm what your plan covers for detox and residential treatment.' },
+  { t: 'We explain your options', d: 'Clear information on coverage, any out-of-pocket costs, and flexible payment options if you’re self-pay.' },
+];
 ---
-<Base title="Verify Your Insurance — New Beginnings Recovery" description="Confidentially check whether your insurance covers treatment at New Beginnings Recovery.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Verify Your Insurance</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Verify Your Insurance — New Beginnings Recovery" description="Confidentially check whether your insurance covers detox and residential addiction treatment at New Beginnings Recovery. Most major plans accepted.">
+  <PageHero eyebrow="Insurance" title="Find out if your insurance covers treatment" lede="A quick, confidential benefits check — no obligation. Most major insurance plans are accepted, and we never share your information." />
+
+  <section class="section">
+    <div class="container prose" style="max-width:52rem">
+      <h2>How verification works</h2>
+      <ol class="steps">
+        {steps.map((s, i) => (<li><span class="num tabular">{i + 1}</span><div><h3>{s.t}</h3><p>{s.d}</p></div></li>))}
+      </ol>
+
+      <h2 style="margin-top:2.5rem">What to have ready</h2>
+      <ul>
+        <li>The name of your insurance provider</li>
+        <li>Your member ID (from your insurance card)</li>
+        <li>A good phone number where we can reach you</li>
+      </ul>
+
+      <div class="callout" style="margin-top:1.5rem">
+        <p><strong>Your privacy comes first.</strong> A secure online verification form is coming with the new site. For now — and for anything involving health or insurance details — please call us directly rather than sending them by email. We handle your information confidentially and never sell or share it for advertising.</p>
+      </div>
+
+      <p style="margin-top:2rem"><a href={site.phoneHref} class="btn btn-cta">Call {site.phone} to verify</a></p>
     </div>
-  </div></section>
+  </section>
+
+  <style>
+    .steps { list-style: none; padding: 0; display: grid; gap: 1rem; margin-top: 1.25rem; }
+    .steps li { display: grid; grid-template-columns: 2.75rem 1fr; gap: 1rem; align-items: start; }
+    .steps .num { font-family: "Fraunces", serif; font-size: 1.1rem; font-weight: 600; color: var(--accent); border: 1px solid var(--hair-strong); border-radius: 50%; width: 2.75rem; height: 2.75rem; display: grid; place-items: center; }
+    .steps h3 { font-family: "Mulish", sans-serif; font-size: 1.05rem; font-weight: 700; margin-bottom: .1rem; }
+    .steps p { color: var(--text-soft); margin: 0; }
+  </style>
 </Base>

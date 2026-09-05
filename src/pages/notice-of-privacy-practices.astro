@@ -1,15 +1,49 @@
 ---
 import Base from '../layouts/Base.astro';
-import { url } from '../lib/url';
+import PageHero from '../components/PageHero.astro';
+import DraftBanner from '../components/DraftBanner.astro';
+import { site } from '../lib/site';
 ---
-<Base title="Notice of Privacy Practices — New Beginnings Recovery" description="How New Beginnings Recovery may use and disclose your protected health information.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Notice of Privacy Practices</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Notice of Privacy Practices — New Beginnings Recovery" description="How New Beginnings Recovery may use and disclose your protected health information, and your rights under HIPAA and 42 CFR Part 2.">
+  <PageHero eyebrow="HIPAA" title="Notice of Privacy Practices" />
+  <section class="section">
+    <div class="container prose">
+      <DraftBanner />
+      <p class="updated">Effective date: [to be set at launch]</p>
+
+      <div class="callout"><p><strong>THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.</strong></p></div>
+
+      <h2>Our duties</h2>
+      <p>New Beginnings Recovery is required by law to protect the privacy of your protected health information (PHI), to provide you this notice of our legal duties and privacy practices, and to follow the terms of the notice currently in effect.</p>
+
+      <h2>How we may use and disclose your PHI</h2>
+      <ul>
+        <li><strong>Treatment</strong> — to provide, coordinate, and manage your care with those involved in it.</li>
+        <li><strong>Payment</strong> — to bill and obtain payment for services, including insurance verification.</li>
+        <li><strong>Health care operations</strong> — for quality, training, and administration.</li>
+        <li><strong>As required or permitted by law</strong> — for example, public-health, safety, or legal obligations.</li>
+      </ul>
+      <p>Other uses and disclosures will be made only with your written authorization, which you may revoke.</p>
+
+      <h2>Special protection for substance-use records (42 CFR Part 2)</h2>
+      <p>Records relating to substance-use-disorder treatment receive additional federal protection under 42 C.F.R. Part 2. Generally, we may not disclose information identifying you as having a substance-use disorder without your specific written consent, except in limited circumstances permitted by law (such as a medical emergency).</p>
+
+      <h2>Your rights</h2>
+      <ul>
+        <li>Inspect and obtain a copy of your PHI.</li>
+        <li>Request an amendment to your PHI.</li>
+        <li>Request an accounting of certain disclosures.</li>
+        <li>Request restrictions on uses and disclosures.</li>
+        <li>Request confidential communications.</li>
+        <li>Receive a paper copy of this notice.</li>
+        <li>Be notified in the event of a breach of your unsecured PHI.</li>
+      </ul>
+
+      <h2>Complaints</h2>
+      <p>If you believe your privacy rights have been violated, you may contact us (below) or file a complaint with the U.S. Department of Health and Human Services, Office for Civil Rights. You will not be retaliated against for filing a complaint.</p>
+
+      <h2>Contact</h2>
+      <p>To exercise your rights or ask questions, contact our Privacy Officer at <a href={site.phoneHref}>{site.phone}</a> or <a href={`mailto:${site.email}`}>{site.email}</a>. {site.addressLine}.</p>
     </div>
-  </div></section>
+  </section>
 </Base>

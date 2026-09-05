@@ -1,15 +1,60 @@
 ---
 import Base from '../layouts/Base.astro';
-import { url } from '../lib/url';
+import PageHero from '../components/PageHero.astro';
+import { site } from '../lib/site';
 ---
-<Base title="Your Privacy Choices — New Beginnings Recovery" description="Do Not Sell or Share My Personal Information and limit the use of sensitive personal information.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Your Privacy Choices</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Your Privacy Choices — New Beginnings Recovery" description="Do Not Sell or Share My Personal Information, limit the use of sensitive personal information, and manage tracking on newbeginningsrecovery.com.">
+  <PageHero eyebrow="Your Privacy Choices" title="Do Not Sell or Share My Personal Information" lede="You control how information from this site is used for analytics and advertising. Your choice applies on this browser, and we honor Global Privacy Control." />
+
+  <section class="section">
+    <div class="container prose" style="max-width:46rem">
+      <div id="gpc" class="callout" hidden><p><strong>Global Privacy Control detected.</strong> We’ve honored your browser’s opt-out signal — sharing for advertising is turned off.</p></div>
+
+      <h2>Opt out of sale / sharing</h2>
+      <p>Turning this on stops non-essential analytics and advertising technologies from loading and prevents sharing identifiers for cross-context behavioral advertising.</p>
+      <div class="choice">
+        <label class="switch">
+          <input type="checkbox" id="optout" />
+          <span>Do not sell or share my personal information</span>
+        </label>
+        <p id="status" class="note" aria-live="polite"></p>
+      </div>
+
+      <h2 id="sensitive">Limit the use of my sensitive personal information</h2>
+      <p>We already limit our use of sensitive personal information — including health and substance-use details — to what is necessary to provide the services you request, and we never use it for advertising. To make a formal request or ask a question, contact us below.</p>
+
+      <h2>Submit a formal privacy request</h2>
+      <p>To exercise any California privacy right (know, access, correct, delete, opt out, or limit sensitive information), call <a href={site.phoneHref}>{site.phone}</a> or email <a href={`mailto:${site.email}`}>{site.email}</a>. We verify your identity, respond within 45 days, and offer an appeal if we decline.</p>
     </div>
-  </div></section>
+  </section>
+
+  <style>
+    .choice { background: var(--surface); border: 1px solid var(--hair); border-radius: var(--r-md); padding: 1.25rem; margin-top: 1rem; }
+    .switch { display: flex; align-items: center; gap: .75rem; font-weight: 600; cursor: pointer; }
+    .switch input { width: 1.25rem; height: 1.25rem; accent-color: var(--accent); }
+    .note { color: var(--text-muted); font-size: .88rem; margin-top: .6rem; }
+  </style>
+
+  <script>
+    const KEY = 'nbr-consent-v1';
+    const box = document.getElementById('optout') as HTMLInputElement;
+    const status = document.getElementById('status')!;
+    const gpc = (navigator as any).globalPrivacyControl === true;
+    const read = () => { try { return JSON.parse(localStorage.getItem(KEY) || 'null'); } catch { return null; } };
+
+    if (gpc) { const el = document.getElementById('gpc'); if (el) el.hidden = false; }
+    const stored = read();
+    const optedOut = gpc || (stored?.choice === 'reject');
+    box.checked = optedOut;
+    if (gpc) box.disabled = true;
+    status.textContent = optedOut ? 'Status: opted out. Advertising/analytics sharing is off on this browser.' : 'Status: not opted out.';
+
+    box.addEventListener('change', () => {
+      const choice = box.checked ? 'reject' : 'accept';
+      try { localStorage.setItem(KEY, JSON.stringify({ choice, gpc, t: Date.now() })); } catch {}
+      status.textContent = box.checked
+        ? 'Status: opted out. Advertising/analytics sharing is off on this browser.'
+        : 'Status: not opted out. You can re-enable analytics via the site’s privacy banner.';
+    });
+  </script>
 </Base>

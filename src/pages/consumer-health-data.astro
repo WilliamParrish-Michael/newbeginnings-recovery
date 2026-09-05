@@ -1,15 +1,35 @@
 ---
 import Base from '../layouts/Base.astro';
+import PageHero from '../components/PageHero.astro';
+import DraftBanner from '../components/DraftBanner.astro';
+import { site } from '../lib/site';
 import { url } from '../lib/url';
 ---
-<Base title="Consumer Health Data Notice — New Beginnings Recovery" description="How we handle consumer health data under state consumer-health-data laws.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Consumer Health Data Notice</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Consumer Health Data Notice — New Beginnings Recovery" description="How New Beginnings Recovery collects, uses, and shares consumer health data under state consumer-health-data laws, and your related rights.">
+  <PageHero eyebrow="Consumer Health Data" title="Consumer Health Data Notice" lede="This notice applies to consumer health data covered by state consumer-health-data laws, such as Washington’s My Health My Data Act. It supplements our main Privacy Policy." />
+  <section class="section">
+    <div class="container prose">
+      <DraftBanner />
+      <p class="updated">Effective date: [to be set at launch]</p>
+
+      <h2>What we collect</h2>
+      <p>“Consumer health data” is broadly defined and can include information that identifies your past, present, or future physical or mental health, including an interest in seeking treatment. On this site, that may include the substance-use and treatment details, and insurance information, you choose to share with us.</p>
+
+      <h2>How we use it and who we share it with</h2>
+      <p>We use consumer health data only to respond to your inquiry, verify insurance, and provide the services you request. We do <strong>not</strong> use it for advertising, and we do <strong>not</strong> place advertising or analytics trackers on pages where you submit health information. We share it only with staff and service providers who help deliver these services, and as required by law.</p>
+
+      <h2>Consent and sale</h2>
+      <p>We collect consumer health data with your consent, and we do <strong>not sell</strong> consumer health data. We would not sell such data without a separate, valid written authorization from you.</p>
+
+      <h2>Your rights</h2>
+      <ul>
+        <li>Confirm whether we collect, share, or sell your consumer health data, and access it.</li>
+        <li>Withdraw your consent to our collection and sharing.</li>
+        <li>Have your consumer health data deleted.</li>
+      </ul>
+
+      <h2>How to exercise your rights</h2>
+      <p>Call <a href={site.phoneHref}>{site.phone}</a> or email <a href={`mailto:${site.email}`}>{site.email}</a>. You can also manage tracking choices any time through <a href={url('/privacy-choices/')}>Your Privacy Choices</a>. We verify requests and respond within the timelines required by law.</p>
     </div>
-  </div></section>
+  </section>
 </Base>

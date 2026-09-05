@@ -1,15 +1,55 @@
 ---
 import Base from '../layouts/Base.astro';
-import { url } from '../lib/url';
+import PageHero from '../components/PageHero.astro';
+import CtaBand from '../components/CtaBand.astro';
+
+const crisis = [
+  { t: '988 Suicide & Crisis Lifeline', d: 'Call or text 988, 24/7, free and confidential.', href: 'tel:988' },
+  { t: 'SAMHSA National Helpline', d: '1-800-662-HELP (4357) — free, confidential, 24/7 treatment referral and information.', href: 'tel:18006624357' },
+  { t: 'Emergency', d: 'If someone is in immediate danger, call 911.', href: 'tel:911' },
+];
+const learn = [
+  { t: 'SAMHSA — Find Help & Treatment', href: 'https://www.samhsa.gov/find-help' },
+  { t: 'NIDA — Drugs, Brains, and Behavior', href: 'https://nida.nih.gov/' },
+  { t: 'NIAAA — Alcohol & Your Health', href: 'https://www.niaaa.nih.gov/' },
+  { t: 'CDC — Alcohol Use & Your Health', href: 'https://www.cdc.gov/alcohol/' },
+  { t: 'CA Dept. of Health Care Services — Substance Use', href: 'https://www.dhcs.ca.gov/' },
+];
 ---
-<Base title="Resources — New Beginnings Recovery" description="Guides and resources on addiction, detox, and recovery from New Beginnings Recovery.">
-  <section class="section"><div class="container stack">
-    <span class="eyebrow">New Beginnings Recovery</span>
-    <h1>Resources</h1>
-    <p class="lede">This page is being rebuilt with care. Our admissions team is available now — reach out any time.</p>
-    <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem">
-      <a href="tel:+17607623605" class="btn btn-cta">Call (760) 762-3605</a>
-      <a href={url('/verify-insurance/')} class="btn btn-outline">Verify your insurance</a>
+<Base title="Resources — New Beginnings Recovery" description="Crisis lines and trusted resources on addiction, detox, and recovery, plus guides from New Beginnings Recovery in Rancho Mirage.">
+  <PageHero eyebrow="Resources" title="Help, information, and a place to start" lede="If you or someone you love is struggling, you’re not alone. Start with the support lines below, then reach out when you’re ready." />
+
+  <section class="section">
+    <div class="container">
+      <h2 style="font-size:1.5rem;margin-bottom:1.25rem">Immediate support</h2>
+      <div class="res-grid">
+        {crisis.map((c) => (
+          <a class="res card" href={c.href}>
+            <h3>{c.t}</h3>
+            <p>{c.d}</p>
+          </a>
+        ))}
+      </div>
+
+      <h2 style="font-size:1.5rem;margin:2.5rem 0 1.25rem">Learn more</h2>
+      <ul class="link-list">
+        {learn.map((l) => (<li><a href={l.href} rel="noopener noreferrer nofollow" target="_blank">{l.t} →</a></li>))}
+      </ul>
+
+      <div class="callout" style="max-width:44rem;margin-top:2rem"><p>Guides and articles from our team are on the way with the new site. In the meantime, our admissions staff are glad to answer any question by phone.</p></div>
     </div>
-  </div></section>
+  </section>
+
+  <CtaBand />
+
+  <style>
+    .res-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.1rem; }
+    .res { text-decoration: none; color: var(--text); border-left: 4px solid var(--gold-500); }
+    .res h3 { font-size: 1.1rem; color: var(--accent-ink); }
+    .res p { color: var(--text-soft); font-size: .92rem; margin-top: .4rem; }
+    .link-list { list-style: none; padding: 0; display: grid; gap: .6rem; max-width: 44rem; }
+    .link-list a { color: var(--accent-ink); font-weight: 600; text-decoration: none; }
+    .link-list a:hover { text-decoration: underline; }
+    @media (max-width: 52rem) { .res-grid { grid-template-columns: 1fr; } }
+  </style>
 </Base>
