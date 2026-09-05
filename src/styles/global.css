@@ -101,7 +101,9 @@ body {
   margin: 0; background: var(--bg); color: var(--text);
   font-family: "Mulish", system-ui, -apple-system, "Segoe UI", sans-serif;
   font-size: var(--step); line-height: 1.65; -webkit-font-smoothing: antialiased;
+  overflow-wrap: break-word; /* long emails/URLs never force horizontal scroll */
 }
+html, body { overflow-x: clip; max-width: 100%; }
 h1, h2, h3, h4 { font-family: "Fraunces", Georgia, "Times New Roman", serif; line-height: 1.12; text-wrap: balance; margin: 0; color: var(--text); font-weight: 600; }
 p { margin: 0; }
 a { color: var(--accent-ink); text-underline-offset: .18em; }
