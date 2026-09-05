@@ -31,14 +31,17 @@ const legal = [
 <footer class="site-footer">
   <div class="container top">
     <div class="identity">
-      <span class="wordmark"><b>New Beginnings Recovery</b></span>
+      <img class="f-logo" src={url('/images/logo-vertical-light.svg')} alt="New Beginnings Recovery" width="150" height="86" />
       <address>
         34620 Via Josefina, Rancho Mirage, CA 92270<br />
         <a href="tel:+17607623605">(760) 762-3605</a> · <a href="mailto:info@newbeginningsrecovery.com">info@newbeginningsrecovery.com</a>
       </address>
       <p class="lic">Licensed by the California Department of Health Care Services (DHCS).<br />
         <span class="lic-num">License #330232AP · Exp. 07/31/2027</span></p>
-      <p class="ls">Verified by LegitScript for addiction-treatment advertising.</p>
+      <div class="seals">
+        <img src={url('/images/legitscript.png')} alt="LegitScript certified" width="60" height="60" loading="lazy" />
+        <img src={url('/images/dhcs-white.webp')} alt="California DHCS licensed" height="44" loading="lazy" />
+      </div>
     </div>
     {cols.map((c) => (
       <nav class="col" aria-label={c.h}>
@@ -66,7 +69,9 @@ const legal = [
   .site-footer a { color: var(--on-band); text-decoration: none; }
   .site-footer a:hover { text-decoration: underline; }
   .col ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .6rem; font-size: .95rem; }
-  .identity .wordmark b { font-family: "Fraunces", serif; font-size: 1.3rem; color: #fff; }
+  .f-logo { height: 76px; width: auto; margin-bottom: .5rem; }
+  .seals { display: flex; align-items: center; gap: 1rem; margin-top: 1.25rem; }
+  .seals img { opacity: .95; }
   .identity address { font-style: normal; margin-top: .8rem; color: var(--on-band-soft); line-height: 1.7; }
   .lic { font-size: .82rem; color: var(--on-band-soft); margin-top: 1rem; line-height: 1.5; }
   .lic-num { opacity: .7; }

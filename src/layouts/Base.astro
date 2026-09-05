@@ -18,6 +18,17 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Apply saved display preferences before paint (no flash). CSP note: at prod
+         cut-over, add this script's hash to script-src (it's the only inline script). -->
+    <script is:inline>
+      (function () {
+        try {
+          var t = localStorage.getItem('nbr-theme');
+          if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t);
+          if (localStorage.getItem('nbr-textsize') === 'large') document.documentElement.classList.add('text-lg');
+        } catch (e) {}
+      })();
+    </script>
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
