@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
 
 // Static-first marketing site. The intake form will POST to a server-side /
 // BAA-covered endpoint (added later) — never to a third-party tag — so no PHI
@@ -11,4 +12,7 @@ export default defineConfig({
   base: STAGING ? '/newbeginnings-recovery/' : '/',
   build: { format: 'directory' },
   compressHTML: true,
+  // Generates sitemap-index.xml + sitemap-0.xml from every built page. When the
+  // PHI intake form ships on a noindex page, exclude it here via `filter`.
+  integrations: [sitemap()],
 });
