@@ -12,7 +12,7 @@ If your spouse is thinking about leaving—or has already said they might—it�
 
 ## When Addiction Affects a Marriage
 
-![Addiction Affecting Marriage Rehab Near Palm Springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/03/Addiction-Affecting-Marriage-Rehab-Near-Palm-Springs-1024x682.jpg)
+![Addiction Affecting Marriage Rehab Near Palm Springs](/images/blog/inline/Addiction-Affecting-Marriage-Rehab-Near-Palm-Springs.jpg)
 
 Substance use doesn’t just impact one person—it affects the entire relationship.
 
@@ -75,7 +75,7 @@ Stepping away from your usual environment can be especially helpful when relatio
 
 ## When Residential Rehab May Be the Right Step
 
-![withdrawal help palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/withdrawal-help-palm-springs-ca-1-1024x682.jpg)
+![withdrawal help palm springs ca](/images/blog/inline/withdrawal-help-palm-springs-ca-1.jpg)
 
 Not everyone needs residential treatment—but in certain situations, it can offer the level of support that’s needed.
 
@@ -115,7 +115,7 @@ At [New Beginnings Recovery](https://newbeginningsrecovery.com/), our [Rancho Mi
 
 ## What to Expect in Residential Rehab
 
-![Residential Rehab Near Palm Springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/03/Residential-Rehab-Near-Palm-Springs-1024x683.jpg)
+![Residential Rehab Near Palm Springs](/images/blog/inline/Residential-Rehab-Near-Palm-Springs.jpg)
 
 If you’re considering treatment, it’s normal to have questions about what daily life looks like.
 

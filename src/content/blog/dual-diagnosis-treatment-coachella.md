@@ -14,7 +14,7 @@ The Coachella Valley — spanning Palm Springs, Rancho Mirage, Palm Desert, and 
 
 ## Why Dual Diagnosis Treatment Is Different — And Why It Requires Specialized Care
 
-![palm springs dual diagnosis](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/palm-springs-dual-diagnosis-1024x684.jpg)
+![palm springs dual diagnosis](/images/blog/inline/palm-springs-dual-diagnosis.jpg)
 
 Dual diagnosis refers to the co-occurrence of a mental health disorder and a substance use disorder in the same person. It is not a rare or unusual clinical picture — according to [SAMHSA’s most recent national data](https://www.samhsa.gov/about/digital-toolkits/mental-health-awareness-month), approximately 20.4 million adults in the United States met criteria for both a mental health disorder and a substance use disorder in a single year.
 
@@ -80,7 +80,7 @@ Understanding the continuum of care helps you make sense of what a program is re
 
 ## Why the Setting Matters as Much as the Program
 
-![Dual Diagnosis Treatment Palm Springs](https://newbeginningsrecovery.com/wp-content/uploads/2025/11/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-117-1024x682.jpg)
+![Dual Diagnosis Treatment Palm Springs](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-117.jpg)
 
 When evaluating dual diagnosis treatment options in the Coachella Valley, it’s worth considering not just the clinical components of a program but the environment in which care is delivered.
 

@@ -8,7 +8,7 @@ draft: false
 
 ## How to Choose the Right Detox Near Palm Springs
 
-![palm springs detox center](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/palm-springs-detox-center-1024x683.jpg)
+![palm springs detox center](/images/blog/inline/palm-springs-detox-center.jpg)
 
 Searching for a **detox near Palm Springs, CA** usually means something important is happening — whether you’re looking for yourself or trying to help someone you care about. The process can feel overwhelming, especially when options look similar on the surface and decisions feel urgent.
 
@@ -163,7 +163,7 @@ This is especially important for people who want to transition into residential 
 
 ## When Detox Is Safer Than Trying to Quit at Home
 
-![best detox palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/best-detox-palm-springs-ca-1-1024x683.jpg)
+![best detox palm springs ca](/images/blog/inline/best-detox-palm-springs-ca-1.jpg)
 
 Some people consider quitting alcohol or drugs on their own, especially if symptoms feel manageable at first. But withdrawal doesn’t always follow a predictable path, and symptoms can escalate quickly — sometimes after a delay.
 

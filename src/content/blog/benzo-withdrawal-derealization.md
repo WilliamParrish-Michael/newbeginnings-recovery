@@ -24,7 +24,7 @@ This article explains why derealization and depersonalization can happen during 
 
 ## How Benzodiazepines Affect the Brain and Perception
 
-![benzo addiction treatment palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/benzo-addiction-treament-palm-springs-ca-1024x682.jpg)
+![benzo addiction treatment palm springs ca](/images/blog/inline/benzo-addiction-treament-palm-springs-ca.jpg)
 
 Benzodiazepines work by calming the central nervous system. They enhance the effects of GABA, a neurotransmitter that helps regulate anxiety, sensory processing, and the brain’s overall level of stimulation. Over time, the brain adapts to the presence of benzodiazepines by relying on them to maintain balance.
 
@@ -80,7 +80,7 @@ What’s important to understand is that these symptoms are **recognized withdra
 
 ## When Derealization or Depersonalization During Benzo Withdrawal Becomes a Safety Concern
 
-![benzo addiction care coachella valley ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/benzo-addiction-care-coachella-valley-ca-1024x684.jpg)
+![benzo addiction care coachella valley ca](/images/blog/inline/benzo-addiction-care-coachella-valley-ca.jpg)
 
 While derealization and depersonalization can be part of benzodiazepine withdrawal, there are times when these symptoms signal that **additional medical support is important**. The goal isn’t to panic — it’s to recognize when symptoms are becoming too intense to manage safely on your own.
 

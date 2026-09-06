@@ -8,7 +8,7 @@ draft: false
 
 ## Why Opioid Withdrawal Feels So Intense — and Why Timelines Matter
 
-![opioid rehab coachella valley california](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/opioid-rehab-coachella-valley-california-1024x682.jpg)
+![opioid rehab coachella valley california](/images/blog/inline/opioid-rehab-coachella-valley-california.jpg)
 
 When people search for an opioid withdrawal timeline, they’re usually trying to answer a few urgent questions: _How long will this last? When will the worst part hit? And can I get through this safely?_
 
@@ -128,7 +128,7 @@ Support during days 4–7 can help people stay hydrated, rest, and get through l
 
 ## When Detox and Support Are Especially Helpful During Opioid Withdrawal
 
-![opioid rehab program california](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/opioid-rehab-program-california-1024x684.jpg)
+![opioid rehab program california](/images/blog/inline/opioid-rehab-program-california.jpg)
 
 Not everyone who stops using opioids needs medical detox, but **many people underestimate how hard withdrawal can be to manage alone**, especially during the peak and lingering phases.
 

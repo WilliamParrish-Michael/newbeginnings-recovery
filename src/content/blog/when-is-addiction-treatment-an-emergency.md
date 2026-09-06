@@ -6,7 +6,7 @@ heroImage: "/images/blog/when-is-addiction-treatment-an-emergency.jpg"
 draft: false
 ---
 
-![When is Addiction Treatment an Emergency](https://newbeginningsrecovery.com/wp-content/uploads/2026/06/When-is-Addiction-Treatment-an-Emergency-1024x682.jpg)
+![When is Addiction Treatment an Emergency](/images/blog/inline/When-is-Addiction-Treatment-an-Emergency.jpg)
 
 Most conversations about addiction [treatment](https://newbeginningsrecovery.com/) focus on readiness — on waiting for the right moment, finding the right program, having the right conversation. And that framing is appropriate for most situations.
 
@@ -18,7 +18,7 @@ This article covers the warning signs that indicate addiction has become an acut
 
 ## First: The Signs That Require 911 Right Now
 
-![ Addiction Treatment Rancho Mirage Ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/06/Addiction-Treatment-Rancho-Mirage-Ca-1024x684.jpg)
+![ Addiction Treatment Rancho Mirage Ca](/images/blog/inline/Addiction-Treatment-Rancho-Mirage-Ca.jpg)
 
 These are not signs to monitor or respond to with a treatment conversation. These are signs to call emergency services immediately.
 

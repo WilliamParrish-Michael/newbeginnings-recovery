@@ -8,7 +8,7 @@ draft: false
 
 ## Why Kratom and Opioid Withdrawal Are Often Compared
 
-![Kratom Withdrawal vs Opioid Withdrawal](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/Kratom-Withdrawal-vs-Opiod-Withdrawal-1024x682.jpg)
+![Kratom Withdrawal vs Opioid Withdrawal](/images/blog/inline/Kratom-Withdrawal-vs-Opiod-Withdrawal.jpg)
 
 [Kratom](https://pubmed.ncbi.nlm.nih.gov/37983284/) is often described as a natural or herbal alternative to opioids, which can make its risks feel less clear. Many people begin using kratom to manage pain, anxiety, or even opioid withdrawal itself — without expecting it to cause dependence.
 
@@ -199,7 +199,7 @@ Medical support may be worth considering if withdrawal symptoms worsen instead o
 
 ## A Thoughtful Way Forward
 
-![kratom addiction treatment coachella valley california](https://newbeginningsrecovery.com/wp-content/uploads/2025/11/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-150-1024x684.jpg)
+![kratom addiction treatment coachella valley california](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-150.jpg)
 
 [Kratom withdrawal](https://www.sciencedirect.com/science/article/abs/pii/S0376871614007935) and [opioid withdrawal](https://www.healthdirect.gov.au/opioid-withdrawal-symptoms) share real similarities — but they also differ in important ways that affect how people experience recovery.
 

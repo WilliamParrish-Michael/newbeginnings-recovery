@@ -16,7 +16,7 @@ This blog explores why trauma and alcohol use disorder are so deeply linked, wha
 
 ## The Numbers Tell a Sobering Story
 
-![Trauma and Alcohol Rancho Mirage](https://newbeginningsrecovery.com/wp-content/uploads/2026/05/Trauma-and-Alcohol-Rancho-Mirage-1024x722.jpg)
+![Trauma and Alcohol Rancho Mirage](/images/blog/inline/Trauma-and-Alcohol-Rancho-Mirage.jpg)
 
 Trauma is far more common than most people realize. According to research cited by SAMHSA, approximately 70% of adults in the United States — over 223 million people — have experienced at least one significant traumatic event in their lifetime. For many, that trauma has never been processed, named, or treated.
 

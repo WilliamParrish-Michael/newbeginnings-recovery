@@ -16,7 +16,7 @@ Understanding **realistic [detox](https://newbeginningsrecovery.com/medical-deto
 
 ## What “Detox” Actually Refers To
 
-![drug detox timeline](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/drug-detox-timeline-1024x682.jpg)
+![drug detox timeline](/images/blog/inline/drug-detox-timeline.jpg)
 
 [Detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) refers to the **withdrawal and stabilization phase** that occurs after stopping alcohol or drugs. During detox, the body clears substances from the system and adjusts to functioning without them.
 
@@ -81,7 +81,7 @@ While opioid withdrawal is rarely life-threatening, it can be **extremely uncomf
 
 ## How Long Does Benzodiazepine Detox Take?
 
-![addiction treatment timeline](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/addiction-treatment-timeline-1024x682.jpg)
+![addiction treatment timeline](/images/blog/inline/addiction-treatment-timeline.jpg)
 
 [Benzodiazepine](https://my.clevelandclinic.org/health/treatments/24570-benzodiazepines-benzos) (benzo) detox is often the **longest and most gradual** of the three.
 

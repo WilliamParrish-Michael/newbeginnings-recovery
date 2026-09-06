@@ -6,7 +6,7 @@ heroImage: "/images/blog/how-families-can-support-a-loved-one-during-rehab.jpg"
 draft: false
 ---
 
-![How Families Can Support a Loved One During Rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/06/How-Families-Can-Support-a-Loved-One-During-Rehab-1024x682.jpg)
+![How Families Can Support a Loved One During Rehab](/images/blog/inline/How-Families-Can-Support-a-Loved-One-During-Rehab.jpg)
 
 When someone you love enters residential rehab, the relief can be enormous. They’re safe. They’re getting help. The thing you’ve been scared of and hoping for has finally happened.
 
@@ -26,7 +26,7 @@ In other words: what you do during this time matters. The question is what to do
 
 ## First: What Residential Rehab Actually Looks Like
 
-![](https://newbeginningsrecovery.com/wp-content/uploads/2025/11/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-092-1024x682.jpg)
+![](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-092.jpg)
 
 Before anything else, it helps to understand what your loved one is actually experiencing — because assumptions about residential rehab often don’t match reality, and that gap can make it harder to know how to connect.
 

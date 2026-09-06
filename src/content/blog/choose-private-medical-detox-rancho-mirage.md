@@ -8,7 +8,7 @@ draft: false
 
 ## How to Choose a Private Medical Detox Program Near Rancho Mirage
 
-![detox rancho mirage](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/detox-rancho-mirage-1024x683.jpeg)
+![detox rancho mirage](/images/blog/inline/detox-rancho-mirage.jpeg)
 
 Searching for detox options in Rancho Mirage usually means you’re trying to make a decision that feels both urgent and personal. Whether you’re looking for yourself or someone you love, many people want the same thing at the start: **safety, privacy, and clear guidance**.
 
@@ -49,7 +49,7 @@ If a program cannot explain medical oversight clearly, that’s a red flag — e
 
 ## Checklist: How to Choose a Private Medical Detox Program Near Rancho Mirage
 
-![rancho mirage detox](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/rancho-mirage-detox-1024x683.jpeg)
+![rancho mirage detox](/images/blog/inline/rancho-mirage-detox.jpeg)
 
 When you’re choosing detox support near Rancho Mirage, it helps to focus on a few key quality markers. These details often matter more than marketing language — especially when privacy and safety are both priorities.
 

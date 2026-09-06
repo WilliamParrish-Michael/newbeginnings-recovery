@@ -8,7 +8,7 @@ draft: false
 
 ## Why So Many People Struggle to Sleep During Detox
 
-![drug detox palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/drug-detox-palm-springs-ca-1024x684.jpg)
+![drug detox palm springs ca](/images/blog/inline/drug-detox-palm-springs-ca.jpg)
 
 One of the most frustrating and unsettling symptoms during detox is **insomnia**. Even people who were able to sleep while using substances often find that once they stop, sleep becomes elusive — sometimes for days.
 
@@ -123,7 +123,7 @@ The key thing to remember is that **these sleep changes are usually temporary**,
 
 ## How Long Insomnia During Detox Usually Lasts (and Why It Varies)
 
-![best detox palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/best-detox-palm-springs-ca-1024x643.jpg)
+![best detox palm springs ca](/images/blog/inline/best-detox-palm-springs-ca.jpg)
 
 One of the most common questions people have during detox-related insomnia is _“How long will this last?”_ Unfortunately, there isn’t a single answer — but understanding **why sleep disruption varies** can make the experience feel less frightening.
 

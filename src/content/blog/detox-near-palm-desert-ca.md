@@ -8,7 +8,7 @@ draft: false
 
 ## Choosing Detox Support Near Palm Desert
 
-![detox services palm desert ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/detox-services-palm-desert-ca-1024x528.jpeg)
+![detox services palm desert ca](/images/blog/inline/detox-services-palm-desert-ca.jpeg)
 
 Searching for **detox near Palm Desert, CA** usually means something urgent is happening — withdrawal symptoms may be starting, substance use may have escalated, or safety has become a concern for you or someone you love.
 
@@ -73,7 +73,7 @@ If you’re unsure whether detox is necessary, an admissions assessment can help
 
 ## What to Look For in a Detox Program Near Palm Desert (Checklist)
 
-![detox palm desert ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/detox-palm-desert-1024x504.jpeg)
+![detox palm desert ca](/images/blog/inline/detox-palm-desert.jpeg)
 
 When comparing detox options near Palm Desert, it helps to know what separates safe medical detox from facilities that simply use the word “detox” in their marketing.
 

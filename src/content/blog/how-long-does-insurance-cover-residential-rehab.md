@@ -14,7 +14,7 @@ The honest answer is that there’s no single number — it depends on your spec
 
 ## The Short Answer: Insurance Approves Based on Medical Necessity, Not a Fixed Calendar
 
-![learn how long does insurance cover residential rehab for ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/07/learn-how-long-does-insurance-cover-residential-rehab-for-ca-1024x683.webp)
+![learn how long does insurance cover residential rehab for ca](/images/blog/inline/learn-how-long-does-insurance-cover-residential-rehab-for-ca.webp)
 
 Private insurance plans don’t approve residential rehab stays based on a predetermined length. They approve based on _medical necessity_ — a clinical determination that the level of care being requested is appropriate for the person’s specific condition, cannot be safely managed at a lower level of care, and is consistent with accepted standards of treatment.
 
@@ -66,7 +66,7 @@ A quality treatment program doesn’t leave this process to chance. Experienced 
 
 ## What Happens If Insurance Recommends Stepping Down Before You’re Ready
 
-![detox services palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/detox-services-palm-springs-ca-1024x649.jpg)
+![detox services palm springs ca](/images/blog/inline/detox-services-palm-springs-ca.jpg)
 
 This is a concern many people have — and it’s a legitimate one. Insurance companies make utilization decisions based on clinical criteria, but those decisions aren’t always perfectly aligned with the clinical picture of every individual.
 

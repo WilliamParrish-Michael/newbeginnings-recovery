@@ -22,7 +22,7 @@ This article explains why fentanyl withdrawal often doesn’t match standard opi
 
 ## How Fentanyl Affects the Body Differently Than Other Opioids
 
-![fentanyl addiction treatment coachella valley california](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/fentanyl-addiction-treatment-1024x576.jpg)
+![fentanyl addiction treatment coachella valley california](/images/blog/inline/fentanyl-addiction-treatment.jpg)
 
 Although fentanyl is classified as an opioid, it behaves differently in the body than many prescription painkillers or even heroin. These differences play a major role in how withdrawal unfolds.
 
@@ -116,7 +116,7 @@ These situations don’t mean failure — they’re signals that additional supp
 
 ## Why Fentanyl Withdrawal May Last Longer Than Expected
 
-![fentanyl addiction treatment coachella valley ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/fentanyl-addiction-treatment-ca-1024x682.jpg)
+![fentanyl addiction treatment coachella valley ca](/images/blog/inline/fentanyl-addiction-treatment-ca.jpg)
 
 One of the most distressing parts of fentanyl withdrawal is not knowing **how long symptoms will last**. Many people expect withdrawal to follow a familiar opioid timeline, only to feel discouraged when symptoms linger or return after brief improvement.
 

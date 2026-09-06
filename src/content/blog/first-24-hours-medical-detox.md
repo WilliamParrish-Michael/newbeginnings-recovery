@@ -8,7 +8,7 @@ draft: false
 
 ## Understanding the First Day of Medical Detox
 
-![Medical Detox Rancho Mirage](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Medical-Detox-Rancho-Mirage-1024x682.jpg)
+![Medical Detox Rancho Mirage](/images/blog/inline/Medical-Detox-Rancho-Mirage.jpg)
 
 For many people, the idea of medical detox feels intimidating — not because they don’t want help, but because they don’t know what to expect.
 
@@ -66,7 +66,7 @@ The first part of detox is not about forcing the body through withdrawal — it�
 
 ## How Withdrawal Symptoms Are Monitored During the First 24 Hours
 
-![Medical Detox Assessment near Riverside County](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Medical-Detox-Assesment-near-Riverside-County-CA-1024x649.jpg)
+![Medical Detox Assessment near Riverside County](/images/blog/inline/Medical-Detox-Assesment-near-Riverside-County-CA.jpg)
 
 During the first 24 hours of medical detox, monitoring is one of the most important components of care. Withdrawal doesn’t always follow a straight line — symptoms can intensify after a delay or fluctuate throughout the day.
 

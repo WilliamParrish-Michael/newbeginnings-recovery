@@ -38,7 +38,7 @@ In practice, many people’s stories involve elements of all three. Anxiety came
 
 ## Why Alcohol Makes Anxiety Worse Over Time
 
-![withdrawal help palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/withdrawal-help-palm-springs-ca-1-1024x682.jpg)
+![withdrawal help palm springs ca](/images/blog/inline/withdrawal-help-palm-springs-ca-1.jpg)
 
 This is the part that doesn’t get talked about enough — and that catches so many people completely off guard.
 
@@ -58,7 +58,7 @@ The cumulative effect of all of this is a person whose baseline anxiety — the 
 
 ## Why This Matters for Recovery
 
-![Alcohol and Anxiety Coachella Valley Rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/04/Alcohol-and-Anxiety-Coachella-Valley-Rehab-1024x682.jpg)
+![Alcohol and Anxiety Coachella Valley Rehab](/images/blog/inline/Alcohol-and-Anxiety-Coachella-Valley-Rehab.jpg)
 
 Here is the clinical reality that makes this topic so important: treating alcohol use disorder and anxiety as separate, unrelated problems — addressing one while ignoring the other — produces significantly worse outcomes than treating them together.
 

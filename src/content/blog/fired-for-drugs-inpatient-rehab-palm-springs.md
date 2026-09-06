@@ -22,7 +22,7 @@ Let’s walk through it together.
 
 ## When Job Loss Signals Something Deeper
 
-![Fired for drugs near palm spring](https://newbeginningsrecovery.com/wp-content/uploads/2026/03/Fired-for-drugs-near-palm-springs-1024x682.jpg)
+![Fired for drugs near palm spring](/images/blog/inline/Fired-for-drugs-near-palm-springs.jpg)
 
 Being fired for substance use isn’t always just about one incident. Often, it’s the result of patterns that have been building over time.
 
@@ -105,7 +105,7 @@ At New Beginnings Recovery, our program combines clinical expertise with a calm,
 
 ## What to Expect During Inpatient Rehab
 
-![Fired for drugs inpatient rehab palm springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/03/Fired-for-drugs-inpatient-rehab-palm-springs-1024x684.jpg)
+![Fired for drugs inpatient rehab palm springs](/images/blog/inline/Fired-for-drugs-inpatient-rehab-palm-springs.jpg)
 
 If you’re considering treatment, it’s normal to wonder what daily life will look like.
 

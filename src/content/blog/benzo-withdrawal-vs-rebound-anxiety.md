@@ -8,7 +8,7 @@ draft: false
 
 ## Why Anxiety Can Spike After Stopping Benzodiazepines
 
-![benzo addiction treatment near me](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/benzo-addiction-treatment-1024x682.jpg)
+![benzo addiction treatment near me](/images/blog/inline/benzo-addiction-treatment.jpg)
 
 For many people, the most frightening part of stopping benzodiazepines isn’t physical symptoms — it’s the **return of intense anxiety**. Panic, racing thoughts, chest tightness, or a sense of impending doom can come on suddenly, leaving people wondering:
 
@@ -119,7 +119,7 @@ Knowing which one you’re dealing with helps determine whether reassurance is e
 
 ## When Anxiety Signals the Need for Medical Support
 
-![benzo rehab centers](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/benzo-rehab-centers-1024x684.jpg)
+![benzo rehab centers](/images/blog/inline/benzo-rehab-centers.jpg)
 
 Anxiety after stopping benzodiazepines is common, but **not all anxiety should be handled the same way**. Paying attention to how symptoms behave — not just how intense they feel — can help determine when support is needed.
 

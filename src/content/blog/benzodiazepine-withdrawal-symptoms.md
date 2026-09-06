@@ -8,7 +8,7 @@ draft: false
 
 ## Why Benzodiazepine Withdrawal Is Treated as a Medical Risk
 
-![best benzo rehab coachella valley ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/best-benzo-rehab-1024x682.jpg)
+![best benzo rehab coachella valley ca](/images/blog/inline/best-benzo-rehab.jpg)
 
 Medications like Xanax (alprazolam) and Ativan (lorazepam) are commonly prescribed for anxiety, panic disorders, insomnia, and other conditions. Because they’re prescribed and often taken as directed, many people assume stopping them suddenly is safe — especially if the dose seems “low” or use feels controlled.
 
@@ -103,7 +103,7 @@ This is why medical professionals strongly advise against quitting benzos cold t
 
 ## Why Supervised Medical Detox Is Often Recommended for Benzo Withdrawal
 
-![benzo rehab coachella valley ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/benzo-rehab-coachella-valley-ca-1024x682.jpg)
+![benzo rehab coachella valley ca](/images/blog/inline/benzo-rehab-coachella-valley-ca.jpg)
 
 Because benzodiazepine withdrawal can escalate quickly and affect the brain’s ability to regulate itself, **medical detox is often recommended** when medications like Xanax or Ativan are involved — especially after long-term or regular use.
 

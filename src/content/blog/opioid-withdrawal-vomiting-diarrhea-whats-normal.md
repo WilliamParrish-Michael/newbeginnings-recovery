@@ -14,7 +14,7 @@ This article explains why nausea, vomiting, and diarrhea can occur during opioid
 
 ## **Why Opioid Withdrawal Causes GI Symptoms**
 
-![opioid rehab palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/opioid-rehab-palm-springs-ca-1024x683.jpg)
+![opioid rehab palm springs ca](/images/blog/inline/opioid-rehab-palm-springs-ca.jpg)
 
 Opioids affect more than pain receptors — they also impact the digestive system. Many people experience constipation while actively using opioids because these substances slow down gut motility.
 
@@ -124,7 +124,7 @@ GI symptoms often begin within the first day and may peak within the first few d
 
 ## **Frequently Asked Questions About Vomiting and Diarrhea During Opioid Withdrawal**
 
-![opioid addiction treatment palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/opioid-addiction-treatment-palm-springs-ca-1024x682.jpg)
+![opioid addiction treatment palm springs ca](/images/blog/inline/opioid-addiction-treatment-palm-springs-ca.jpg)
 
 ### **Is vomiting normal during opioid withdrawal?**
 

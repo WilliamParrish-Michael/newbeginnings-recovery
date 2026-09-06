@@ -14,7 +14,7 @@ If you’re asking this question, you may be closer to ready than you realize. T
 
 ## Voluntary Admission: What It Means and What It Doesn’t
 
-![Can You Voluntarily Check Yourself Into Detox](https://newbeginningsrecovery.com/wp-content/uploads/2026/07/Can-You-Voluntarily-Check-Yourself-Into-Detox-1024x682.webp)
+![Can You Voluntarily Check Yourself Into Detox](/images/blog/inline/Can-You-Voluntarily-Check-Yourself-Into-Detox.webp)
 
 Voluntary admission means exactly what it sounds like: you choose to enter a detox or residential treatment program of your own accord, without being ordered to do so by a court, an employer, or anyone else.
 
@@ -42,7 +42,7 @@ For most people seeking voluntary detox, the process from first phone call to ar
 
 ## The Voluntary Admission Process: Step by Step
 
-![Alcohol Detox Coachella Valley California](https://newbeginningsrecovery.com/wp-content/uploads/2026/03/Alcohol-Detox-Coachella-Valley-California-1024x682.jpg)
+![Alcohol Detox Coachella Valley California](/images/blog/inline/Alcohol-Detox-Coachella-Valley-California.jpg)
 
 **Step 1: Make the call.**
 

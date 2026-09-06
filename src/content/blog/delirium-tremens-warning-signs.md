@@ -8,7 +8,7 @@ draft: false
 
 ## What Delirium Tremens Is — and Why It’s Treated as a Medical Emergency
 
-![Delirium Tremens treatment coachella ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/Delirium-Tremens-guide-1024x722.jpg)
+![Delirium Tremens treatment coachella ca](/images/blog/inline/Delirium-Tremens-guide.jpg)
 
 [Delirium tremens](https://pmc.ncbi.nlm.nih.gov/articles/PMC6286444/), often referred to as **DTs**, is the most severe form of alcohol withdrawal. While many people experience mild to moderate symptoms when they stop drinking, DTs represent a **medical emergency** that requires immediate attention.
 
@@ -153,7 +153,7 @@ When DT risk is present, medical detox is about **preventing a medical emergency
 
 ## When to Seek Immediate Help — and What to Do If You’re Unsure
 
-![delirium tremens treatment california](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/Delirium-Tremens-treatment-1024x682.jpg)
+![delirium tremens treatment california](/images/blog/inline/Delirium-Tremens-treatment.jpg)
 
 Delirium tremens is a medical emergency, and it’s important to act quickly if warning signs appear. If someone experiencing alcohol withdrawal develops **confusion, hallucinations, seizures, severe agitation, or disorientation**, emergency medical care is needed immediately.
 

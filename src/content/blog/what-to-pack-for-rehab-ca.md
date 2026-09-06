@@ -12,7 +12,7 @@ This guide covers what to bring, what to leave at home, and a few California-spe
 
 ## Before You Pack: Call and Ask
 
-![What to Pack for Detox and Residential Rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/06/What-to-Pack-for-Detox-and-Residential-Rehab-1024x682.webp)
+![What to Pack for Detox and Residential Rehab](/images/blog/inline/What-to-Pack-for-Detox-and-Residential-Rehab.webp)
 
 This is the single most important piece of advice in this entire guide: call your specific facility before you pack, and ask for their current packing list.
 
@@ -154,7 +154,7 @@ If you’re unsure about any specific item, the simplest approach is always to a
 
 ## Preparing for Your Stay at New Beginnings Recovery
 
-![What to pack for rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/06/What-to-pack-for-rehab-1024x684.webp)
+![What to pack for rehab](/images/blog/inline/What-to-pack-for-rehab.webp)
 
 **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** in Rancho Mirage provides a specific packing list to every client prior to admission, so there’s no guesswork involved in preparing for your stay. Our admissions team is happy to answer any questions about what to bring, what to expect, and how to prepare — including travel logistics for those coming from outside the Coachella Valley.
 

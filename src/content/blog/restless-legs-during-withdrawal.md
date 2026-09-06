@@ -14,7 +14,7 @@ While restless legs can be intensely uncomfortable, it may also be a sign that t
 
 ## **What Restless Legs During Withdrawal Can Feel Like**
 
-![restless legs from withdrawal](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/restless-legs-help-palm-springs-ca-1024x684.jpg)
+![restless legs from withdrawal](/images/blog/inline/restless-legs-help-palm-springs-ca.jpg)
 
 Restless legs are often described as more than discomfort. People commonly report sensations such as:
 
@@ -84,7 +84,7 @@ The goal is not simply comfort — it’s safety, stabilization, and support dur
 
 ## **When Restless Legs During Withdrawal May Require Medical Attention**
 
-![withdrawal help palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/withdrawal-help-palm-springs-ca-1-1024x682.jpg)
+![withdrawal help palm springs ca](/images/blog/inline/withdrawal-help-palm-springs-ca-1.jpg)
 
 Restless legs can be distressing on its own, but it may also occur alongside other symptoms that should be evaluated.
 

@@ -22,7 +22,7 @@ For the New Beginnings team, being in Palm Springs — our own backyard — for 
 
 ## What We Took Away
 
-![](https://newbeginningsrecovery.com/wp-content/uploads/2026/06/721625427_17876279358610992_2631650934342902759_n-768x1024.jpg)
+![](/images/blog/inline/721625427_17876279358610992_2631650934342902759_n.jpg)
 
 We came to learn. And we did — from researchers presenting the latest in evidence-based treatment, from clinicians sharing what’s working in their programs, from colleagues navigating the same challenges we navigate every day. The sessions covered the full landscape of what’s reshaping addiction treatment right now: advances in dual diagnosis care, trauma-informed approaches, the evolving science of neurological recovery, and the urgent ongoing work of addressing the fentanyl crisis and its implications for treatment.
 
@@ -44,7 +44,7 @@ At the same time, the professional community — the network of treatment provid
 
 ## Growth Is Part of What We Offer
 
-![](https://newbeginningsrecovery.com/wp-content/uploads/2026/06/721466419_17876279286610992_9169516615760103324_n-768x1024.jpg)
+![](/images/blog/inline/721466419_17876279286610992_9169516615760103324_n.jpg)
 
 There’s a phrase that gets said often in this field: _you can’t pour from an empty cup._ It applies to clients. It applies to families. And it applies to treatment teams.
 
@@ -54,7 +54,7 @@ The fentanyl crisis has changed the clinical landscape. The science of neurologi
 
 ## Thank You
 
-![](https://newbeginningsrecovery.com/wp-content/uploads/2026/06/722408047_17876279295610992_5539091693136438618_n-769x1024.jpg)
+![](/images/blog/inline/722408047_17876279295610992_5539091693136438618_n.jpg)
 
 To the organizers, speakers, researchers, and fellow treatment professionals who made the 2026 West Coast Symposium what it was — thank you. Conferences like this exist because people in this field believe that addiction treatment can always get better, that the people seeking help deserve care that reflects the best of what we collectively know, and that coming together as a community is part of how we get there.
 

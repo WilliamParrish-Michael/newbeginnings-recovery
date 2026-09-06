@@ -8,7 +8,7 @@ draft: false
 
 ## Why These Two Are Often Confused
 
-![rehab center coachella valley ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/rehab-center-coachella-valley-ca-1024x607.jpg)
+![rehab center coachella valley ca](/images/blog/inline/rehab-center-coachella-valley-ca.jpg)
 
 Waking up [shaky](https://pubmed.ncbi.nlm.nih.gov/8654316/), anxious, nauseated, or foggy after drinking can make anyone wonder what’s going on. Many people assume they’re dealing with a hangover — especially if they’ve felt similar symptoms before. But in some cases, those symptoms may actually be [**early alcohol withdrawal**.](https://my.clevelandclinic.org/health/diseases/alcohol-withdrawal)
 
@@ -171,7 +171,7 @@ Recognizing the difference early can help people seek guidance before symptoms b
 
 ## When to Seek Medical Help (and When Detox Is Safer)
 
-![alcohol rehab coachella valley](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/alcohol-rehab-coachella-valley-1024x684.jpg)
+![alcohol rehab coachella valley](/images/blog/inline/alcohol-rehab-coachella-valley.jpg)
 
 If you’re unsure whether you’re dealing with a hangover or alcohol withdrawal, paying attention to **how symptoms change over time** is key.
 

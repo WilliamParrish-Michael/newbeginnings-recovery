@@ -16,7 +16,7 @@ Understanding why relapse happens after detox, and what types of treatment reduc
 
 ## What Detox Does—and What It Doesn’t
 
-![relapse after detox coachella](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/relapse-after-detox-coachella-1024x684.jpg)
+![relapse after detox coachella](/images/blog/inline/relapse-after-detox-coachella.jpg)
 
 [Detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) focuses on **physical stabilization**. Its goals are to:
 
@@ -145,7 +145,7 @@ This slows the process down in a way that supports sustainability.
 
 ## Detox → Residential: A Continuum, Not a Failure
 
-![relapse after detox ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/relapse-after-detox-ca-1024x540.jpg)
+![relapse after detox ca](/images/blog/inline/relapse-after-detox-ca.jpg)
 
 Entering residential treatment after detox is **not a sign that detox “didn’t work.”** It means detox worked as intended—and now it’s time for the next phase.
 

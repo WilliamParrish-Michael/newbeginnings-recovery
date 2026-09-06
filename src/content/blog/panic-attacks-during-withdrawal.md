@@ -14,7 +14,7 @@ At the same time, certain withdrawal symptoms can signal serious medical risk. T
 
 ## **Why Panic Attacks Can Happen During Withdrawal**
 
-![anxiety help palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/anxiety-help-palm-springs-ca-1024x682.jpg)
+![anxiety help palm springs ca](/images/blog/inline/anxiety-help-palm-springs-ca.jpg)
 
 A panic attack is a sudden episode of intense fear or distress that often comes with strong physical symptoms. During withdrawal, the nervous system can become highly sensitized as the body adjusts to the absence of substances it relied on to regulate stress, sleep, and mood.
 
@@ -101,7 +101,7 @@ This kind of [supervision](https://newbeginningsrecovery.com/medical-detox-in-ra
 
 ## **What to Do If You’re Experiencing Panic Attacks During Withdrawal**
 
-![anxiety treatment palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/anxiety-treatment-palm-springs-1024x682.jpg)
+![anxiety treatment palm springs ca](/images/blog/inline/anxiety-treatment-palm-springs.jpg)
 
 If you are currently experiencing panic attacks during withdrawal, the safest next step is assessment. Even if symptoms feel “like anxiety,” withdrawal can change quickly — and medical support can help prevent complications.
 

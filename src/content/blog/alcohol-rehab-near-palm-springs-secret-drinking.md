@@ -122,7 +122,7 @@ Because secret drinking avoids accountability, addiction can progress quickly. W
 
 # When Secret Drinking Becomes Alcohol Addiction
 
-![Alcohol Rehab near Palm Springs California](https://newbeginningsrecovery.com/wp-content/uploads/2026/03/Alcohol-Rehab-near-Palm-Springs-California-1024x682.jpg)
+![Alcohol Rehab near Palm Springs California](/images/blog/inline/Alcohol-Rehab-near-Palm-Springs-California.jpg)
 
 Alcohol addiction—also known as alcohol use disorder—is a chronic disease characterized by an inability to control drinking despite negative consequences.
 
@@ -215,7 +215,7 @@ Recovery starts with honesty.
 
 # Start Your Recovery Journey Today
 
-![Time Off Work For Addiction Rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/Time-Off-Work-For-Addiction-Rehab-1024x685.jpg)
+![Time Off Work For Addiction Rehab](/images/blog/inline/Time-Off-Work-For-Addiction-Rehab.jpg)
 
 If you or someone you love is struggling with secret drinking, you are not alone—and help is available.
 

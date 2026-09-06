@@ -24,7 +24,7 @@ This guide explains how confidentiality works in treatment, what kind of communi
 
 ## Why Confidentiality Is So Important in Rehab
 
-![family support for rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/family-support-rehab-palm-springs-ca-1024x682.jpg)
+![family support for rehab](/images/blog/inline/family-support-rehab-palm-springs-ca.jpg)
 
 Privacy isn’t just a legal requirement in addiction treatment — it’s also a therapeutic one.
 
@@ -175,7 +175,7 @@ In the next section, we’ll address **common concerns families have about commu
 
 ## Common Family Questions About Updates, Communication, and Involvement
 
-![family support during rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/family-rehab-support-palm-springs-ca-1024x682.jpg)
+![family support during rehab](/images/blog/inline/family-rehab-support-palm-springs-ca.jpg)
 
 Even when families understand the basics of HIPAA, questions still come up. These are some of the most common concerns families have during a loved one’s time in rehab — and what’s helpful to know.
 

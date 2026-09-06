@@ -14,7 +14,7 @@ At **New Beginnings Recovery**, we understand that the decision to seek help oft
 
 ## What Is Same-Day Detox Near Palm Springs?
 
-![Same Day Detox Palm Springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/03/Same-Day-Detox-Palm-Springs-1024x682.jpg)
+![Same Day Detox Palm Springs](/images/blog/inline/Same-Day-Detox-Palm-Springs.jpg)
 
 Same-day detox refers to treatment programs that allow individuals to **enter detox within hours of reaching out for help**, rather than waiting for a scheduled admission date.
 
@@ -75,7 +75,7 @@ Same-day detox can help individuals:
 
 ## Frequently Asked Questions
 
-![Addiction Treatment Detox Rancho Mirage](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/Addiction-Treatment-Detox-Rancho-Mirage-1024x682.jpg)
+![Addiction Treatment Detox Rancho Mirage](/images/blog/inline/Addiction-Treatment-Detox-Rancho-Mirage.jpg)
 
 ### Can I get admitted to detox the same day near Palm Springs?
 

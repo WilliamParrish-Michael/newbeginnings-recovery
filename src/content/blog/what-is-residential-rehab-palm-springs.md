@@ -6,7 +6,7 @@ heroImage: "/images/blog/what-is-residential-rehab-palm-springs.jpg"
 draft: false
 ---
 
-![best rehab near palm springs, california](https://newbeginningsrecovery.com/wp-content/uploads/2025/11/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-112-1024x684.jpg)
+![best rehab near palm springs, california](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-112.jpg)
 
 If you’re researching treatment options, you’re probably asking a simple but important question: **what is residential rehab, and what actually happens once someone goes?**
 
@@ -205,7 +205,7 @@ The focus is not on staying “as long as possible,” but on staying **long eno
 
 ### Why Treatment Length Is Personalized
 
-![best rehab near palm springs california](https://newbeginningsrecovery.com/wp-content/uploads/2025/11/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-131-1024x577.jpg)
+![best rehab near palm springs california](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-131.jpg)
 
 Recovery doesn’t move in straight lines. Some people need more time to:
 

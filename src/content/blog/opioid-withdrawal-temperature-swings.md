@@ -8,7 +8,7 @@ draft: false
 
 ## Why Opioid Withdrawal Can Make Temperature Feel Impossible to Regulate
 
-![Opioid addiction treatment coachella california](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/Opiod-Withdrawals-Sweats-California-1024x682.jpg)
+![Opioid addiction treatment coachella california](/images/blog/inline/Opiod-Withdrawals-Sweats-California.jpg)
 
 Opioid addiction treatment coachella california
 
@@ -67,7 +67,7 @@ Recognizing that these symptoms are a **known part of opioid withdrawal** can he
 
 ## When Chills and Sweats During Opioid Withdrawal Become Concerning
 
-![opioid Withdrawal Symptoms and Help California](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/Withdrawal-Symptoms-and-Help-California-1024x682.jpg)
+![opioid Withdrawal Symptoms and Help California](/images/blog/inline/Withdrawal-Symptoms-and-Help-California.jpg)
 
 While temperature swings are a common part of opioid withdrawal, there are times when chills and sweats may signal that the body is under more strain than it can manage safely on its own.
 

@@ -14,7 +14,7 @@ Detox, rehab, and residential treatment are often talked about interchangeably, 
 
 ## What Detox Is (and When It’s Needed First)
 
-![drug detox palm springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/drug-detox-palm-springs-1024x681.jpg)
+![drug detox palm springs](/images/blog/inline/drug-detox-palm-springs.jpg)
 
 Detox, short for detoxification, is the **medical process of helping the body safely adjust when alcohol or drugs are stopped**. It focuses on the physical side of dependence — not therapy, counseling, or long-term treatment.
 
@@ -119,7 +119,7 @@ Seeing treatment as a progression — rather than a single decision — can make
 
 ## How to Figure Out Where to Start (and Get the Right Guidance)
 
-![Addiction Treatment Detox Rancho Mirage](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/Addiction-Treatment-Detox-Rancho-Mirage-1024x682.jpg)
+![Addiction Treatment Detox Rancho Mirage](/images/blog/inline/Addiction-Treatment-Detox-Rancho-Mirage.jpg)
 
 When you’re trying to decide between detox, rehab, or residential treatment, it’s normal to feel unsure. Many people worry about choosing the “wrong” level of care — or committing to more than they need.
 

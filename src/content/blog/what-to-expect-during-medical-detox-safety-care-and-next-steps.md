@@ -24,7 +24,7 @@ If you’re unsure whether detox is necessary, asking the question is already a 
 
 ## What Medical Detox Is — and Why It Exists
 
-![detox near palm springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/detox-near-palm-springs-ca-1024x682.jpg)
+![detox near palm springs](/images/blog/inline/detox-near-palm-springs-ca.jpg)
 
 Medical detox exists for one reason: **to keep people safe** during a time when the body is under stress.
 
@@ -118,7 +118,7 @@ Medical detox allows symptoms to be monitored closely so changes are caught earl
 
 ## When Mental Health Is Also Part of the Picture
 
-![medical detox near palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/medical-detox-palm-springs-ca-1024x683.jpg)
+![medical detox near palm springs ca](/images/blog/inline/medical-detox-palm-springs-ca.jpg)
 
 Anxiety, depression, panic symptoms, and mood changes often intensify during withdrawal. For some people, it becomes hard to tell where withdrawal ends and mental health symptoms begin.
 

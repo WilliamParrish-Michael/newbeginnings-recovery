@@ -8,7 +8,7 @@ draft: false
 
 ## A Growing Concern in Riverside County and Beyond
 
-![Fentanyl addiction treatment palm springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Fentanyl-addiction-treatment-palm-springs-ca-1024x684.jpg)
+![Fentanyl addiction treatment palm springs](/images/blog/inline/Fentanyl-addiction-treatment-palm-springs-ca.jpg)
 
 When substances like fentanyl and methamphetamine are used at the same time — intentionally or unintentionally — the risk of overdose can increase in ways that many people don’t expect. In Riverside County and the Coachella Valley, local public health data has shown that **polysubstance overdose incidents** — especially those involving fentanyl combined with stimulants like meth — are a part of recent overdose surveillance trends.
 
@@ -84,7 +84,7 @@ When fentanyl and meth (or other stimulants) are mixed — either knowingly or b
 
 ## When to Reach Out for Help With Polysubstance Risk
 
-![Fentanyl and Meth addiction treatment palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/drug-addiction-treatment-palm-springs-ca-1024x684.jpg)
+![Fentanyl and Meth addiction treatment palm springs ca](/images/blog/inline/drug-addiction-treatment-palm-springs-ca.jpg)
 
 drug addiction treatment palm springs ca
 

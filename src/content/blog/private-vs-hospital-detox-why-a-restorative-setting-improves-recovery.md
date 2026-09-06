@@ -8,7 +8,7 @@ draft: false
 
 ## Understanding the Difference Between Private and Hospital Detox
 
-![Private Detox in Rancho Mirage](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Private-Detox-in-Rancho-Mirage-1024x755.jpg)
+![Private Detox in Rancho Mirage](/images/blog/inline/Private-Detox-in-Rancho-Mirage.jpg)
 
 When someone needs [detox,](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) one of the first decisions is where that detox should take place.
 
@@ -124,7 +124,7 @@ This continuity reduces the gap between detox and recovery — a gap where relap
 
 ## Why Environment Matters During Early Recovery
 
-![](https://newbeginningsrecovery.com/wp-content/uploads/2025/11/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-107-1024x667.jpg)
+![](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-107.jpg)
 
 Detox is not only about removing substances from the body. It is about helping the nervous system stabilize.
 

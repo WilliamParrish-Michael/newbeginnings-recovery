@@ -70,7 +70,7 @@ Coverage may differ depending on whether you need detox, residential treatment, 
 
 ## What Types of Rehab Services Are Typically Covered?
 
-![Insurance Coverage for rehab near palm springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/03/Insurance-Coverage-for-rehab-near-palm-springs-1024x684.jpg)
+![Insurance Coverage for rehab near palm springs](/images/blog/inline/Insurance-Coverage-for-rehab-near-palm-springs.jpg)
 
 While every plan is unique, many insurance providers cover a range of addiction treatment services.
 
@@ -88,7 +88,7 @@ Because addiction is often connected to mental health, services like individual 
 
 ## How to Verify Your Insurance for Rehab
 
-![Does Insurance Cover Rehab Near Palm Springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/03/Does-Insurance-Cover-Rehab-Near-Palm-Springs-1024x682.jpg)
+![Does Insurance Cover Rehab Near Palm Springs](/images/blog/inline/Does-Insurance-Cover-Rehab-Near-Palm-Springs.jpg)
 
 Trying to read an insurance policy on your own can feel overwhelming. The language isn’t always clear, and it can be difficult to know what applies to your situation.
 
@@ -144,7 +144,7 @@ Getting clear information doesn’t mean you have to commit to anything right aw
 
 ## Why Choose Rehab Near Palm Springs?
 
-![detox coachella valley ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/detox-coachella-valley-ca-1024x684.jpeg)
+![detox coachella valley ca](/images/blog/inline/detox-coachella-valley-ca.jpeg)
 
 If you’re considering treatment, location can play an important role.
 

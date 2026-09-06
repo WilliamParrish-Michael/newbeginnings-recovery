@@ -16,7 +16,7 @@ That’s what this blog is about. Not just how to survive fentanyl withdrawal, b
 
 ## The Mental Health Connection Is Real — and It’s Significant
 
-![dual diagnosis treatment near palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/dual-diagnosis-near-palm-springs-ca-1024x682.jpg)
+![dual diagnosis treatment near palm springs ca](/images/blog/inline/dual-diagnosis-near-palm-springs-ca.jpg)
 
 This isn’t a small overlap. Research from the [CDC’s overdose reporting system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11361413/) found that among people who died of drug overdose in 2022 — most of which involved fentanyl — nearly 22% had a documented mental health disorder. Depression, anxiety, and bipolar disorder were the most common.
 
@@ -48,7 +48,7 @@ One more thing worth knowing: relapse after a period of abstinence is especially
 
 ## Why Treating Only the Addiction Isn’t Enough
 
-![detox services palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/detox-services-palm-springs-ca-1024x649.jpg)
+![detox services palm springs ca](/images/blog/inline/detox-services-palm-springs-ca.jpg)
 
 Here’s the honest truth: if someone started using fentanyl because they were trying to manage depression or numb out trauma, getting them through withdrawal doesn’t solve the depression or the trauma. It just removes the thing they were using to cope with it.
 

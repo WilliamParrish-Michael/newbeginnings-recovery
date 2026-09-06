@@ -8,7 +8,7 @@ draft: false
 
 ## Why Meth Withdrawal Feels So Emotionally Heavy
 
-![meth rehab palm springs california](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/meth-rehab-palm-springs-california-1024x684.jpg)
+![meth rehab palm springs california](/images/blog/inline/meth-rehab-palm-springs-california.jpg)
 
 For many people, meth withdrawal isn’t defined by pain or nausea — it’s defined by an overwhelming sense of **emptiness, exhaustion, and depression**. After stopping meth, the sudden emotional drop can feel shocking, especially if energy and motivation were closely tied to the drug.
 
@@ -118,7 +118,7 @@ Because so many factors are involved, comparing timelines with others often lead
 
 ## When Depression or Fatigue During Meth Withdrawal Needs Support
 
-![meth addiction treatment palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/meth-addiction-treatment-palm-springs-ca-1024x681.jpg)
+![meth addiction treatment palm springs ca](/images/blog/inline/meth-addiction-treatment-palm-springs-ca.jpg)
 
 Feeling depressed, exhausted, or emotionally numb during meth withdrawal is common — but that doesn’t mean it should be ignored. Paying attention to **how symptoms affect safety and daily functioning** is important during this phase.
 

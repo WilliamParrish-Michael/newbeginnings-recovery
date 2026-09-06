@@ -14,7 +14,7 @@ This is why targeted dual diagnosis care for bipolar disorder and substance use 
 
 ## How Common Is This Combination?
 
-![Bipolar-Disorder-and Substance Abuse Treatment CA](https://newbeginningsrecovery.com/wp-content/uploads/2026/05/Bipolar-Disorder-and-Substance-Abuse-Treatment-CA-1024x683.jpg)
+![Bipolar-Disorder-and Substance Abuse Treatment CA](/images/blog/inline/Bipolar-Disorder-and-Substance-Abuse-Treatment-CA.jpg)
 
 Remarkably common — though it’s still surprising to most people who hear it for the first time.
 
@@ -40,7 +40,7 @@ Understanding how bipolar disorder and substance use disorder interact is essent
 
 ## The Diagnostic Challenge: Why Getting It Right Takes Time
 
-![benzo addiction treatment near me](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/benzo-addiction-treatment-1024x682.jpg)
+![benzo addiction treatment near me](/images/blog/inline/benzo-addiction-treatment.jpg)
 
 One of the most common reasons bipolar disorder goes undiagnosed — or is misdiagnosed as major depression, ADHD, borderline personality disorder, or simply “a drinking problem” — is that the full picture requires time and clinical expertise to see clearly.
 

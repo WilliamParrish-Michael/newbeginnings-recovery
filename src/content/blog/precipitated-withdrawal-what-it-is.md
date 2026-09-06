@@ -26,7 +26,7 @@ Understanding what’s happening physiologically can help reduce fear and guide 
 
 ## What Causes Precipitated Withdrawal
 
-![withdrawal help palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Withdrawal-help-palm-springs-ca-1024x682.jpg)
+![withdrawal help palm springs ca](/images/blog/inline/Withdrawal-help-palm-springs-ca.jpg)
 
 Precipitated withdrawal happens because of how certain medications interact with opioid receptors in the brain — not because someone did something wrong.
 
@@ -113,7 +113,7 @@ Because experiences vary widely, medical assessment can help determine what supp
 
 ## Why Medical Guidance Matters With Precipitated Withdrawal
 
-![precipitated withdrawal help palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Withdrawal-rehab-coachella-ca-1024x682.jpg)
+![precipitated withdrawal help palm springs ca](/images/blog/inline/Withdrawal-rehab-coachella-ca.jpg)
 
 Because precipitated withdrawal happens suddenly and can be extremely intense, **medical guidance is especially important** when it occurs. The goal isn’t to assign blame or rush decisions — it’s to help the nervous system stabilize safely.
 

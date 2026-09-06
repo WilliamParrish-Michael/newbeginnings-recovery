@@ -16,7 +16,7 @@ That’s the dual diagnosis picture. And it changes everything about how treatme
 
 ## Why Relapse Keeps Happening — What Most People Don’t Know
 
-![Kratom Withdrawal Symptoms California](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Kratom-Withdrawal-Symptoms-California--1024x683.jpg)
+![Kratom Withdrawal Symptoms California](/images/blog/inline/Kratom-Withdrawal-Symptoms-California-.jpg)
 
 Relapse is common in addiction recovery. Substance use disorders are classified as chronic conditions — more similar to diabetes or hypertension than to a broken bone — and like other chronic conditions, they often involve periods of recurrence alongside periods of remission. This is not an excuse. It’s a clinical reality that informs how treatment should be structured.
 
@@ -42,7 +42,7 @@ And an unmet need, sustained long enough, finds a way back to what has historica
 
 ## Why Standard Addiction Treatment Often Falls Short for This Population
 
-![detox services palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/detox-services-palm-springs-ca-1024x649.jpg)
+![detox services palm springs ca](/images/blog/inline/detox-services-palm-springs-ca.jpg)
 
 This is worth saying directly, because it matters for understanding why treatment hasn’t worked before.
 

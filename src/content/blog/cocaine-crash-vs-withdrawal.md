@@ -26,7 +26,7 @@ This article explains the difference between a cocaine crash and cocaine withdra
 
 ## What a Cocaine Crash Is (and Why It Happens)
 
-![cocaine addiction treatment ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/cocaine-addiction-treatment-1024x684.jpg)
+![cocaine addiction treatment ca](/images/blog/inline/cocaine-addiction-treatment.jpg)
 
 A cocaine crash is the body and brain’s immediate response to the sudden absence of stimulation after cocaine use stops. It typically happens **within hours to a few days** after the last use and is driven by sharp changes in brain chemistry — not by weakness or lack of motivation.
 
@@ -119,7 +119,7 @@ Because of this variability, comparing timelines with others often increases anx
 
 ## What’s Normal — and When to Get Help
 
-![cocaine addiction treatment coachella ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/cocaine-addiction-treatment-coachella-ca-1024x682.jpg)
+![cocaine addiction treatment coachella ca](/images/blog/inline/cocaine-addiction-treatment-coachella-ca.jpg)
 
 Feeling emotionally low, tired, or unmotivated after stopping cocaine is common. For many people, these symptoms gradually improve as the brain’s chemistry stabilizes. Still, it’s important to pay attention to **how symptoms change over time**, not just how intense they feel in the moment.
 

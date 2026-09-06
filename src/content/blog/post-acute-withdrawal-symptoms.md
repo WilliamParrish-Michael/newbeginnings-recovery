@@ -8,7 +8,7 @@ draft: false
 
 ## Why Post Acute Withdrawal Symptoms Can Continue After Detox Ends
 
-![Learn-About-Post-Acute Withdrawal Symptoms at New Beginnings Recovery](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Learn-About-Post-Acute-Withdrawal-Symptoms-at-New-Beginnings-Recovery-1024x682.jpg)
+![Learn-About-Post-Acute Withdrawal Symptoms at New Beginnings Recovery](/images/blog/inline/Learn-About-Post-Acute-Withdrawal-Symptoms-at-New-Beginnings-Recovery.jpg)
 
 Finishing detox is a major step — but for many people, it’s not the end of withdrawal symptoms. After the body stabilizes physically, the brain may still need time to heal. This phase is often referred to as **Post-acute withdrawal symptoms or PAWS**, or **[post-acute withdrawal syndrome](https://www.sciencedirect.com/science/article/abs/pii/S1555415521005523)**.
 
@@ -167,7 +167,7 @@ In these cases, additional structure and support can help make this phase more m
 
 ## Why Ongoing Support Matters After Detox
 
-![What is Residential Treatment in Palm Springs](https://newbeginningsrecovery.com/wp-content/uploads/2025/11/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-132-1024x682.jpg)
+![What is Residential Treatment in Palm Springs](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-132.jpg)
 
 PAWS can be one of the most vulnerable phases of recovery — not because symptoms are extreme, but because they’re **subtle, persistent, and emotionally draining**. Many people feel caught off guard by how hard this stage can be after getting through detox.
 

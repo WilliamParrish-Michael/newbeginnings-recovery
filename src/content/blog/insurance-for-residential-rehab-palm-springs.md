@@ -44,7 +44,7 @@ The specific terms — your deductible, your copay or coinsurance, your out-of-p
 
 ## What “Out-of-Pocket” Actually Means — and Why It’s Not the Same as Unaffordable
 
-![Same Day Detox Palm Springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/03/Same-Day-Detox-Palm-Springs-1024x682.jpg)
+![Same Day Detox Palm Springs](/images/blog/inline/Same-Day-Detox-Palm-Springs.jpg)
 
 When a residential rehab program operates outside of direct insurance contracts, it’s sometimes described as “out-of-pocket” or “private pay.” For many people, that phrase triggers an assumption that insurance won’t help at all — and that treatment is entirely self-funded. That assumption is worth examining.
 
@@ -76,7 +76,7 @@ Private residential rehab near Palm Springs, while a significant financial inves
 
 ## How to Verify Your Insurance for Residential Rehab
 
-![Insurance for Residential Rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/addiction-treatment-palm-springs-ca-1024x682.jpg)
+![Insurance for Residential Rehab](/images/blog/inline/addiction-treatment-palm-springs-ca.jpg)
 
 The verification process is simpler than most people expect — and a quality admissions team handles it on your behalf.
 

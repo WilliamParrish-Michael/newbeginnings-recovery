@@ -6,7 +6,7 @@ heroImage: "/images/blog/liver-pain-from-drinking-alcohol-detox.jpg"
 draft: false
 ---
 
-![Liver Pain From Drinking](https://newbeginningsrecovery.com/wp-content/uploads/2026/04/Liver-Pain-From-Drinking-1024x682.jpg)
+![Liver Pain From Drinking](/images/blog/inline/Liver-Pain-From-Drinking.jpg)
 
 That dull ache under your right ribcage. The heaviness you feel after a night of drinking that doesn’t quite go away. The sense that something isn’t right in a way that’s harder to dismiss than it used to be.
 
@@ -34,7 +34,7 @@ The difference between what is reversible and what is not often comes down to on
 
 ## 5 Warning Signs You Need Alcohol Detox Now
 
-![Alcohol Detox Palm Springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/04/Alcohol-Detox-Palm-Springs-1024x682.jpg)
+![Alcohol Detox Palm Springs](/images/blog/inline/Alcohol-Detox-Palm-Springs.jpg)
 
 ### 1\. Pain or Discomfort in the Upper Right Abdomen
 

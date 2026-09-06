@@ -16,7 +16,7 @@ At **[New Beginnings Recovery](https://newbeginningsrecovery.com/)**, we underst
 
 ## Understanding Fentanyl Dependence
 
-![Drug Rehab in Palm Springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/03/Drug-Rehab-in-Palm-Springs-1024x683.jpg)
+![Drug Rehab in Palm Springs](/images/blog/inline/Drug-Rehab-in-Palm-Springs.jpg)
 
 [Fentanyl is a synthetic opioid](https://www.dea.gov/factsheets/fentanyl) that is significantly stronger than many other opioids. While it is sometimes prescribed for severe pain in medical settings, illicit fentanyl has become increasingly common in the drug supply. It may appear on its own or be mixed with other substances such as heroin, cocaine, or counterfeit prescription pills.
 
@@ -95,7 +95,7 @@ These resources can help individuals maintain motivation and stability as they t
 
 ## Frequently Asked Questions
 
-![best palm springs detox center out of state detox treatment](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/palm-springs-detox-center-1024x682.jpg)
+![best palm springs detox center out of state detox treatment](/images/blog/inline/palm-springs-detox-center.jpg)
 
 ### What should I do after surviving a fentanyl overdose?
 

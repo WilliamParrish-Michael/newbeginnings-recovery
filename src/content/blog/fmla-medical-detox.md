@@ -8,7 +8,7 @@ draft: false
 
 ## Understanding Job Protection During Medical Detox
 
-![best palm springs detox center out of state detox treatment](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/palm-springs-detox-center-1024x682.jpg)
+![best palm springs detox center out of state detox treatment](/images/blog/inline/palm-springs-detox-center.jpg)
 
 One of the biggest fears people have when considering medical detox isn’t withdrawal — it’s work.
 
@@ -80,7 +80,7 @@ In other words:
 
 ### Does Your Employer Have to Know It’s Detox?
 
-![Detox for High Functioning Professionals California](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/Detox-for-High-Functioning-Professionals-California--1024x683.jpg)
+![Detox for High Functioning Professionals California](/images/blog/inline/Detox-for-High-Functioning-Professionals-California-.jpg)
 
 When requesting FMLA leave, employees are typically required to provide medical certification confirming that leave is necessary for a qualifying health condition.
 

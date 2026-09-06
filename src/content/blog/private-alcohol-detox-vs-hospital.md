@@ -6,7 +6,7 @@ heroImage: "/images/blog/private-alcohol-detox-vs-hospital.jpg"
 draft: false
 ---
 
-![kratom addiction treatment coachella valley california](https://newbeginningsrecovery.com/wp-content/uploads/2025/11/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-150-1024x684.jpg)
+![kratom addiction treatment coachella valley california](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-150.jpg)
 
 When someone decides they need help with alcohol, one of the first questions that follows is: _where do I go?_
 
@@ -28,7 +28,7 @@ This leaves a gap. And private residential detox programs exist precisely to fil
 
 ## What Is Private Residential Detox?
 
-![benzo addiction treatment ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/benzo-addiction-treatment-coachella-1024x682.jpg)
+![benzo addiction treatment ca](/images/blog/inline/benzo-addiction-treatment-coachella.jpg)
 
 Private residential alcohol detox is a medically supervised withdrawal management program delivered in a dedicated treatment facility rather than a hospital setting. Clients live on-site for the duration of the detox process — typically five to seven days for alcohol, though this varies — with 24/7 clinical monitoring, medication management, nutritional support, and access to therapeutic support throughout.
 

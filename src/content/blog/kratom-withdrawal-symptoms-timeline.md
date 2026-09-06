@@ -8,7 +8,7 @@ draft: false
 
 ## Why Kratom Withdrawal Is Becoming a More Common Search
 
-![Kratom Withdrawal Symptoms California](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Kratom-Withdrawal-Symptoms-California--1024x683.jpg)
+![Kratom Withdrawal Symptoms California](/images/blog/inline/Kratom-Withdrawal-Symptoms-California-.jpg)
 
 For years, [kratom](https://www.dea.gov/sites/default/files/2020-06/Kratom-2020_0.pdf) was often discussed as a “natural” option for pain, anxiety, or opioid withdrawal support. Many people assumed that because it comes from a plant, it couldn’t cause dependence — or that stopping would be mild compared to other substances.
 
@@ -208,7 +208,7 @@ This is why medical guidance can be helpful, especially when withdrawal feels mo
 
 ## When to Seek Help for Kratom Withdrawal
 
-![Kratom Detox in California](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Kratom-Detox-in-California-1024x684.jpg)
+![Kratom Detox in California](/images/blog/inline/Kratom-Detox-in-California.jpg)
 
 Kratom withdrawal isn’t always dangerous in the way alcohol or benzodiazepine withdrawal can be, but that doesn’t mean it’s easy to manage alone. Sleep disruption, anxiety, and cravings can make withdrawal feel exhausting — and for some people, symptoms are more intense than expected.
 

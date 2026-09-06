@@ -16,7 +16,7 @@ This article isn’t meant to frighten you. It’s meant to give you the honest 
 
 ## What Actually Happens During an Alcohol Blackout
 
-![meth addiction treatment palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/meth-addiction-treatment-palm-springs-ca-1024x681.jpg)
+![meth addiction treatment palm springs ca](/images/blog/inline/meth-addiction-treatment-palm-springs-ca.jpg)
 
 First, it helps to understand what a blackout actually is — because it’s commonly misunderstood.
 
@@ -30,7 +30,7 @@ The fact that you were functioning — driving, talking, making decisions — wh
 
 ## 5 Reasons a Blackout Is a Signal to Seek Alcohol Detox
 
-![alcohol detox palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/alcohol-detox-palm-springs-ca-1024x682.jpg)
+![alcohol detox palm springs ca](/images/blog/inline/alcohol-detox-palm-springs-ca.jpg)
 
 ### 1\. Blackouts Are a Sign of Physical Dependence, Not Just Heavy Drinking
 
@@ -94,7 +94,7 @@ The setting matters more than people expect. Detox is hard. Recovery requires en
 
 ## A Word to Anyone Who Has Been Dismissing the Blackout
 
-![meth rehab palm springs california](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/meth-rehab-palm-springs-california-1024x684.jpg)
+![meth rehab palm springs california](/images/blog/inline/meth-rehab-palm-springs-california.jpg)
 
 If you’ve been telling yourself that blacking out occasionally is just part of how you drink — that it doesn’t mean anything serious, that plenty of people do it — this is worth reading one more time:
 

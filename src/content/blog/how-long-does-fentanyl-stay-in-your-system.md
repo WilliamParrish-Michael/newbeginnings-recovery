@@ -12,7 +12,7 @@ The answer depends on what you mean by “in your system.” There’s a differe
 
 ## Fentanyl’s Half-Life: The Starting Point
 
-![Drug Rehab in Palm Springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/03/Drug-Rehab-in-Palm-Springs-1024x683.jpg)
+![Drug Rehab in Palm Springs](/images/blog/inline/Drug-Rehab-in-Palm-Springs.jpg)
 
 To understand how long fentanyl stays in your system, it helps to start with half-life — the time it takes for your body to eliminate half of a given dose.
 
@@ -36,7 +36,7 @@ Several factors influence where an individual falls within these ranges. Chronic
 
 ## Fentanyl Withdrawal: A Different Timeline Entirely
 
-![How Long Does Fentanyl Stay in Your System](https://newbeginningsrecovery.com/wp-content/uploads/2026/07/How-Long-Does-Fentanyl-Stay-in-Your-System--1024x682.webp)
+![How Long Does Fentanyl Stay in Your System](/images/blog/inline/How-Long-Does-Fentanyl-Stay-in-Your-System-.webp)
 
 Knowing how long fentanyl stays detectable is different from understanding what happens physically and psychologically after quitting. Withdrawal from fentanyl follows its own timeline — and for people with significant dependence, it is one of the most physically demanding experiences a person can go through.
 

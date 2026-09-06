@@ -14,7 +14,7 @@ For veterans in Riverside County and across the Coachella Valley, this is a fami
 
 ## The Scale of the Problem Among Veterans
 
-![Dual Diagnosis Treatment for Veterans River Side](https://newbeginningsrecovery.com/wp-content/uploads/2026/07/Dual-Diagnosis-Treatment-for-Veterans-River-Side-1024x683.webp)
+![Dual Diagnosis Treatment for Veterans River Side](/images/blog/inline/Dual-Diagnosis-Treatment-for-Veterans-River-Side.webp)
 
 Military service creates conditions of profound psychological risk that civilian life rarely matches. Combat exposure. The loss of fellow service members. Moral injury. The chronic stress of sustained deployment. And then the disorienting transition back to a world where none of that context exists for most of the people around you.
 
@@ -50,7 +50,7 @@ For veterans in Riverside County who need immediate access to high-quality, inte
 
 ## What Dual Diagnosis Treatment for Veterans Should Include
 
-![Dual Diagnosis Treatment for Veterans](https://newbeginningsrecovery.com/wp-content/uploads/2026/07/AdobeStock_2012011201-1-1024x576.jpeg)
+![Dual Diagnosis Treatment for Veterans](/images/blog/inline/AdobeStock_2012011201-1.jpeg)
 
 Not every dual diagnosis program is equipped to serve veterans well. The intersection of combat trauma, moral injury, military culture, and substance use disorder creates a clinical picture that is specific enough to require genuine expertise — not just good intentions.
 

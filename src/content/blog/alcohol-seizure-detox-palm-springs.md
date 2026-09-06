@@ -104,7 +104,7 @@ While each experience is different, alcohol detox typically follows a general ti
 
 ## Why Choose Detox Near Palm Springs?
 
-![drug detox palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/drug-detox-palm-springs-ca-1-1024x576.jpg)
+![drug detox palm springs ca](/images/blog/inline/drug-detox-palm-springs-ca-1.jpg)
 
 Choosing a detox program close to Palm Springs offers more than just convenience—it provides access to specialized care in a calm, supportive environment.
 
@@ -133,7 +133,7 @@ Continuing treatment helps build the tools needed to maintain long-term recovery
 
 ## You’re Not Alone in This
 
-![anxiety help palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/anxiety-help-palm-springs-ca-1024x682.jpg)
+![anxiety help palm springs ca](/images/blog/inline/anxiety-help-palm-springs-ca.jpg)
 
 Experiencing—or even worrying about—an alcohol seizure can be frightening. It’s not something anyone plans for, and it can leave you feeling uncertain about what to do next.
 

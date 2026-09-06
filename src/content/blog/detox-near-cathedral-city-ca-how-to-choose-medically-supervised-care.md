@@ -8,7 +8,7 @@ draft: false
 
 ## Choosing Safe Detox Support Near Cathedral City
 
-![detox services cathedral city ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/detox-services-cathedral-city-ca-1024x683.jpeg)
+![detox services cathedral city ca](/images/blog/inline/detox-services-cathedral-city-ca.jpeg)
 
 Searching for **detox near Cathedral City, CA** often means you’re trying to make a careful decision under pressure — whether withdrawal symptoms are starting, substance use has escalated, or safety is becoming a concern.
 
@@ -110,7 +110,7 @@ Admissions should feel calm and informative — not rushed or pressured. You sho
 
 ## When Detox Is Safer Than Quitting at Home
 
-![detox catherdral city ca ](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/detox-cathedral-city-ca-1024x678.jpeg)
+![detox catherdral city ca ](/images/blog/inline/detox-cathedral-city-ca.jpeg)
 
 Some people consider stopping on their own, especially if symptoms feel manageable at first. But withdrawal can escalate after a delay, and certain substances carry higher risk.
 

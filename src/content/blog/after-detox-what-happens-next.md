@@ -14,7 +14,7 @@ If you’ve been searching for guidance on what comes after detox — for a spou
 
 ## First: Understand What Detox Actually Accomplished
 
-![](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Kratom-Detox-in-California-1024x684.jpg)
+![](/images/blog/inline/Kratom-Detox-in-California.jpg)
 
 Detox is an essential first step — and it is exactly that: a first step.
 
@@ -36,7 +36,7 @@ This is why the question of what comes after detox isn’t one to figure out aft
 
 ## The Continuum of Care: What Recovery Actually Looks Like
 
-![best benzo rehab coachella valley ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/best-benzo-rehab-1024x682.jpg)
+![best benzo rehab coachella valley ca](/images/blog/inline/best-benzo-rehab.jpg)
 
 Recovery from alcohol or substance use disorder is not a single event. It’s a process that unfolds over time, requiring different levels of support at different stages. The clinical framework that describes this is called the continuum of care — a connected series of treatment phases designed to meet a person where they are and carry them forward as they stabilize and grow.
 

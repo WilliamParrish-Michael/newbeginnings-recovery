@@ -23,7 +23,7 @@ This guide explains what to do if withdrawal is starting in Indio or the Coachel
 
 ## Signs Withdrawal May Need Medical Detox
 
-![detox center indio ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/detox-center-indio-ca-1024x683.jpg)
+![detox center indio ca](/images/blog/inline/detox-center-indio-ca.jpg)
 
 Withdrawal can look different for everyone. Some people feel mild discomfort that improves with time, while others experience symptoms that escalate quickly or become unsafe without support.
 
@@ -117,7 +117,7 @@ Families don’t have to “win” a conversation — they just need to help kee
 
 ## What to Expect When You Call New Beginnings Recovery
 
-![drug detox timeline](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/drug-detox-timeline-1024x682.jpg)
+![drug detox timeline](/images/blog/inline/drug-detox-timeline.jpg)
 
 If withdrawal is starting and you’re unsure what to do next, calling **[New Beginnings Recovery](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/)** is often the simplest first step. You don’t need a diagnosis, a plan, or certainty — just a willingness to talk through what’s happening.
 

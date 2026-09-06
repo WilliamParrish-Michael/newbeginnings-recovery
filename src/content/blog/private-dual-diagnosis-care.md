@@ -16,7 +16,7 @@ If any part of this sounds familiar, this article is for you.
 
 ## The Professional Trap: Why High Achievers Wait Longest
 
-![](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Kratom-Detox-in-California-1024x684.jpg)
+![](/images/blog/inline/Kratom-Detox-in-California.jpg)
 
 There’s a reason that professionals often delay getting help longer than almost anyone else. And it’s not because they don’t recognize the problem.
 
@@ -36,7 +36,7 @@ These are not excuses. They are real obstacles. And a private, specialized treat
 
 ## What the Research Says About Professionals and Burnout-Driven Substance Use
 
-![withdrawal help palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/withdrawal-help-palm-springs-ca-1-1024x682.jpg)
+![withdrawal help palm springs ca](/images/blog/inline/withdrawal-help-palm-springs-ca-1.jpg)
 
 The connection between high-stress professional environments and substance use disorder is well-documented — and has grown significantly over the past several years.
 

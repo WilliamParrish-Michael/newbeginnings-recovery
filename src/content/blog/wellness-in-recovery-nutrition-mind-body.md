@@ -8,7 +8,7 @@ draft: false
 
 ## Why Wellness Is Part of Recovery — Not a Replacement for Treatment
 
-![nutrition during drug rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/nutrition-during-drug-rehab-1024x682.jpg)
+![nutrition during drug rehab](/images/blog/inline/nutrition-during-drug-rehab.jpg)
 
 When people hear “wellness” in recovery, reactions are often mixed. Some feel hopeful. Others feel skeptical. Families, in particular, may worry that wellness means replacing medical or clinical care with something less serious.
 
@@ -68,7 +68,7 @@ At New Beginnings Recovery, mind-body practices are offered as supportive option
 
 ## How Wellness Fits Into Treatment (Without Replacing Clinical Care)
 
-![nutrition during drug detox wellness in recovery](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/nutrition-during-drug-detox-1024x682.jpg)
+![nutrition during drug detox wellness in recovery](/images/blog/inline/nutrition-during-drug-detox.jpg)
 
 [Wellness services](https://newbeginningsrecovery.com/wellness-services-in-rancho-mirage-palm-springs/) work best when they are integrated thoughtfully into treatment — not layered on top as an expectation or used as a substitute for therapy or medical support.
 

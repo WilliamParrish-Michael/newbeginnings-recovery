@@ -16,7 +16,7 @@ There is no “right” choice for everyone. What matters is understanding why p
 
 ## Why Some People Feel Safer Getting Help Away From Home
 
-![best palm springs detox center out of state detox treatment](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/palm-springs-detox-center-1024x682.jpg)
+![best palm springs detox center out of state detox treatment](/images/blog/inline/palm-springs-detox-center.jpg)
 
 For many people, the idea of leaving their state for [detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) isn’t about distance — it’s about relief.
 
@@ -54,7 +54,7 @@ That said, out-of-state detox isn’t automatically better than staying close to
 
 ## Potential Challenges to Think Through
 
-![best detox in palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/best-detox-in-palm-springs-ca-1024x682.jpg)
+![best detox in palm springs ca](/images/blog/inline/best-detox-in-palm-springs-ca.jpg)
 
 While out-of-state detox can be a helpful option for many people, it’s important to think through the practical and emotional considerations before deciding.
 

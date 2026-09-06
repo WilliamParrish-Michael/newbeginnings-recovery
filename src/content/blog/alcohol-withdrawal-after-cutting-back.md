@@ -8,7 +8,7 @@ draft: false
 
 ## Why Reducing Alcohol Doesn’t Always Mean Withdrawal Is Avoided
 
-![alcohol rehab coachella valley ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/alcohol-rehab-coachella-valley-ca-1024x576.jpg)
+![alcohol rehab coachella valley ca](/images/blog/inline/alcohol-rehab-coachella-valley-ca.jpg)
 
 Many people assume alcohol withdrawal only happens when someone stops drinking completely. So when symptoms show up after _cutting back_ — fewer drinks, earlier nights, skipping days — it can feel confusing and unexpected.
 
@@ -105,7 +105,7 @@ Timelines vary. Some people notice symptoms for a few days, while others experie
 
 ## When to Seek Medical Guidance After Cutting Back on Alcohol
 
-![alcohol withdrawal treatment](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/alcohol-withdrawal-treatment-1024x684.jpg)
+![alcohol withdrawal treatment](/images/blog/inline/alcohol-withdrawal-treatment.jpg)
 
 Cutting back on alcohol is often a positive step, but if withdrawal symptoms begin or worsen, it’s important to take what your body is signaling seriously.
 

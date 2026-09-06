@@ -14,7 +14,7 @@ Fortunately, there are alternatives. Many individuals choose **[private detox pr
 
 ## What Is Private Detox?
 
-![Private vs Hospital Detox Palm Desert CA](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Private-vs-hospital-Detox-Palm-Desert-CA-1024x682.jpg)
+![Private vs Hospital Detox Palm Desert CA](/images/blog/inline/Private-vs-hospital-Detox-Palm-Desert-CA.jpg)
 
 Private detox refers to detox services offered through specialized addiction treatment programs rather than hospital emergency rooms. These programs focus specifically on helping individuals safely withdraw from substances while preparing them for ongoing recovery.
 
@@ -51,7 +51,7 @@ Each substance can affect the body differently, which is why detox support can h
 
 ## What Happens During Private Detox?
 
-![Private Detox near Palm Springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/03/Private-Detox-near-Palm-Springs-1-1024x682.jpg)
+![Private Detox near Palm Springs](/images/blog/inline/Private-Detox-near-Palm-Springs-1.jpg)
 
 The detox process focuses on helping individuals stabilize while preparing them for continued addiction treatment. While each program may vary, detox typically includes:
 

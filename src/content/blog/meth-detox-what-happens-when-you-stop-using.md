@@ -14,7 +14,7 @@ That’s what this is.
 
 ## What Meth Does to the Brain — and Why Stopping Is So Hard
 
-![meth detox in palm springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/07/meth-detox-in-palm-springs-1024x682.webp)
+![meth detox in palm springs](/images/blog/inline/meth-detox-in-palm-springs.webp)
 
 To understand meth withdrawal, you have to understand what methamphetamine does neurologically — because the withdrawal experience is essentially the brain responding to the sudden absence of something it has profoundly reorganized around.
 

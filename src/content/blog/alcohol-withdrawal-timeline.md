@@ -8,7 +8,7 @@ draft: false
 
 ## Why Alcohol Withdrawal Doesn’t Look the Same for Everyone
 
-![alcohol rehab coachella valley](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/alcohol-rehab-coachella-valley-ca-1-1024x682.jpg)
+![alcohol rehab coachella valley](/images/blog/inline/alcohol-rehab-coachella-valley-ca-1.jpg)
 
 When people search for an alcohol withdrawal timeline, they’re usually looking for reassurance. They want to know _what’s normal_, how long symptoms might last, and whether what they’re experiencing is something they can ride out — or something that needs medical help.
 
@@ -126,7 +126,7 @@ This is also the stage where people sometimes underestimate risk, assuming they�
 
 ## When Detox Is Safer Than Managing Alcohol Withdrawal Alone
 
-![alcohol rehab coachella ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/alcohol-rehab-coachella-ca-1024x768.jpg)
+![alcohol rehab coachella ca](/images/blog/inline/alcohol-rehab-coachella-ca.jpg)
 
 Not everyone who stops drinking needs medical detox, but **many people underestimate their risk**, especially if early symptoms feel manageable. The alcohol withdrawal timeline helps explain why symptoms can change — and sometimes escalate — after the first day or two.
 

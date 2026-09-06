@@ -20,7 +20,7 @@ This article explains what private detox typically looks like for professionals,
 
 ## Why Privacy and Confidentiality Matter in Detox
 
-![rehab for business professionals california](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/rehab-for-business-professionals-california-1024x683.jpg)
+![rehab for business professionals california](/images/blog/inline/rehab-for-business-professionals-california.jpg)
 
 For [professionals](https://newbeginningsrecovery.com/), privacy isn’t about hiding — it’s about maintaining appropriate boundaries. Careers, licenses, leadership roles, and public-facing responsibilities can all make the idea of seeking detox feel risky, even when health clearly needs attention.
 
@@ -56,7 +56,7 @@ Private detox doesn’t force a one-size-fits-all outcome. Some professionals tr
 
 ## How Confidentiality Is Protected During Detox
 
-![executive rehab palm springs california](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/executive-rehab-palm-springs-california-1024x684.jpg)
+![executive rehab palm springs california](/images/blog/inline/executive-rehab-palm-springs-california.jpg)
 
 For professionals, confidentiality isn’t optional — it’s essential. Understanding how privacy is protected during detox can make the difference between delaying care and moving forward responsibly.
 

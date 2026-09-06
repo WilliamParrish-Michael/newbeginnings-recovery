@@ -22,7 +22,7 @@ This guide focuses on the practical side of traveling for detox — what to cons
 
 ## Is It Safe to Travel While Withdrawing? What to Consider First
 
-![traveling for rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/traveling-for-rehab-1024x746.jpg)
+![traveling for rehab](/images/blog/inline/traveling-for-rehab.jpg)
 
 Whether it’s safe to travel for detox depends on a few key factors — and this is where getting guidance early really matters.
 
@@ -132,7 +132,7 @@ If you’re considering treatment and unsure how to get there, a call to admissi
 
 ## How Admissions Can Help Coordinate Safe Arrival
 
-![flying for detox tips](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/flying-for-detox-tips-1024x683.jpg)
+![flying for detox tips](/images/blog/inline/flying-for-detox-tips.jpg)
 
 Traveling for detox is not something people are expected to manage on their own. Admissions teams are there to help reduce risk, answer questions, and make sure travel plans support safety rather than add stress.
 

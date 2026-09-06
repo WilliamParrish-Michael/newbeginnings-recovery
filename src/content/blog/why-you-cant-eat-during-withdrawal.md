@@ -8,7 +8,7 @@ draft: false
 
 ## When Even Small Amounts of Food Feel Impossible
 
-![Why you cant eat during withdrawal](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/Cant-eat-during-withdrawals-1024x682.jpg)
+![Why you cant eat during withdrawal](/images/blog/inline/Cant-eat-during-withdrawals.jpg)
 
 One of the most frustrating — and worrying — symptoms of withdrawal is realizing you can’t eat. Food feels unappealing, nausea comes in waves, and even the thought of swallowing can make your stomach turn. For some people, this lasts hours. For others, it can stretch into days.
 
@@ -78,7 +78,7 @@ If you’re unsure whether symptoms are serious enough to seek help, it’s usua
 
 ## What to Do If You Can’t Eat or Drink During Withdrawal
 
-![Withdrawal Symptoms Support in California](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/Withdrawal-Symptoms-Support-in-California-1024x682.jpg)
+![Withdrawal Symptoms Support in California](/images/blog/inline/Withdrawal-Symptoms-Support-in-California.jpg)
 
 Not being able to eat during withdrawal can feel alarming, especially when it stretches beyond a day or two. Many people second-guess themselves, wondering if they’re overreacting or if symptoms will resolve on their own.
 

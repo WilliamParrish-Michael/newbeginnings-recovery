@@ -68,7 +68,7 @@ Clonidine is an older medication in the same class as lofexidine — used off-la
 
 ## Why Medically Supervised Detox Is Essential for MOUD
 
-![Opioid Cravings detox in palm springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/07/Opioid-Cravings-detox-in-palm-springs-1024x768.webp)
+![Opioid Cravings detox in palm springs](/images/blog/inline/Opioid-Cravings-detox-in-palm-springs.webp)
 
 Understanding these medications matters — but it’s equally important to understand that they are clinical tools, not home remedies. Each one requires individualized assessment, careful timing, appropriate dosing, and monitoring for side effects and complications that can only be provided in a clinical setting.
 

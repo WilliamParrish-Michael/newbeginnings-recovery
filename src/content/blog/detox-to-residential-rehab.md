@@ -14,7 +14,7 @@ Here’s why that matters, what the transition actually looks like, and what to 
 
 ## What Detox Is — And What It Isn’t
 
-![medically managed detox los angeles ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/medically-managed-detox-los-angeles-ca-1024x683.jpg)
+![medically managed detox los angeles ca](/images/blog/inline/medically-managed-detox-los-angeles-ca.jpg)
 
 [Detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is the process of safely managing the physical withdrawal that occurs when alcohol or substances are removed from the body. For people with significant dependence — particularly alcohol, opioids, or benzodiazepines — withdrawal can be medically serious, and medically supervised detox provides the clinical monitoring, medications, and support needed to get through that process safely.
 

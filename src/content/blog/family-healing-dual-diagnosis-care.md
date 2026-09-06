@@ -6,7 +6,7 @@ heroImage: "/images/blog/family-healing-dual-diagnosis-care.jpg"
 draft: false
 ---
 
-![](https://newbeginningsrecovery.com/wp-content/uploads/2025/11/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-114.jpg)
+![](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-114.jpg)
 
 When someone enters treatment for a dual diagnosis — a co-occurring mental health and substance use disorder — the focus, naturally, is on them. Their detox. Their therapy. Their recovery.
 

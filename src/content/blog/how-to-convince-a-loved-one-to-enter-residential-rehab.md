@@ -6,7 +6,7 @@ heroImage: "/images/blog/how-to-convince-a-loved-one-to-enter-residential-rehab.
 draft: false
 ---
 
-![How to Convince a Loved one to go to residential rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/06/How-to-Convince-a-Loved-one-to-go-to-residential-rehab-1024x682.jpg)
+![How to Convince a Loved one to go to residential rehab](/images/blog/inline/How-to-Convince-a-Loved-one-to-go-to-residential-rehab.jpg)
 
 You’ve watched long enough to know something has to change. You’ve had the conversations — some calm, some not — and you’ve seen the cycle repeat enough times to understand that this isn’t going to resolve on its own. You love this person. And you’re trying to figure out how to reach them.
 
@@ -60,7 +60,7 @@ A therapist trained in CRAFT can guide you through this approach formally. But e
 
 ## Practical Guidelines for the Conversation
 
-![How Families Can Support a Loved One During Rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/06/How-Families-Can-Support-a-Loved-One-During-Rehab-1024x682.jpg)
+![How Families Can Support a Loved One During Rehab](/images/blog/inline/How-Families-Can-Support-a-Loved-One-During-Rehab.jpg)
 
 When you’re ready to have the conversation — or the next one — here are the principles that research and clinical experience consistently support:
 

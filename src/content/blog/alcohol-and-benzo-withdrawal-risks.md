@@ -8,7 +8,7 @@ draft: false
 
 # Why Withdrawing From Alcohol and Benzodiazepines Together Is Different
 
-![substance abuse treatment coachella valley california](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/polysubstance-rehab-1024x684.jpg)
+![substance abuse treatment coachella valley california](/images/blog/inline/polysubstance-rehab.jpg)
 
 Alcohol and benzodiazepines are often discussed separately, but many people use them together — sometimes intentionally, sometimes without realizing how closely their effects overlap. When both substances are involved, withdrawal becomes more complex and significantly riskier.
 
@@ -142,7 +142,7 @@ Starting from a place of medical stability helps reduce the risk of complication
 
 ## Frequently Asked Questions About Alcohol and Benzodiazepine Withdrawal
 
-![Alcohol rehab coachella valley](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/alcohol-withdrawal-pain-1024x682.jpg)
+![Alcohol rehab coachella valley](/images/blog/inline/alcohol-withdrawal-pain.jpg)
 
 ### Why is withdrawing from alcohol and benzodiazepines together more dangerous?
 

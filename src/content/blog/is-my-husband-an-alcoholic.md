@@ -6,7 +6,7 @@ heroImage: "/images/blog/is-my-husband-an-alcoholic.jpg"
 draft: false
 ---
 
-![Alcoholic Support Rancho Mirage](https://newbeginningsrecovery.com/wp-content/uploads/2026/04/Alcoholic-Support-Rancho-Mirage-1024x684.jpg)
+![Alcoholic Support Rancho Mirage](/images/blog/inline/Alcoholic-Support-Rancho-Mirage.jpg)
 
 There’s a particular kind of loneliness that comes with living with someone whose drinking has become a problem. You watch them carefully, searching for evidence that confirms what you already sense. You make excuses for them — to yourself, to family, to friends. You wonder whether you’re overreacting, whether this is just stress, whether things will settle down once work gets easier or the kids get older.
 
@@ -26,7 +26,7 @@ A person doesn’t have to be drinking every day, or drinking in the morning, or
 
 ## 5 Warning Signs Your Husband May Have Alcohol Use Disorder
 
-![relapse after detox coachella](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/relapse-after-detox-coachella-1024x684.jpg)
+![relapse after detox coachella](/images/blog/inline/relapse-after-detox-coachella.jpg)
 
 ### 1\. Drinking Has Become the Default Response to Everything
 

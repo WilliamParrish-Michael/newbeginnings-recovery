@@ -14,7 +14,7 @@ This is one of the most important and least discussed advantages of private resi
 
 ## Why Environment Has More Power Over Recovery Than People Expect
 
-![](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Private-Detox-in-Rancho-Mirage-1024x755.jpg)
+![](/images/blog/inline/Private-Detox-in-Rancho-Mirage.jpg)
 
 Addiction is not just a behavioral pattern — it’s a learned association between substances and the environments in which they were used. This isn’t a metaphor. It’s a documented neurobiological process.
 
@@ -42,7 +42,7 @@ This is part of why a structured, private residential environment isn’t just a
 
 ## Privacy as Part of the Focus
 
-![Private Residential Rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/06/Private-Residential-Rehab-1024x682.jpg)
+![Private Residential Rehab](/images/blog/inline/Private-Residential-Rehab.jpg)
 
 There’s a second dimension to “distraction” that’s particularly relevant in a private residential setting: the social and professional distraction of being seen.
 

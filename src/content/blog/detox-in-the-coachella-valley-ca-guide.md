@@ -21,7 +21,7 @@ This guide is designed to be a clear, local starting point. It explains what det
 
 ## What Medical Detox Means in the Coachella Valley (and Why It Matters)
 
-![detox coachella valley ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/detox-coachella-valley-ca-1024x684.jpeg)
+![detox coachella valley ca](/images/blog/inline/detox-coachella-valley-ca.jpeg)
 
 When families search for detox in the Coachella Valley, they’re often trying to answer one key question: **Is this something we can handle at home, or is [medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) safer?**
 
@@ -94,7 +94,7 @@ Early support can help families avoid waiting until the situation becomes unmana
 
 ## Getting Detox Support in the Coachella Valley
 
-![alcohol detox coachella valley california](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/alcohol-detox-coachella-valley-ca-1024x683.jpeg)
+![alcohol detox coachella valley california](/images/blog/inline/alcohol-detox-coachella-valley-ca.jpeg)
 
 If you’re looking for **detox in the Coachella Valley**, [New Beginnings Recovery](https://newbeginningsrecovery.com/) can help you understand your options and what medically supervised detox may look like for your situation.
 

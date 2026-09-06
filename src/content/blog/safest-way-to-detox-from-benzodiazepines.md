@@ -14,7 +14,7 @@ This article explains why benzodiazepine detox is medically serious, what the sa
 
 ## What Benzodiazepines Do to the Brain
 
-![Safest Way to Detox From Benzodiazepines](https://newbeginningsrecovery.com/wp-content/uploads/2026/07/Safest-Way-to-Detox-From-Benzodiazepines-1024x682.webp)
+![Safest Way to Detox From Benzodiazepines](/images/blog/inline/Safest-Way-to-Detox-From-Benzodiazepines.webp)
 
 To understand why detoxing from benzos is so medically complex, it helps to understand what they do neurologically.
 
@@ -73,7 +73,7 @@ The specific medication protocol is determined by the clinical team based on a t
 
 ## The Particular Challenge of Prescription Benzo Dependence
 
-![Addiction Treatment Rancho Mirage Ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/06/Addiction-Treatment-Rancho-Mirage-Ca-1024x684.jpg)
+![Addiction Treatment Rancho Mirage Ca](/images/blog/inline/Addiction-Treatment-Rancho-Mirage-Ca.jpg)
 
 Many people who need benzodiazepine detox didn’t develop their dependence through recreational use. They were prescribed benzodiazepines by a physician for legitimate anxiety, panic disorder, or insomnia — and used them exactly as directed. Over time, physical dependence developed — sometimes before either the patient or the prescribing physician fully recognized what was happening.
 

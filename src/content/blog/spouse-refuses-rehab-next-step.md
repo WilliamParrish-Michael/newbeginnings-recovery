@@ -14,7 +14,7 @@ This article is about what you can actually do. Not to force your spouse into tr
 
 ## First: Understand Why They’re Saying No
 
-![alcohol withdrawal treatment](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/alcohol-withdrawal-treatment-1024x684.jpg)
+![alcohol withdrawal treatment](/images/blog/inline/alcohol-withdrawal-treatment.jpg)
 
 Before deciding what to do next, it helps to understand what’s behind the refusal. Because “no” rarely means what it appears to mean on the surface.
 
@@ -100,7 +100,7 @@ The National Domestic Violence Hotline (1-800-799-7233) is available 24 hours a 
 
 ## When They’re Ready
 
-![How Families Can Support a Loved One During Rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/06/How-Families-Can-Support-a-Loved-One-During-Rehab-1024x682.jpg)
+![How Families Can Support a Loved One During Rehab](/images/blog/inline/How-Families-Can-Support-a-Loved-One-During-Rehab.jpg)
 
 Readiness can shift. Sometimes gradually — through a slow accumulation of awareness and consequences. Sometimes suddenly — a health scare, a moment of clarity, a conversation that lands differently than the others.
 

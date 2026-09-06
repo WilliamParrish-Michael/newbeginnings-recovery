@@ -24,7 +24,7 @@ The good news is that same-day admission to [alcohol detox](https://newbeginning
 
 ## Step 1: Make the Call
 
-![](https://newbeginningsrecovery.com/wp-content/uploads/2025/11/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-027-1024x682.jpg)
+![](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-027.jpg)
 
 The entire process starts with a phone call — and it is simpler and faster than most people expect.
 

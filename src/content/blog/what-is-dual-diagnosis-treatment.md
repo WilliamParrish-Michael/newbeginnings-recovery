@@ -8,7 +8,7 @@ draft: false
 
 ## When Addiction and Mental Health Are Connected
 
-![palm springs dual diagnosis](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/palm-springs-dual-diagnosis-1024x684.jpg)
+![palm springs dual diagnosis](/images/blog/inline/palm-springs-dual-diagnosis.jpg)
 
 This can be confusing — and discouraging.
 
@@ -143,7 +143,7 @@ By addressing addiction and mental health together, integrated care offers a mor
 
 ## What Dual Diagnosis Treatment Can Look Like in Practice
 
-![dual diagnosis treatment near palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/dual-diagnosis-near-palm-springs-ca-1024x682.jpg)
+![dual diagnosis treatment near palm springs ca](/images/blog/inline/dual-diagnosis-near-palm-springs-ca.jpg)
 
 ### Care That Is Coordinated, Not Fragmented
 

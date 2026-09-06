@@ -8,7 +8,7 @@ draft: false
 
 ## Why Overdose Data Matters for Families in Riverside County
 
-![riverside county addiction data](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/riverside-county-addiction-data-1024x682.jpg)
+![riverside county addiction data](/images/blog/inline/riverside-county-addiction-data.jpg)
 
 When families hear about overdose trends in Riverside County, it can feel distant or abstract — just numbers in a report. But behind every data point is a real person, and often a family trying to understand what’s happening and how to keep their loved ones safe.
 
@@ -109,7 +109,7 @@ Not every change means substance use is present — but patterns matter, especia
 
 ## What Families Can Do Right Now
 
-![riverside addiction data](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/riverside-addiction-data-1024x682.jpg)
+![riverside addiction data](/images/blog/inline/riverside-addiction-data.jpg)
 
 When overdose trends are rising locally, families often feel powerless — especially if their loved one isn’t ready to talk, denies there’s a problem, or becomes defensive. But there are meaningful steps families can take that focus on **safety, communication, and support**.
 

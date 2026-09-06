@@ -8,7 +8,7 @@ draft: false
 
 ## Preparing for Residential Rehab: What to Bring (and What to Leave at Home)
 
-![Residential Rehab Coachella Valley](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/Residential-Rehab-Coachella-Valley-1024x691.jpeg)
+![Residential Rehab Coachella Valley](/images/blog/inline/Residential-Rehab-Coachella-Valley.jpeg)
 
 Getting ready to enter residential rehab can feel overwhelming. Along with the emotional weight of the decision, there are practical questions that suddenly feel urgent:
 
@@ -181,7 +181,7 @@ A brief call before arrival can reduce uncertainty significantly.
 
 ## Taking the First Step Toward Residential Care
 
-![What-to-Pack-for-Residential Treatment New Beginnings Recovery CA](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/What-to-Pack-for-Residential-Treatment-New-Beginnings-Recovery-CA-1024x685.jpg)
+![What-to-Pack-for-Residential Treatment New Beginnings Recovery CA](/images/blog/inline/What-to-Pack-for-Residential-Treatment-New-Beginnings-Recovery-CA.jpg)
 
 If you or a loved one is preparing to enter residential rehab in Rancho Mirage, know that the goal is not perfection — it’s progress.
 

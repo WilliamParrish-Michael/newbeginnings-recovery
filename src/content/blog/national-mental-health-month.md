@@ -6,7 +6,7 @@ heroImage: "/images/blog/national-mental-health-month.jpg"
 draft: false
 ---
 
-![](https://newbeginningsrecovery.com/wp-content/uploads/2025/11/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-089-1024x682.jpg)
+![](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-089.jpg)
 
 Every May, the United States pauses to recognize Mental Health Awareness Month — a tradition that has been observed since 1949 and has grown into one of the most important public health conversations of the year. This May, the [National Alliance on Mental Illness (NAMI)](https://www.nami.org/stay-connected/events/awareness-events/mental-health-awareness-month/) is leading the charge with the theme _“In Every Story, There’s Strength”_ — a celebration of the resilience and diverse experiences that shape mental health journeys across the country.
 
@@ -62,7 +62,7 @@ While dual diagnosis encompasses many combinations, certain mental health condit
 
 ## What Integrated Dual Diagnosis Treatment Looks Like
 
-![Mental Health Month](https://newbeginningsrecovery.com/wp-content/uploads/2026/05/Mental-Health-Month-1024x682.jpg)
+![Mental Health Month](/images/blog/inline/Mental-Health-Month.jpg)
 
 Effective dual diagnosis care is not simply addiction treatment with a mental health component bolted on — or mental health treatment that also happens to acknowledge the substance use. It is a genuinely integrated clinical approach in which both conditions are assessed, treated, and monitored together by a team that understands how they interact.
 

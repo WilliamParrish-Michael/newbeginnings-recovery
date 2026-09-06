@@ -20,7 +20,7 @@ This article explains how alcohol withdrawal can cause chest tightness and heart
 
 ## How Alcohol Withdrawal Affects the Heart and Nervous System
 
-![alcohol withdrawal chest pain](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/alcohol-withdrawal-chest-pain-1024x684.jpg)
+![alcohol withdrawal chest pain](/images/blog/inline/alcohol-withdrawal-chest-pain.jpg)
 
 [Alcohol](https://medlineplus.gov/alcohol.html) has a depressant effect on the central nervous system. Over time, the body adapts to its regular presence by working harder to maintain balance. When alcohol use suddenly stops or drops significantly, that balance is disrupted — and the nervous system can become **overstimulated**.
 
@@ -116,7 +116,7 @@ Medical assessment doesn’t automatically mean hospitalization or long-term tre
 
 ## When to Get Help and What Support Can Look Like
 
-![Alcohol Withdrawal Chest Tightness](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/alcohol-withdrawal-pain-1024x682.jpg)
+![Alcohol Withdrawal Chest Tightness](/images/blog/inline/alcohol-withdrawal-pain.jpg)
 
 alcohol withdrawal pain
 

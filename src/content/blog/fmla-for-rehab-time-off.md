@@ -8,7 +8,7 @@ draft: false
 
 ## Worrying About Work Is One of the Biggest Reasons People Delay Getting Help
 
-![Time Off Work For Addiction Rehab](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/Time-Off-Work-For-Addiction-Rehab-1024x685.jpg)
+![Time Off Work For Addiction Rehab](/images/blog/inline/Time-Off-Work-For-Addiction-Rehab.jpg)
 
 For many people, the decision to seek detox isn’t just about health — it’s about work.
 
@@ -53,7 +53,7 @@ That said, policies vary by employer, and situations can differ depending on job
 
 ## How FMLA Can Apply to Detox and Treatment
 
-![Fmla For Rehab Time Off California](https://newbeginningsrecovery.com/wp-content/uploads/2026/01/Fmla-For-Rehab-Time-Off-California-1024x684.jpg)
+![Fmla For Rehab Time Off California](/images/blog/inline/Fmla-For-Rehab-Time-Off-California.jpg)
 
 The Family and Medical Leave Act (FMLA) is one of the most common protections people hear about when considering time off for medical reasons — but it’s also widely misunderstood.
 

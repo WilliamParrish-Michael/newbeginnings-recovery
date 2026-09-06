@@ -8,7 +8,7 @@ draft: false
 
 ## Why Xylazine Is Showing Up in California’s Drug Supply
 
-![drug detox palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/drug-detox-palm-springs-ca-1-1024x576.jpg)
+![drug detox palm springs ca](/images/blog/inline/drug-detox-palm-springs-ca-1.jpg)
 
 In recent years, health officials across the United States have reported an increase in fentanyl being mixed with **xylazine**, a veterinary sedative sometimes referred to as “tranq.” While xylazine is not an opioid, it is increasingly found in the illicit opioid supply — including fentanyl — in multiple states.
 
@@ -115,7 +115,7 @@ Awareness, access to naloxone, and early support matter more than ever.
 
 ## When to Seek Help or an Assessment
 
-![detox services palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/detox-services-palm-springs-ca-1024x649.jpg)
+![detox services palm springs ca](/images/blog/inline/detox-services-palm-springs-ca.jpg)
 
 If you’re worried about fentanyl exposure, possible xylazine involvement, or escalating opioid use, you don’t need to wait for a crisis.
 

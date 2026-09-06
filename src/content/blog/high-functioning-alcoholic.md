@@ -16,7 +16,7 @@ Understanding it matters, because the “functioning” part doesn’t make the 
 
 ## What Is a High-Functioning Alcoholic?
 
-![High Functioning Alcoholic Help near Palm Springs](https://newbeginningsrecovery.com/wp-content/uploads/2026/04/High-Functioning-Alcoholic-Help-near-Palm-Springs-1024x682.jpg)
+![High Functioning Alcoholic Help near Palm Springs](/images/blog/inline/High-Functioning-Alcoholic-Help-near-Palm-Springs.jpg)
 
 The term “high-functioning alcoholic” isn’t a clinical diagnosis — doctors use the broader term _alcohol use disorder_ — but it describes a very real and widely recognized pattern. A high-functioning alcoholic is someone who meets the clinical criteria for AUD while still managing, at least on the surface, to hold their life together.
 
@@ -80,7 +80,7 @@ Physical withdrawal is also a real concern for people who have been drinking hea
 
 ## Why High-Functioning Alcoholics Are Harder to Reach
 
-![drug detox palm springs ca](https://newbeginningsrecovery.com/wp-content/uploads/2026/02/drug-detox-palm-springs-ca-1-1024x576.jpg)
+![drug detox palm springs ca](/images/blog/inline/drug-detox-palm-springs-ca-1.jpg)
 
 One of the most well-documented features of high-functioning alcoholism is the depth of denial it produces — not just in the person drinking, but in the people around them. When someone holds a good job, maintains relationships, and doesn’t show the visible signs of addiction that culture has taught us to look for, it becomes nearly impossible for friends, family members, or colleagues to call out what they’re seeing.
 
