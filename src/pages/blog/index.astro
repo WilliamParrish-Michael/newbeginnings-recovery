@@ -1,0 +1,51 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import PageHero from '../../components/PageHero.astro';
+import { url } from '../../lib/url';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const fmt = (d) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+<Base title="Blog — New Beginnings Recovery" description="Guidance on detox, residential rehab, insurance, and recovery from the New Beginnings Recovery team in the Coachella Valley.">
+  <PageHero eyebrow="Blog" title="Recovery, explained" lede="Honest, practical guidance on detox, treatment, insurance, and supporting a loved one — from our team in Rancho Mirage." />
+
+  <section class="section">
+    <div class="container">
+      <ul class="post-grid">
+        {posts.map((p) => (
+          <li class="post card">
+            <a href={url(`/blog/${p.slug}/`)} class="post-link">
+              {p.data.heroImage && (
+                <img class="post-img" src={url(p.data.heroImage)} alt="" width="600" height="360" loading="lazy" />
+              )}
+              <div class="post-body">
+                <time class="post-date" datetime={p.data.pubDate.toISOString()}>{fmt(p.data.pubDate)}</time>
+                <h2>{p.data.title}</h2>
+                {p.data.description && <p class="post-excerpt">{p.data.description}</p>}
+                <span class="more">Read more →</span>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <style>
+    .post-grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+    .post { overflow: hidden; padding: 0; }
+    .post-link { display: flex; flex-direction: column; height: 100%; text-decoration: none; color: var(--text); }
+    .post-img { width: 100%; aspect-ratio: 5 / 3; object-fit: cover; background: var(--surface-alt); }
+    .post-body { padding: 1.15rem 1.25rem 1.35rem; display: flex; flex-direction: column; gap: .5rem; flex: 1; }
+    .post-date { font-family: "Mulish", sans-serif; font-size: .78rem; letter-spacing: .04em; text-transform: uppercase; color: var(--text-muted); font-weight: 700; }
+    .post h2 { font-size: 1.15rem; line-height: 1.25; color: var(--accent-ink); }
+    .post-excerpt { color: var(--text-soft); font-size: .92rem; flex: 1; }
+    .post .more { font-weight: 700; color: var(--accent); font-size: .88rem; }
+    .post-link:hover { box-shadow: var(--shadow-md); }
+    .post-link:hover h2 { text-decoration: underline; }
+    @media (max-width: 60rem) { .post-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 38rem) { .post-grid { grid-template-columns: 1fr; } }
+  </style>
+</Base>
