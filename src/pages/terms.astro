@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import PageHero from '../components/PageHero.astro';
 import DraftBanner from '../components/DraftBanner.astro';
 import { site } from '../lib/site';
+import { url } from '../lib/url';
 ---
 <Base title="Terms of Use — New Beginnings Recovery" description="The terms governing use of the New Beginnings Recovery website, including medical and liability disclaimers.">
   <PageHero eyebrow="Terms of Use" title="Terms of use" />
@@ -32,8 +33,15 @@ import { site } from '../lib/site';
       <h2>Disclaimers &amp; limitation of liability</h2>
       <p>The Site is provided “as is,” without warranties of any kind to the fullest extent permitted by law. To the fullest extent permitted by law, New Beginnings Recovery is not liable for any indirect, incidental, or consequential damages arising from your use of the Site.</p>
 
+      <h2>Indemnification</h2>
+      <p>You agree to indemnify and hold harmless {site.legalName}, its affiliates, and their staff from any claims, losses, or expenses arising out of your misuse of the Site or violation of these terms, to the fullest extent permitted by law.</p>
+
       <h2>Governing law</h2>
-      <p>These terms are governed by the laws of the State of California, without regard to conflict-of-laws rules, and any dispute will be brought in the state or federal courts located in Riverside County, California.</p>
+      <p>These terms are governed by the laws of the State of {site.governingState}, without regard to conflict-of-laws rules, and any dispute will be brought in the state or federal courts located in {site.county}, {site.governingState}.
+      <span class="draft-note">[Counsel may elect to add a binding arbitration and class-action / jury-trial waiver provision here; that is a deliberate legal choice and is left for review.]</span></p>
+
+      <h2>Severability &amp; entire agreement</h2>
+      <p>If any provision of these terms is found unenforceable, the remaining provisions stay in effect. These terms, together with the <a href={url('/privacy-policy/')}>Privacy Policy</a>, are the entire agreement between you and {site.name} regarding your use of the Site.</p>
 
       <h2>Changes &amp; contact</h2>
       <p>We may update these terms and will revise the effective date above. Questions? Call <a href={site.phoneHref}>{site.phone}</a> or email <a href={`mailto:${site.email}`}>{site.email}</a>.</p>

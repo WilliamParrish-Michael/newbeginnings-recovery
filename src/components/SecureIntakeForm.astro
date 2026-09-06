@@ -1,0 +1,93 @@
+---
+import { site } from '../lib/site';
+interface Field { name: string; label: string; type?: string; required?: boolean; autocomplete?: string; }
+interface Props { formType: string; fields: Field[]; submitLabel?: string; }
+const { formType, fields, submitLabel = 'Send securely' } = Astro.props;
+
+// Build-time gate: only render a live form when BOTH the public key and endpoint are
+// configured. Otherwise render the <slot name="fallback"> (the phone-only CTA), so we
+// never ship a form that could transmit PHI without the encrypted endpoint in place.
+const enabled = Boolean(site.intake.publicKey && site.intake.endpoint);
+---
+{enabled ? (
+  <form class="secure-form" data-secure-form data-form-type={formType}
+        data-pubkey={site.intake.publicKey} data-endpoint={site.intake.endpoint} novalidate>
+    <p class="enc-note">🔒 Your information is encrypted in your browser before it is sent, and can only be read by our admissions team.</p>
+    <div class="fields">
+      {fields.map((f) => (
+        <p class="field">
+          <label for={`f_${f.name}`}>{f.label}{f.required && <span aria-hidden="true"> *</span>}</label>
+          {f.type === 'textarea'
+            ? <textarea id={`f_${f.name}`} name={f.name} required={f.required} autocomplete={f.autocomplete} rows="4"></textarea>
+            : <input id={`f_${f.name}`} name={f.name} type={f.type ?? 'text'} required={f.required} autocomplete={f.autocomplete} />}
+        </p>
+      ))}
+      <p class="field consent">
+        <label>
+          <input type="checkbox" name="consent" required />
+          <span>I agree that New Beginnings Recovery may contact me by phone, text, or email about treatment.
+          Consent is not required to receive services; message and data rates may apply; reply STOP to opt out at any time.</span>
+        </label>
+      </p>
+    </div>
+    <button type="submit" class="btn btn-cta">{submitLabel}</button>
+    <p class="form-status" role="status" aria-live="polite" hidden></p>
+    <p class="form-fallback-note">Prefer to talk? Call <a href={site.phoneHref}>{site.phone}</a> — available 24/7.</p>
+  </form>
+) : (
+  <slot name="fallback" />
+)}
+
+<script>
+  // libsodium (the crypto) is dynamically imported only when a form actually exists
+  // and only on first submit, so fallback pages never ship the crypto bundle.
+  document.querySelectorAll<HTMLFormElement>('[data-secure-form]').forEach((form) => {
+    const statusEl = form.querySelector<HTMLElement>('.form-status');
+    const btn = form.querySelector<HTMLButtonElement>('button[type="submit"]');
+    const show = (msg: string, ok: boolean) => {
+      if (!statusEl) return;
+      statusEl.hidden = false;
+      statusEl.textContent = msg;
+      statusEl.classList.toggle('is-ok', ok);
+      statusEl.classList.toggle('is-err', !ok);
+    };
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      if (!form.reportValidity()) return;
+      const data = new FormData(form);
+      const payload: Record<string, unknown> = {};
+      for (const [k, v] of data.entries()) payload[k] = v === 'on' ? true : v;
+      if (btn) { btn.disabled = true; btn.textContent = 'Encrypting…'; }
+      const { submitEncrypted } = await import('../lib/intake');
+      const res = await submitEncrypted(payload, {
+        publicKeyB64: form.dataset.pubkey || '',
+        endpoint: form.dataset.endpoint || '',
+        formType: form.dataset.formType || 'intake',
+      });
+      if (res.ok) {
+        form.reset();
+        show('Thank you — your encrypted message was sent securely. Our admissions team will reach out shortly.', true);
+        if (btn) btn.textContent = 'Sent ✓';
+      } else {
+        show(res.error || 'Something went wrong. Please call us instead.', false);
+        if (btn) { btn.disabled = false; btn.textContent = 'Send securely'; }
+      }
+    });
+  });
+</script>
+
+<style>
+  .secure-form { display: grid; gap: 1.1rem; max-width: 38rem; }
+  .enc-note { font-size: .85rem; color: var(--text-soft); background: var(--surface-alt); border: 1px solid var(--hair); border-radius: var(--r-md); padding: .6rem .85rem; margin: 0; }
+  .fields { display: grid; gap: 1rem; }
+  .field { display: grid; gap: .35rem; margin: 0; }
+  .field label { font-weight: 600; font-size: .92rem; }
+  .field input, .field textarea { font: inherit; padding: .6rem .7rem; border: 1px solid var(--hair-strong, #cfc9ba); border-radius: var(--r-md); background: var(--surface, #fff); color: var(--text); }
+  .field input:focus, .field textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .consent label { display: grid; grid-template-columns: auto 1fr; gap: .6rem; align-items: start; font-weight: 400; font-size: .85rem; color: var(--text-soft); }
+  .consent input { margin-top: .2rem; }
+  .form-status { font-size: .95rem; padding: .7rem .9rem; border-radius: var(--r-md); margin: 0; }
+  .form-status.is-ok { background: var(--good-bg, #e2efe6); color: var(--good, #2f6f4f); border: 1px solid color-mix(in srgb, var(--good, #3d8a5c) 35%, transparent); }
+  .form-status.is-err { background: var(--high-bg, #f8f0e2); color: var(--text); border: 1px solid color-mix(in srgb, var(--gold-600, #a9762a) 40%, transparent); }
+  .form-fallback-note { font-size: .88rem; color: var(--text-muted); margin: 0; }
+</style>

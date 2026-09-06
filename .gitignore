@@ -7,3 +7,10 @@ dist/
 *.log
 .vercel
 .netlify
+
+# Secure intake — never commit submissions or private keys
+intake-data/
+*.privkey
+server/intake-data/
+.env
+.env.*

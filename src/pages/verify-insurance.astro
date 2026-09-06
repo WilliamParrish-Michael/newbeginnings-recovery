@@ -1,7 +1,18 @@
 ---
 import Base from '../layouts/Base.astro';
 import PageHero from '../components/PageHero.astro';
+import SecureIntakeForm from '../components/SecureIntakeForm.astro';
 import { site } from '../lib/site';
+
+const insuranceFields = [
+  { name: 'fullName', label: 'Your name', required: true, autocomplete: 'name' },
+  { name: 'phone', label: 'Phone', type: 'tel', required: true, autocomplete: 'tel' },
+  { name: 'email', label: 'Email', type: 'email', autocomplete: 'email' },
+  { name: 'insuranceProvider', label: 'Insurance provider' },
+  { name: 'memberId', label: 'Member ID' },
+  { name: 'bestTime', label: 'Best time to reach you' },
+  { name: 'message', label: 'Anything you’d like us to know', type: 'textarea' },
+];
 
 const steps = [
   { t: 'Call or reach out', d: 'A quick, confidential conversation with our admissions team — no obligation.' },
@@ -10,7 +21,7 @@ const steps = [
 ];
 ---
 <Base title="Verify Your Insurance — New Beginnings Recovery" description="Confidentially check whether your insurance covers detox and residential addiction treatment at New Beginnings Recovery. Most major plans accepted.">
-  <PageHero eyebrow="Insurance" title="Find out if your insurance covers treatment" lede="A quick, confidential benefits check — no obligation. Most major insurance plans are accepted, and we never share your information." />
+  <PageHero eyebrow="Insurance" title="Find out if your insurance covers treatment" lede="A quick, confidential benefits check — no obligation. Most major insurance plans are accepted, and we never share your information." image="/images/photo-180.jpg" imageAlt="New Beginnings Recovery private facility in Rancho Mirage, California" />
 
   <section class="section">
     <div class="container prose" style="max-width:52rem">
@@ -26,11 +37,15 @@ const steps = [
         <li>A good phone number where we can reach you</li>
       </ul>
 
-      <div class="callout" style="margin-top:1.5rem">
-        <p><strong>Your privacy comes first.</strong> A secure online verification form is coming with the new site. For now — and for anything involving health or insurance details — please call us directly rather than sending them by email. We handle your information confidentially and never sell or share it for advertising.</p>
-      </div>
-
-      <p style="margin-top:2rem"><a href={site.phoneHref} class="btn btn-cta">Call {site.phone} to verify</a></p>
+      <h2 style="margin-top:2.5rem">Start a confidential benefits check</h2>
+      <SecureIntakeForm formType="insurance-verification" fields={insuranceFields} submitLabel="Check my benefits securely">
+        <div slot="fallback">
+          <div class="callout" style="margin-top:1.5rem">
+            <p><strong>Your privacy comes first.</strong> Our secure online verification form is being finalized. For now — and for anything involving health or insurance details — please call us directly rather than sending them by email. We handle your information confidentially and never sell or share it for advertising.</p>
+          </div>
+          <p style="margin-top:2rem"><a href={site.phoneHref} class="btn btn-cta">Call {site.phone} to verify</a></p>
+        </div>
+      </SecureIntakeForm>
     </div>
   </section>
 

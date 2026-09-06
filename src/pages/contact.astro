@@ -1,11 +1,19 @@
 ---
 import Base from '../layouts/Base.astro';
 import PageHero from '../components/PageHero.astro';
+import SecureIntakeForm from '../components/SecureIntakeForm.astro';
 import { site } from '../lib/site';
 import { url } from '../lib/url';
+
+const contactFields = [
+  { name: 'fullName', label: 'Your name', required: true, autocomplete: 'name' },
+  { name: 'phone', label: 'Phone', type: 'tel', required: true, autocomplete: 'tel' },
+  { name: 'email', label: 'Email', type: 'email', autocomplete: 'email' },
+  { name: 'message', label: 'How can we help?', type: 'textarea', required: true },
+];
 ---
 <Base title="Contact Us — New Beginnings Recovery" description="Reach New Beginnings Recovery in Rancho Mirage, California. Confidential admissions available 24/7 by phone.">
-  <PageHero eyebrow="Contact Us" title="Reach out — confidentially, any time" lede="Whether you’re calling for yourself or someone you love, our admissions team is here to listen. Most conversations start with a simple, private phone call." />
+  <PageHero eyebrow="Contact Us" title="Reach out — confidentially, any time" lede="Whether you’re calling for yourself or someone you love, our admissions team is here to listen. Most conversations start with a simple, private phone call." image="/images/photo-169.jpg" imageAlt="New Beginnings Recovery in Rancho Mirage, California" />
 
   <section class="section">
     <div class="container contact-grid">
@@ -29,7 +37,12 @@ import { url } from '../lib/url';
         <h2>What happens when you call</h2>
         <p>Your first call is private and pressure-free. Our team listens, answers your questions, and helps determine whether New Beginnings is the right fit — then walks you through insurance and next steps.</p>
         <p>Prefer to start with insurance? We can run a quick, confidential benefits check. <a href={url('/verify-insurance/')}>Verify your insurance →</a></p>
-        <div class="callout"><p>A secure online intake form is coming with the new site. Until then, the fastest and most private way to reach us is by phone.</p></div>
+        <h2 style="margin-top:1.75rem">Send a secure message</h2>
+        <SecureIntakeForm formType="contact" fields={contactFields} submitLabel="Send securely">
+          <div slot="fallback">
+            <div class="callout"><p>Our secure online intake form is being finalized. Until then, the fastest and most private way to reach us is by phone — please don’t send health details by email.</p></div>
+          </div>
+        </SecureIntakeForm>
         <p style="margin-top:1.5rem"><strong>In crisis?</strong> If you or someone you know is in immediate danger, call 911. For mental-health crisis support, call or text <a href="tel:988">988</a>, the Suicide &amp; Crisis Lifeline.</p>
       </div>
     </div>

@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",
-    "astro": "^4.16.18"
+    "astro": "^4.16.18",
+    "libsodium-wrappers": "^0.7.15"
   }
 }

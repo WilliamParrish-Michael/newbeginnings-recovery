@@ -1,0 +1,55 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHero from '../components/PageHero.astro';
+import DraftBanner from '../components/DraftBanner.astro';
+import { site } from '../lib/site';
+---
+<Base title="Nondiscrimination & Accessibility — New Beginnings Recovery" description="New Beginnings Recovery welcomes and serves everyone and provides disability communication aids on request. Our commitment to nondiscrimination and access.">
+  <PageHero eyebrow="Our Commitment" title="Nondiscrimination & accessibility" />
+  <section class="section">
+    <div class="container prose">
+      <DraftBanner />
+      <p class="updated">Effective date: [to be set at launch]</p>
+
+      <p>{site.legalName} welcomes and serves everyone. We do not discriminate against any person
+      on the basis of race, color, national origin, ancestry, religion, sex, gender identity,
+      sexual orientation, marital status, age, disability, medical condition, source of payment,
+      or any other characteristic protected by California’s Unruh Civil Rights Act and other
+      applicable law.</p>
+
+      <div class="draft-note"><p><em>[New Beginnings Recovery is a private-pay facility and does
+      not participate in Medi-Cal, Medicare, or other federal programs, so the federal
+      Section 1557 notice-and-tagline requirements do not apply. This page is a voluntary
+      statement of our commitment. If the facility later accepts any state or federal insurance
+      or grant funding, a full Section 1557 Notice of Nondiscrimination and a Notice of
+      Availability of Language Assistance Services (with taglines in the state’s top 15
+      languages) would become legally required.]</em></p></div>
+
+      <h2>Help for people with disabilities</h2>
+      <p>If you have a disability and need a communication aid or service to access our care —
+      for example, a qualified sign-language interpreter, or written information in large print,
+      audio, or another accessible format — please tell us. We will work with you to communicate
+      effectively, at no cost to you. Call <a href={site.phoneHref}>{site.phone}</a> (TTY:
+      {site.tty}) or email <a href={`mailto:${site.email}`}>{site.email}</a>.</p>
+
+      <h2>Language help</h2>
+      <p>If English is not your preferred language, let us know and we will do our best to help
+      you communicate with our team.
+      <span class="draft-note">[Confirm the facility’s actual language capabilities before
+      launch. Given the Coachella Valley’s large Spanish-speaking community, offering Spanish
+      support — bilingual staff or a phone interpreter line — is strongly recommended, and this
+      section should state honestly what is actually available.]</span></p>
+
+      <h2>Questions or concerns</h2>
+      <p>If you have a concern about discrimination or access, contact us at
+      <a href={site.phoneHref}>{site.phone}</a> or <a href={`mailto:${site.email}`}>{site.email}</a>.
+      {site.addressLine}. You may also have rights under the Americans with Disabilities Act and
+      California law.</p>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .draft-note { background: var(--high-bg, #f8f0e2); border-left: 3px solid color-mix(in srgb, var(--gold-600, #a9762a) 55%, transparent); padding: .6rem .9rem; border-radius: var(--r-sm, 6px); font-size: .85rem; color: var(--text-soft, #4a5163); margin: 1rem 0; }
+  span.draft-note { display: block; margin-top: .5rem; }
+</style>
