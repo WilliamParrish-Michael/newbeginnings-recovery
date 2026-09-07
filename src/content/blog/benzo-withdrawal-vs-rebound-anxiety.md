@@ -161,6 +161,6 @@ It’s reasonable to reach out if:
 -   You’re unsure whether symptoms are improving or escalating
 -   You want clarity on what your body is going through
 
-Reaching out doesn’t mean you’ve committed to treatment. Many people contact **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** simply to talk through what they’re experiencing and understand whether symptoms are part of rebound anxiety, benzodiazepine withdrawal, or something that needs medical attention.
+Reaching out doesn’t mean you’ve committed to treatment. Many people contact **[New Beginnings Recovery](/)** simply to talk through what they’re experiencing and understand whether symptoms are part of rebound anxiety, benzodiazepine withdrawal, or something that needs medical attention.
 
 A confidential conversation with admissions can help you get clarity, reduce uncertainty, and understand safer next steps if support is needed. When it comes to benzodiazepines and anxiety, **it’s always better to ask than to guess**.

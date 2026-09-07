@@ -30,7 +30,7 @@ In other words: what you do during this time matters. The question is what to do
 
 Before anything else, it helps to understand what your loved one is actually experiencing — because assumptions about residential rehab often don’t match reality, and that gap can make it harder to know how to connect.
 
-[Residential treatment](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) is not a punishment, a lockdown, or a last resort. It’s a structured, therapeutic environment in which a person has access to daily clinical care — individual therapy, group therapy, psychiatric support, medical monitoring, and in good programs, wellness services and community — in a setting that removes them from the triggers and stressors of daily life while they do the hardest work of early recovery.
+[Residential treatment](/programs/residential/) is not a punishment, a lockdown, or a last resort. It’s a structured, therapeutic environment in which a person has access to daily clinical care — individual therapy, group therapy, psychiatric support, medical monitoring, and in good programs, wellness services and community — in a setting that removes them from the triggers and stressors of daily life while they do the hardest work of early recovery.
 
 The early days of residential treatment are often the most physically and emotionally intense. Detox may still be resolving. Sleep may be disrupted. Emotions that alcohol or substances have been suppressing for months or years can surface with a rawness that surprises even the person experiencing them. Your loved one is not having a bad time because treatment isn’t working. They’re having a hard time because it is.
 
@@ -42,7 +42,7 @@ Understanding this arc helps you calibrate your support — and helps you not pa
 
 ### 1\. Follow the Program’s Guidelines — Even When They Feel Hard
 
-Most [residential programs](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) have specific communication protocols — guidelines about when and how family contact is encouraged during the early phase of treatment. There may be a period of limited phone contact in the first week or two. Visits may be scheduled rather than open-ended. Certain topics may be discouraged in early conversations.
+Most [residential programs](/programs/residential/) have specific communication protocols — guidelines about when and how family contact is encouraged during the early phase of treatment. There may be a period of limited phone contact in the first week or two. Visits may be scheduled rather than open-ended. Certain topics may be discouraged in early conversations.
 
 These guidelines can feel frustrating when you’re worried and want to help. But they exist for clinical reasons that are worth understanding.
 
@@ -120,8 +120,8 @@ You can’t pour from an empty vessel. And more than that: you deserve to be ful
 
 If your loved one is considering treatment — or if you’re trying to understand what residential rehab looks like and how your family can be part of the process — **New Beginnings Recovery** welcomes those conversations. Our admissions team works with families as much as with individuals, and we believe that recovery done well includes everyone who loves the person in treatment.
 
-We’re available 24 hours a day at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. Everything is confidential.
+We’re available 24 hours a day at **(760) 924-9419**, or you can [reach out online](/contact/) at any time. Everything is confidential.
 
 Recovery is a family journey. We’re honored to walk it with you.
 
-_[New Beginnings Recovery](https://newbeginningsrecovery.com/) is a private detox and residential treatment program located in Rancho Mirage, California, serving individuals and families across Palm Springs and the Coachella Valley._
+_[New Beginnings Recovery](/) is a private detox and residential treatment program located in Rancho Mirage, California, serving individuals and families across Palm Springs and the Coachella Valley._

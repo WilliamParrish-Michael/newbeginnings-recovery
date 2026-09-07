@@ -20,7 +20,7 @@ These sensations can come on suddenly after reducing or stopping [benzodiazepine
 
 Benzo withdrawal can strongly affect the nervous system, and symptoms like derealization and depersonalization are **known withdrawal responses**, not signs of losing touch with reality. Still, that doesn’t make them easy to endure — or something that should be handled alone.
 
-This article explains why derealization and depersonalization can happen during benzodiazepine withdrawal, how these symptoms fit into the broader withdrawal process, and when [medical support](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) can help reduce risk and provide stability.
+This article explains why derealization and depersonalization can happen during benzodiazepine withdrawal, how these symptoms fit into the broader withdrawal process, and when [medical support](/programs/medical-detox/) can help reduce risk and provide stability.
 
 ## How Benzodiazepines Affect the Brain and Perception
 
@@ -118,10 +118,10 @@ Experiencing derealization or depersonalization during benzodiazepine withdrawal
 
 The most important thing to remember is that you don’t have to manage these symptoms alone.
 
-[Medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) provides supervision during benzodiazepine withdrawal, allowing symptoms like dissociation, panic, and nervous system overstimulation to be monitored and addressed safely. This kind of support helps reduce risk and removes the burden of trying to judge what’s “normal” or “too much” on your own.
+[Medical detox](/programs/medical-detox/) provides supervision during benzodiazepine withdrawal, allowing symptoms like dissociation, panic, and nervous system overstimulation to be monitored and addressed safely. This kind of support helps reduce risk and removes the burden of trying to judge what’s “normal” or “too much” on your own.
 
-[Getting help](https://newbeginningsrecovery.com/about-us/) doesn’t mean you’ve failed or that symptoms will last forever. It means you’re choosing a safer environment while your nervous system stabilizes — which can make a significant difference in how withdrawal is experienced.
+[Getting help](/about/) doesn’t mean you’ve failed or that symptoms will last forever. It means you’re choosing a safer environment while your nervous system stabilizes — which can make a significant difference in how withdrawal is experienced.
 
 If derealization or depersonalization feels overwhelming, constant, or is affecting your ability to function, reaching out for assessment can bring clarity and support. A conversation doesn’t lock you into a decision — it simply helps you understand options and next steps.
 
-When it comes to benzodiazepine withdrawal, **[medical supervision](https://newbeginningsrecovery.com/virtual-tour/) can provide both safety and reassurance during a very vulnerable time**.
+When it comes to benzodiazepine withdrawal, **[medical supervision](/virtual-tour/) can provide both safety and reassurance during a very vulnerable time**.

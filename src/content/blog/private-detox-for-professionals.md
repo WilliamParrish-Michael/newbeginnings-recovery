@@ -8,7 +8,7 @@ draft: false
 
 ## When You’re Functioning — but Something Still Isn’t Right
 
-Many professionals who seek [detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) don’t look like they’re struggling from the outside. They’re showing up to work, meeting responsibilities, and keeping life moving forward. Colleagues may not notice anything is wrong — and that can make asking for help feel even more complicated.
+Many professionals who seek [detox](/programs/medical-detox/) don’t look like they’re struggling from the outside. They’re showing up to work, meeting responsibilities, and keeping life moving forward. Colleagues may not notice anything is wrong — and that can make asking for help feel even more complicated.
 
 For high-functioning professionals, the biggest concerns often aren’t just about withdrawal symptoms. They’re about **privacy, confidentiality, and control**. Questions like _Who will know? Will this affect my career? How do I get help without exposing my personal life?_ tend to come up early — and they’re valid.
 
@@ -22,7 +22,7 @@ This article explains what private detox typically looks like for professionals,
 
 ![rehab for business professionals california](/images/blog/inline/rehab-for-business-professionals-california.jpg)
 
-For [professionals](https://newbeginningsrecovery.com/), privacy isn’t about hiding — it’s about maintaining appropriate boundaries. Careers, licenses, leadership roles, and public-facing responsibilities can all make the idea of seeking detox feel risky, even when health clearly needs attention.
+For [professionals](/), privacy isn’t about hiding — it’s about maintaining appropriate boundaries. Careers, licenses, leadership roles, and public-facing responsibilities can all make the idea of seeking detox feel risky, even when health clearly needs attention.
 
 Confidentiality in detox exists to protect that boundary.
 
@@ -34,7 +34,7 @@ At its core, confidentiality allows professionals to address a medical issue res
 
 ## What Private Detox for Professionals Typically Looks Like
 
-[Private detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) for professionals is designed to be **structured, discreet, and medically focused**, without unnecessary exposure or disruption. The goal is to support safe withdrawal while preserving privacy and routine as much as possible.
+[Private detox](/programs/medical-detox/) for professionals is designed to be **structured, discreet, and medically focused**, without unnecessary exposure or disruption. The goal is to support safe withdrawal while preserving privacy and routine as much as possible.
 
 ### A Controlled, Confidential Admission Process
 
@@ -42,7 +42,7 @@ From the first point of contact, communication is handled discreetly. Conversati
 
 ### Medically Supervised Care Without Unnecessary Attention
 
-[During detox,](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) medical professionals monitor symptoms, vital signs, and overall stability around the clock. Care is attentive but not intrusive. There’s no expectation to share personal or professional details beyond what’s relevant to health and safety.
+[During detox,](/programs/medical-detox/) medical professionals monitor symptoms, vital signs, and overall stability around the clock. Care is attentive but not intrusive. There’s no expectation to share personal or professional details beyond what’s relevant to health and safety.
 
 This allows professionals to focus on stabilizing physically without feeling scrutinized or exposed.
 
@@ -95,4 +95,4 @@ This approach can make sense when:
 
 Detox doesn’t require a public explanation or a long-term commitment upfront. It’s a **measured, medical step** that prioritizes safety and preserves control. For some, it leads into residential treatment. For others, it provides the clarity needed to decide what comes next — thoughtfully and on their own terms.
 
-If you’re considering private detox, starting with a [confidential conversation](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) can help you understand options, timing, and what to expect — without pressure or disclosure beyond what’s necessary.
+If you’re considering private detox, starting with a [confidential conversation](/contact/) can help you understand options, timing, and what to expect — without pressure or disclosure beyond what’s necessary.

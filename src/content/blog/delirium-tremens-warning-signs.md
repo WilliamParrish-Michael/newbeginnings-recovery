@@ -127,7 +127,7 @@ Detox settings allow for continuous monitoring during this high-risk window, red
 
 ## Why Medical Detox Is Essential When DT Risk Is Present
 
-Delirium tremens is not something that can be safely managed at home. When DT risk exists, **[medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is considered essential**, not optional.
+Delirium tremens is not something that can be safely managed at home. When DT risk exists, **[medical detox](/programs/medical-detox/) is considered essential**, not optional.
 
 This isn’t because DTs are common — it’s because when they occur, they can escalate rapidly and become life-threatening without immediate intervention.
 
@@ -147,7 +147,7 @@ One of the defining features of delirium tremens is unpredictability. Symptoms c
 
 ### A Safer Path Through Alcohol Withdrawal
 
-[Medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) doesn’t just address DTs themselves — it provides a safer way to move through the entire alcohol withdrawal process when risk is elevated. Stabilization allows the nervous system to rebalance with support, rather than under extreme strain.
+[Medical detox](/programs/medical-detox/) doesn’t just address DTs themselves — it provides a safer way to move through the entire alcohol withdrawal process when risk is elevated. Stabilization allows the nervous system to rebalance with support, rather than under extreme strain.
 
 When DT risk is present, medical detox is about **preventing a medical emergency**, not reacting to one after it’s already happening.
 
@@ -167,6 +167,6 @@ Even if severe symptoms haven’t appeared, it’s still important to seek guida
 -   Alcohol has been used alongside benzodiazepines or other depressants
 -   You’re unsure how your body may respond as withdrawal progresses
 
-Because DTs often develop later in the withdrawal timeline, waiting to “see how it goes” can be risky. Early assessment helps identify whether [medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is the safer option before complications arise.
+Because DTs often develop later in the withdrawal timeline, waiting to “see how it goes” can be risky. Early assessment helps identify whether [medical detox](/programs/medical-detox/) is the safer option before complications arise.
 
 If you’re concerned about DT risk or unsure how serious withdrawal symptoms may become, a confidential conversation with admissions can help you understand next steps and when medical detox is appropriate. When it comes to delirium tremens, **it’s always safer to ask than to wait**.

@@ -119,7 +119,7 @@ Families don’t have to “win” a conversation — they just need to help kee
 
 ![drug detox timeline](/images/blog/inline/drug-detox-timeline.jpg)
 
-If withdrawal is starting and you’re unsure what to do next, calling **[New Beginnings Recovery](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/)** is often the simplest first step. You don’t need a diagnosis, a plan, or certainty — just a willingness to talk through what’s happening.
+If withdrawal is starting and you’re unsure what to do next, calling **[New Beginnings Recovery](/programs/medical-detox/)** is often the simplest first step. You don’t need a diagnosis, a plan, or certainty — just a willingness to talk through what’s happening.
 
 ### A Calm, Confidential Assessment
 
@@ -136,7 +136,7 @@ This conversation is confidential and focused on **safety**, not pressure.
 
 The goal of the call isn’t to push you into treatment — it’s to help determine:
 
--   Whether [medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) may be appropriate
+-   Whether [medical detox](/programs/medical-detox/) may be appropriate
 -   Whether symptoms can be monitored safely
 -   What next steps make sense today
 
@@ -157,4 +157,4 @@ Families don’t need to have all the answers — they just need a place to star
 
 Many people call simply to understand their options. Whether detox happens today, soon, or not at all, the goal is to give you clear information so you can make the safest decision possible.
 
-If you’re searching for **detox near Indio, CA** and withdrawal may be starting, you don’t have to wait or guess. A confidential call with [**New Beginnings Recovery**](https://newbeginningsrecovery.com/) can help you understand what’s happening and what to do next — today.
+If you’re searching for **detox near Indio, CA** and withdrawal may be starting, you don’t have to wait or guess. A confidential call with [**New Beginnings Recovery**](/) can help you understand what’s happening and what to do next — today.

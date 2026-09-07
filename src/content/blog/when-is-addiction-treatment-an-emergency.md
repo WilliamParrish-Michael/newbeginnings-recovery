@@ -8,7 +8,7 @@ draft: false
 
 ![When is Addiction Treatment an Emergency](/images/blog/inline/When-is-Addiction-Treatment-an-Emergency.jpg)
 
-Most conversations about addiction [treatment](https://newbeginningsrecovery.com/) focus on readiness — on waiting for the right moment, finding the right program, having the right conversation. And that framing is appropriate for most situations.
+Most conversations about addiction [treatment](/) focus on readiness — on waiting for the right moment, finding the right program, having the right conversation. And that framing is appropriate for most situations.
 
 But there are moments when the question isn’t about timing or readiness. There are moments when what’s happening in front of you is a medical emergency — when the right response isn’t a conversation about treatment options, but a call to 911.
 
@@ -129,7 +129,7 @@ For the urgent-but-not-acute warning signs — visible health deterioration, wit
 
 **New Beginnings Recovery** in Rancho Mirage offers medically supervised alcohol detox and residential treatment, with a clinical team available 24 hours a day to answer questions about what you’re seeing and what the appropriate next step is. If you’re unsure whether what’s happening constitutes an emergency, our admissions team can help you think through it.
 
-We’re available at **(760) 924-9419** around the clock, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes.
+We’re available at **(760) 924-9419** around the clock, or you can [reach out online](/contact/) at any time. [Insurance verification](/verify-insurance/) takes just a few minutes.
 
 If there’s any doubt — act. The cost of acting when it wasn’t strictly necessary is far lower than the cost of waiting when it was.
 

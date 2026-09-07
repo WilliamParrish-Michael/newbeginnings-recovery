@@ -108,6 +108,6 @@ When your spouse reaches that moment, having already done the work — knowing w
 
 If you want to understand what treatment options look like, what the admissions process involves, or simply have a confidential conversation about your situation, **New Beginnings Recovery** welcomes calls from family members. Our admissions team understands that the person calling isn’t always the person who needs treatment — and that the support a spouse or family member receives in this process matters enormously.
 
-We’re available 24 hours a day at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes — and you can do it before your spouse ever makes a decision, so you’re ready when they do.
+We’re available 24 hours a day at **(760) 924-9419**, or you can [reach out online](/contact/) at any time. [Insurance verification](/verify-insurance/) takes just a few minutes — and you can do it before your spouse ever makes a decision, so you’re ready when they do.
 
 You can’t make this choice for them. But you can be ready to help them make it for themselves.

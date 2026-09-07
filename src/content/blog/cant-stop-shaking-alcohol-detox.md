@@ -82,7 +82,7 @@ Waiting — hoping the shaking will stop on its own, reasoning that you’ve got
 
 People sometimes hesitate to seek detox because they’re not sure what it involves — or they fear it will mean a cold, clinical hospital experience. Understanding what good detox actually looks like can make it easier to take that step.
 
-In a [medically supervised detox program](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/), you are monitored continuously by clinical staff trained in withdrawal management. Your vital signs, neurological status, and symptom progression are tracked throughout the process. Medications are administered to manage withdrawal symptoms, prevent seizures, and stabilize cardiovascular function — making the process significantly safer and more comfortable than detoxing alone.
+In a [medically supervised detox program](/programs/medical-detox/), you are monitored continuously by clinical staff trained in withdrawal management. Your vital signs, neurological status, and symptom progression are tracked throughout the process. Medications are administered to manage withdrawal symptoms, prevent seizures, and stabilize cardiovascular function — making the process significantly safer and more comfortable than detoxing alone.
 
 In a private residential detox setting, that clinical rigor is combined with an environment designed for recovery rather than crisis management — a quieter, more dignified setting where the focus is on your wellbeing as a whole person, not just your vitals. The difference between withdrawing in a hospital emergency room and withdrawing in a private, medically supervised facility is the difference between surviving a crisis and beginning a recovery.
 
@@ -96,8 +96,8 @@ For an acute emergency — seizures, loss of consciousness, severe confusion, ch
 
 If you are in the earlier stages of withdrawal and are experiencing tremors, elevated heart rate, sweating, and anxiety, this is the right moment to reach out to a medically supervised detox program before symptoms progress further.
 
-**[New Beginnings Recovery](https://newbeginningsrecovery.com/)** in Rancho Mirage offers medically supervised alcohol detox in a private, compassionate setting, with 24/7 admissions and clinical staff available around the clock. Same-day admission is available for those who are ready.
+**[New Beginnings Recovery](/)** in Rancho Mirage offers medically supervised alcohol detox in a private, compassionate setting, with 24/7 admissions and clinical staff available around the clock. Same-day admission is available for those who are ready.
 
-Call us now at **(760) 924-9419** or [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/). Everything is confidential. Help is available right now.
+Call us now at **(760) 924-9419** or [reach out online](/contact/). Everything is confidential. Help is available right now.
 
 New Beginnings Recovery is a private detox and residential treatment program located in Rancho Mirage, California, serving individuals and families across Palm Springs and the Coachella Valley.

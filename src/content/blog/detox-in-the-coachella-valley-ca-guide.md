@@ -23,7 +23,7 @@ This guide is designed to be a clear, local starting point. It explains what det
 
 ![detox coachella valley ca](/images/blog/inline/detox-coachella-valley-ca.jpeg)
 
-When families search for detox in the Coachella Valley, they’re often trying to answer one key question: **Is this something we can handle at home, or is [medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) safer?**
+When families search for detox in the Coachella Valley, they’re often trying to answer one key question: **Is this something we can handle at home, or is [medical detox](/programs/medical-detox/) safer?**
 
 Medical detox is a structured level of care designed to help people withdraw from alcohol or drugs with **clinical monitoring and support**, especially when symptoms may become unpredictable or unsafe.
 
@@ -96,6 +96,6 @@ Early support can help families avoid waiting until the situation becomes unmana
 
 ![alcohol detox coachella valley california](/images/blog/inline/alcohol-detox-coachella-valley-ca.jpeg)
 
-If you’re looking for **detox in the Coachella Valley**, [New Beginnings Recovery](https://newbeginningsrecovery.com/) can help you understand your options and what medically supervised detox may look like for your situation.
+If you’re looking for **detox in the Coachella Valley**, [New Beginnings Recovery](/) can help you understand your options and what medically supervised detox may look like for your situation.
 
 A confidential admissions call is available to answer questions, talk through symptoms, and help families take the next step with more confidence and less fear — whether you’re calling for yourself or someone you care about.

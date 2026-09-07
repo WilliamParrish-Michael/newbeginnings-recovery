@@ -92,10 +92,10 @@ This is not a theoretical risk. It’s one of the primary reasons fentanyl overd
 
 If you or someone you love is ready to stop using fentanyl, medically supervised detox is the safest starting point — and the foundation on which lasting recovery is built.
 
-**[New Beginnings Recovery](https://newbeginningsrecovery.com/)** in Rancho Mirage offers private, medically supervised detox and residential treatment for people struggling with fentanyl and opioid dependence. Our clinical team provides 24/7 monitoring, medication management, and individualized care throughout the detox process — and our residential program provides the continued support that recovery from fentanyl requires beyond the acute phase.
+**[New Beginnings Recovery](/)** in Rancho Mirage offers private, medically supervised detox and residential treatment for people struggling with fentanyl and opioid dependence. Our clinical team provides 24/7 monitoring, medication management, and individualized care throughout the detox process — and our residential program provides the continued support that recovery from fentanyl requires beyond the acute phase.
 
-Our admissions team is available around the clock at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes.
+Our admissions team is available around the clock at **(760) 924-9419**, or you can [reach out online](/contact/) at any time. [Insurance verification](/verify-insurance/) takes just a few minutes.
 
 Fentanyl leaves your system on its own timeline. Recovery — real, sustained recovery — happens with the right support.
 
-_New Beginnings Recovery is a [private detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) and [residential treatment program](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) located in Rancho Mirage, California, serving individuals and families across Palm Springs and the Coachella Valley._
+_New Beginnings Recovery is a [private detox](/programs/medical-detox/) and [residential treatment program](/programs/residential/) located in Rancho Mirage, California, serving individuals and families across Palm Springs and the Coachella Valley._

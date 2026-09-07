@@ -64,7 +64,7 @@ The research backs this up. A major multi-center study published in [Psychiatric
 
 Knowing what to look for helps you find a program that can actually deliver. Here’s what matters:
 
-**[Medically supervised detox](https://newbeginningsrecovery.com/drug-detox-coachella-valley/) with opioid expertise.** Fentanyl withdrawal requires a clinical team that understands high-potency opioids specifically — not just general detox protocols. Medication management, 24/7 monitoring, and a plan for managing psychiatric symptoms during withdrawal are all essential.
+**[Medically supervised detox](/programs/drug-detox/) with opioid expertise.** Fentanyl withdrawal requires a clinical team that understands high-potency opioids specifically — not just general detox protocols. Medication management, 24/7 monitoring, and a plan for managing psychiatric symptoms during withdrawal are all essential.
 
 **A real dual diagnosis assessment.** Fentanyl use and withdrawal produce symptoms that can look like mental illness — and genuine mental illness can get masked by substance use. A good program takes the time to figure out what’s actually going on, usually after a period of stabilization, rather than assuming everything is substance-induced.
 
@@ -82,7 +82,7 @@ If you’re reading this because you or someone you love is struggling with fent
 
 Recovery from fentanyl is possible. It takes the right level of support and a treatment approach that takes the whole picture seriously — not just the substance use, but everything underneath it.
 
-**New Beginnings Recovery** in Rancho Mirage offers medically supervised detox and residential treatment in a private, compassionate setting, with clinical experience in co-occurring disorders throughout every phase of care. Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes.
+**New Beginnings Recovery** in Rancho Mirage offers medically supervised detox and residential treatment in a private, compassionate setting, with clinical experience in co-occurring disorders throughout every phase of care. Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](/contact/) at any time. [Insurance verification](/verify-insurance/) takes just a few minutes.
 
 You deserve care that treats all of you. We’re here when you’re ready.
 

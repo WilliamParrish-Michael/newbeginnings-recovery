@@ -98,6 +98,6 @@ It’s reasonable to reach out if:
 -   You’re noticing warning signs like extreme fatigue, agitation, or changes in breathing
 -   You want to understand detox or safety options before a crisis happens
 
-Reaching out doesn’t mean you’re accusing or forcing change. Many people contact **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** simply to talk through what’s happening, understand local overdose risks, and explore what medical detox or assessment options might look like.
+Reaching out doesn’t mean you’re accusing or forcing change. Many people contact **[New Beginnings Recovery](/)** simply to talk through what’s happening, understand local overdose risks, and explore what medical detox or assessment options might look like.
 
 A confidential conversation with admissions can help clarify next steps and provide guidance during a time when uncertainty feels heavy. When polysubstance use is involved, **early support can make a meaningful difference in safety**.

@@ -18,7 +18,7 @@ Getting ready to enter residential rehab can feel overwhelming. Along with the e
 -   Can I bring my phone?
 -   What if I forget something important?
 
-If you’re preparing for [residential rehab in Rancho Mirage](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/), the goal isn’t to pack perfectly — it’s to pack thoughtfully. Residential treatment is designed to provide structure, safety, and stability. Most essentials are already provided.
+If you’re preparing for [residential rehab in Rancho Mirage](/programs/residential/), the goal isn’t to pack perfectly — it’s to pack thoughtfully. Residential treatment is designed to provide structure, safety, and stability. Most essentials are already provided.
 
 This guide explains what to pack for residential rehab, what is typically not permitted, and how to prepare in a way that reduces stress rather than adds to it.
 
@@ -42,7 +42,7 @@ Residential rehab is not just about [stopping substance use](https://my.clevelan
 
 ## Clothing: Comfortable, Simple, and Practical
 
-[Residential rehab](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) is not a formal environment. Most days include structured schedules, therapeutic sessions, and downtime. Comfort matters more than style.
+[Residential rehab](/programs/residential/) is not a formal environment. Most days include structured schedules, therapeutic sessions, and downtime. Comfort matters more than style.
 
 ### Recommended Clothing
 
@@ -93,7 +93,7 @@ During intake, medical staff will review:
 -   Medical history
 -   Any over-the-counter medications
 
-Do not bring unapproved supplements or medications without discussing them first. Safety and coordination of care are priorities during [residential rehab](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/).
+Do not bring unapproved supplements or medications without discussing them first. Safety and coordination of care are priorities during [residential rehab](/programs/residential/).
 
 If you use glasses, contact lenses, or medically necessary items, bring them with you.
 
@@ -135,7 +135,7 @@ Residential rehab programs prioritize safety and structure. Items commonly restr
 
 Policies vary by facility. Some programs restrict personal phones during early treatment to support focus and stabilization.
 
-If you’re unsure about a specific item, it’s always best to ask [admissions](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) beforehand.
+If you’re unsure about a specific item, it’s always best to ask [admissions](/contact/) beforehand.
 
 ## What You Don’t Need to Bring
 
@@ -185,6 +185,6 @@ A brief call before arrival can reduce uncertainty significantly.
 
 If you or a loved one is preparing to enter residential rehab in Rancho Mirage, know that the goal is not perfection — it’s progress.
 
-[Residential treatment](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) is structured to support stabilization, privacy, and forward movement. Packing thoughtfully can help you feel grounded, but the most important thing you bring is the willingness to begin.
+[Residential treatment](/programs/residential/) is structured to support stabilization, privacy, and forward movement. Packing thoughtfully can help you feel grounded, but the most important thing you bring is the willingness to begin.
 
 If you have questions about what to pack, how long residential rehab lasts, or what happens after admission, a confidential call can provide clarity before you arrive.

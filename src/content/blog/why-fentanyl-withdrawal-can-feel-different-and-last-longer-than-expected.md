@@ -157,7 +157,7 @@ Because of this variability, there’s no single fentanyl withdrawal timeline th
 
 ## When Medical Support Can Make a Difference During Fentanyl Withdrawal
 
-Because fentanyl withdrawal can be more intense and less predictable than other opioid withdrawals, **[medical support](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) can play an important role** — especially when symptoms feel prolonged or difficult to manage.
+Because fentanyl withdrawal can be more intense and less predictable than other opioid withdrawals, **[medical support](/programs/medical-detox/) can play an important role** — especially when symptoms feel prolonged or difficult to manage.
 
 Medical support is often especially helpful when:
 
@@ -194,6 +194,6 @@ Medical support may help when symptoms are severe, lingering, or uneven; when hy
 
 If fentanyl withdrawal feels different than expected — more intense, more prolonged, or harder to manage — you’re not imagining it. Fentanyl behaves differently in the body, and withdrawal doesn’t always follow a predictable path.
 
-Reaching out doesn’t mean you’ve committed to treatment. Many people contact **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** simply to talk through what they’re experiencing, understand why symptoms may be lingering, and learn whether medical detox or additional support could help.
+Reaching out doesn’t mean you’ve committed to treatment. Many people contact **[New Beginnings Recovery](/)** simply to talk through what they’re experiencing, understand why symptoms may be lingering, and learn whether medical detox or additional support could help.
 
 A confidential conversation with admissions can provide clarity, reassurance, and guidance on safer next steps. When fentanyl is involved, **getting support can make the withdrawal process more manageable and less isolating**.

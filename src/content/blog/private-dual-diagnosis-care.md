@@ -98,9 +98,9 @@ The biggest obstacle for most professionals isn’t finding the right program. I
 
 The fear of what getting help means — for their career, their reputation, their sense of themselves — is real. And it’s worth acknowledging directly: getting help is not a confession of failure. It’s one of the most strategically sound decisions a high-achieving person can make. Because the alternative — continuing to manage both a substance use disorder and an untreated mental health condition while maintaining the performance demands of a professional career — has a ceiling. And most people who have been doing it for a while already know that.
 
-**[New Beginnings Recovery](https://newbeginningsrecovery.com/)** in Rancho Mirage offers private, medically supervised detox and residential dual diagnosis treatment in a setting designed for people who take their health, their privacy, and their recovery seriously. Our admissions team understands the specific concerns of professionals and handles every inquiry with the discretion and confidentiality the situation requires.
+**[New Beginnings Recovery](/)** in Rancho Mirage offers private, medically supervised detox and residential dual diagnosis treatment in a setting designed for people who take their health, their privacy, and their recovery seriously. Our admissions team understands the specific concerns of professionals and handles every inquiry with the discretion and confidentiality the situation requires.
 
-Our team is available around the clock at **(760) 924-9419**. You can also [verify your insurance privately online](https://newbeginningsrecovery.com/verify-your-insurance/) or [reach out confidentially through our contact page](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/). Every conversation is protected.
+Our team is available around the clock at **(760) 924-9419**. You can also [verify your insurance privately online](/verify-insurance/) or [reach out confidentially through our contact page](/contact/). Every conversation is protected.
 
 You’ve built something worth protecting. So have we.
 

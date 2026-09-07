@@ -79,7 +79,7 @@ When comparing detox options near Palm Desert, it helps to know what separates s
 
 ### 1) Medically Supervised Withdrawal Support
 
-A [legitimate detox program](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) should be able to explain how withdrawal is monitored and what happens if symptoms change.
+A [legitimate detox program](/programs/medical-detox/) should be able to explain how withdrawal is monitored and what happens if symptoms change.
 
 ### 2) Experience With Alcohol, Opioids, and Benzodiazepines
 
@@ -101,4 +101,4 @@ Admissions should feel calm, clear, and non-pressured — not rushed or sales-dr
 
 If you’re looking for **detox near Palm Desert, CA**, you don’t have to wait until symptoms become extreme to reach out. Withdrawal can change quickly, and the earlier you get guidance, the safer and more manageable the process can be.
 
-A confidential admissions call with **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** can help you understand next steps, explore detox options, and plan for what comes after detox — including residential support when appropriate. [SAMHSA](https://www.samhsa.gov/find-help/helplines/national-helpline) (the Substance Abuse and Mental Health Services Administration) also provides a national treatment resource at **FindTreatment.gov**, which helps explain levels of care and how to locate support.
+A confidential admissions call with **[New Beginnings Recovery](/)** can help you understand next steps, explore detox options, and plan for what comes after detox — including residential support when appropriate. [SAMHSA](https://www.samhsa.gov/find-help/helplines/national-helpline) (the Substance Abuse and Mental Health Services Administration) also provides a national treatment resource at **FindTreatment.gov**, which helps explain levels of care and how to locate support.

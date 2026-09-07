@@ -108,7 +108,7 @@ If you’re at the point where you want to address the alcohol use disorder itse
 
 **New Beginnings Recovery** in Rancho Mirage offers private, medically supervised alcohol detox and residential treatment with 24/7 clinical monitoring, same-day admission, and a direct pathway into residential treatment — all in a calm, private setting designed for recovery rather than crisis management.
 
-Our admissions team is available around the clock at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes.
+Our admissions team is available around the clock at **(760) 924-9419**, or you can [reach out online](/contact/) at any time. [Insurance verification](/verify-insurance/) takes just a few minutes.
 
 You have rights in a hospital emergency. And you have options that go well beyond what the ER can provide. Let us help you access them.
 

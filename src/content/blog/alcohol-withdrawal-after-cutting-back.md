@@ -21,7 +21,7 @@ Alcohol withdrawal after cutting back is more common than many people realize. F
 
 Alcohol affects how the brain regulates stress, sleep, and balance. Over time, the body adjusts to alcohol’s presence. When intake drops — even gradually — the brain may react before it has time to recalibrate, leading to symptoms that feel mild at first but can still be uncomfortable or concerning.
 
-This article explains why alcohol withdrawal symptoms can occur after cutting back, what’s happening inside the body, and when symptoms may signal the need for [medical support](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) — even if drinking hasn’t stopped entirely.
+This article explains why alcohol withdrawal symptoms can occur after cutting back, what’s happening inside the body, and when symptoms may signal the need for [medical support](/programs/medical-detox/) — even if drinking hasn’t stopped entirely.
 
 ## How Alcohol Dependence Can Develop (Even Without Heavy Drinking)
 
@@ -117,7 +117,7 @@ Medical guidance may be helpful if:
 -   Confusion, disorientation, or unusual agitation appears
 -   You’re unsure whether what you’re feeling is normal or safe
 
-Alcohol withdrawal can be unpredictable, and symptoms don’t always peak right away. Getting input early can help determine whether your body is likely to stabilize on its own or whether [medical support](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) could reduce risk and discomfort.
+Alcohol withdrawal can be unpredictable, and symptoms don’t always peak right away. Getting input early can help determine whether your body is likely to stabilize on its own or whether [medical support](/programs/medical-detox/) could reduce risk and discomfort.
 
 Reaching out doesn’t mean you’ve done something wrong or that your symptoms are severe — it means you’re being cautious and informed. Many people seek guidance simply to understand what’s happening and what next steps might look like.
 

@@ -94,9 +94,9 @@ If you or someone you love is navigating both a mental health condition and alco
 
 The right treatment program will assess and treat both — from medically supervised detox through residential care and into the therapeutic work that addresses the underlying mental health dimension of recovery.
 
-At **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** in Rancho Mirage, we recognize that alcohol use disorder rarely exists in isolation. Our clinical team brings experience in co-occurring disorders to every stage of care — from intake assessment through detox and residential treatment — and our program includes access to optional wellness services designed to support the whole person, not just the presenting symptom.
+At **[New Beginnings Recovery](/)** in Rancho Mirage, we recognize that alcohol use disorder rarely exists in isolation. Our clinical team brings experience in co-occurring disorders to every stage of care — from intake assessment through detox and residential treatment — and our program includes access to optional wellness services designed to support the whole person, not just the presenting symptom.
 
-If this is the month you decide to start that conversation, we’re ready to have it. Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. You can also [verify your insurance](https://newbeginningsrecovery.com/verify-your-insurance/) in minutes.
+If this is the month you decide to start that conversation, we’re ready to have it. Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](/contact/) at any time. You can also [verify your insurance](/verify-insurance/) in minutes.
 
 In every story, there’s strength. Yours is no different.
 

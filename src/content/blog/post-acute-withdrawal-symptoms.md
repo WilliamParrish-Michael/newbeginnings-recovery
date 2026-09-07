@@ -12,7 +12,7 @@ draft: false
 
 Finishing detox is a major step — but for many people, it’s not the end of withdrawal symptoms. After the body stabilizes physically, the brain may still need time to heal. This phase is often referred to as **Post-acute withdrawal symptoms or PAWS**, or **[post-acute withdrawal syndrome](https://www.sciencedirect.com/science/article/abs/pii/S1555415521005523)**.
 
-PAWS doesn’t mean [detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) didn’t work. It means recovery is moving from the **physical phase** into the **neurological and emotional phase**.
+PAWS doesn’t mean [detox](/programs/medical-detox/) didn’t work. It means recovery is moving from the **physical phase** into the **neurological and emotional phase**.
 
 People experiencing PAWS often report:
 
@@ -171,7 +171,7 @@ In these cases, additional structure and support can help make this phase more m
 
 PAWS can be one of the most vulnerable phases of recovery — not because symptoms are extreme, but because they’re **subtle, persistent, and emotionally draining**. Many people feel caught off guard by how hard this stage can be after getting through detox.
 
-Ongoing support after [detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) helps because it:
+Ongoing support after [detox](/programs/medical-detox/) helps because it:
 
 -   Provides structure during a time when motivation may be low
 -   Helps manage cravings as they come and go
@@ -185,4 +185,4 @@ PAWS isn’t something you have to “power through.” It’s a phase where gui
 
 If you’re dealing with brain fog, mood swings, or cravings after detox, you’re not alone — and it doesn’t mean recovery isn’t working. PAWS can be one of the most confusing phases because symptoms come and go, even when you’re doing everything “right.”
 
-If you’re unsure what the next step should be, [**New Beginnings Recovery**](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) can help you talk through what you’re experiencing and explore what level of support may make this phase more stable. A confidential admissions call can help you understand your options and what recovery support can look like after detox.
+If you’re unsure what the next step should be, [**New Beginnings Recovery**](/contact/) can help you talk through what you’re experiencing and explore what level of support may make this phase more stable. A confidential admissions call can help you understand your options and what recovery support can look like after detox.

@@ -20,7 +20,7 @@ The comparison isn’t accidental. Kratom interacts with some of the same recept
 
 Understanding the similarities and differences between kratom withdrawal and opioid withdrawal can help people make sense of what they’re experiencing, recognize when symptoms may escalate, and decide whether medical support may be helpful.
 
-This article explains how kratom and opioids affect the body, where withdrawal symptoms overlap, where they differ, and what to expect during the [withdrawal process](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) — without assuming a one-size-fits-all experience.
+This article explains how kratom and opioids affect the body, where withdrawal symptoms overlap, where they differ, and what to expect during the [withdrawal process](/programs/medical-detox/) — without assuming a one-size-fits-all experience.
 
 ## How Kratom and Opioids Affect the Brain and Nervous System
 
@@ -207,4 +207,4 @@ Understanding those differences helps reduce confusion, normalize symptoms, and 
 
 If you’re unsure whether what you’re experiencing is normal, lingering, or something that would benefit from medical support, it’s reasonable to ask.
 
-[A confidential conversation with admissions](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) can help you understand what level of care may be appropriate and what next steps could look like based on your situation
+[A confidential conversation with admissions](/contact/) can help you understand what level of care may be appropriate and what next steps could look like based on your situation

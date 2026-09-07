@@ -127,7 +127,7 @@ It may be time to reach out if:
 -   You’re unsure what substances may be involved
 -   Withdrawal attempts have been unsuccessful
 
-Many Californians [contact **New Beginnings Recovery**](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) simply to talk through what’s happening and understand what medically supervised detox may involve.
+Many Californians [contact **New Beginnings Recovery**](/contact/) simply to talk through what’s happening and understand what medically supervised detox may involve.
 
 A confidential admissions call can provide clarity about next steps, including medical detox options and continued care — without pressure.
 

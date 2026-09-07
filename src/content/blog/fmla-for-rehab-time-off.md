@@ -27,7 +27,7 @@ _(This information is general and educational, not legal advice.)_
 
 ## Why Planning Time Off Matters When Detox Is Involved
 
-[Detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is a medical process. Even when symptoms feel manageable at first, withdrawal can be unpredictable, and rest, monitoring, and stability are important.
+[Detox](/programs/medical-detox/) is a medical process. Even when symptoms feel manageable at first, withdrawal can be unpredictable, and rest, monitoring, and stability are important.
 
 Trying to juggle withdrawal symptoms while working — or worrying about work while trying to stabilize — often adds stress at the exact moment the body needs calm. Planning time off ahead of time allows people to focus on health first, while also protecting their job and privacy as much as possible.
 
@@ -81,7 +81,7 @@ For those who aren’t eligible, other options may still be available, including
 
 ## Getting Help Without Oversharing (And Planning Your Next Step)
 
-Taking time off for [detox or treatment](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) doesn’t mean you have to explain every detail of your life to your employer. In many cases, it simply means following the right process, completing the right paperwork, and setting appropriate boundaries around what you share.
+Taking time off for [detox or treatment](/programs/medical-detox/) doesn’t mean you have to explain every detail of your life to your employer. In many cases, it simply means following the right process, completing the right paperwork, and setting appropriate boundaries around what you share.
 
 For people who are already feeling overwhelmed, knowing that privacy is possible can make a real difference. It allows the focus to stay where it belongs — on health, safety, and stabilization — rather than fear of workplace consequences.
 
@@ -93,6 +93,6 @@ You don’t have to choose between taking care of yourself and protecting your j
 
 ### A Quiet First Step Forward
 
-If you’re considering detox and worried about how time off work might affect your job, you don’t have to figure it out alone. The admissions team at [New Beginnings Recovery](https://newbeginningsrecovery.com/) can help you think through timing, logistics, and next steps — [confidentially](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) and without pressure.
+If you’re considering detox and worried about how time off work might affect your job, you don’t have to figure it out alone. The admissions team at [New Beginnings Recovery](/) can help you think through timing, logistics, and next steps — [confidentially](/contact/) and without pressure.
 
 A simple conversation can bring clarity and help you move forward safely.

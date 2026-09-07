@@ -28,7 +28,7 @@ In this guide, we’ll walk through what dual diagnosis treatment is, why it mat
 
 ### A Simple Definition of Dual Diagnosis
 
-[Dual diagnosis treatment](https://newbeginningsrecovery.com/addiction-treatment-programs-in-rancho-mirage-palm-springs/) refers to care designed for people who are experiencing **both** a substance use disorder and a mental health condition at the same time. You may also hear this called _co-occurring disorders treatment_.
+[Dual diagnosis treatment](/programs/) refers to care designed for people who are experiencing **both** a substance use disorder and a mental health condition at the same time. You may also hear this called _co-occurring disorders treatment_.
 
 This can include combinations such as:
 
@@ -147,7 +147,7 @@ By addressing addiction and mental health together, integrated care offers a mor
 
 ### Care That Is Coordinated, Not Fragmented
 
-[In dual diagnosis treatment](https://newbeginningsrecovery.com/addiction-treatment-programs-in-rancho-mirage-palm-springs/), mental health care and addiction treatment are not treated as separate tracks. They are coordinated parts of the same plan, guided by an understanding of how each influences the other.
+[In dual diagnosis treatment](/programs/), mental health care and addiction treatment are not treated as separate tracks. They are coordinated parts of the same plan, guided by an understanding of how each influences the other.
 
 This means therapy, psychiatric support (when appropriate), and substance use treatment are aligned. Providers are working from the same information, with shared goals and consistent communication. For many people, this alone feels like a shift — care finally feels connected instead of pieced together.
 
@@ -211,7 +211,7 @@ There’s no expectation to have everything figured out. Taking time to understa
 
 ## Dual Diagnosis Treatment Support Near Palm Springs
 
-If you or someone you love is exploring **[dual diagnosis treatment](https://newbeginningsrecovery.com/about-us/)**, **New Beginnings Recovery** offers integrated care that addresses both substance use and mental health with intention, compassion, and clinical support.
+If you or someone you love is exploring **[dual diagnosis treatment](/about/)**, **New Beginnings Recovery** offers integrated care that addresses both substance use and mental health with intention, compassion, and clinical support.
 
 A confidential conversation with the admissions team can help you understand available options and determine whether dual diagnosis care may be the right next step — without pressure or obligation.
 

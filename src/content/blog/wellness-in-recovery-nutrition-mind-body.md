@@ -14,11 +14,11 @@ When people hear “wellness” in recovery, reactions are often mixed. Some fee
 
 That’s not what wellness is meant to be.
 
-In recovery, [wellness services](https://newbeginningsrecovery.com/wellness-services-in-rancho-mirage-palm-springs/) are not a substitute for medical treatment or therapy. They are supportive tools — designed to help the body and nervous system recover alongside evidence-based care. When used appropriately, nutrition support and mind-body practices can make the recovery process feel more manageable, more grounded, and more sustainable.
+In recovery, [wellness services](/wellness/) are not a substitute for medical treatment or therapy. They are supportive tools — designed to help the body and nervous system recover alongside evidence-based care. When used appropriately, nutrition support and mind-body practices can make the recovery process feel more manageable, more grounded, and more sustainable.
 
 Substance use places real stress on the body. Sleep, appetite, digestion, mood regulation, and stress response are often disrupted, sometimes long after substances are stopped. Wellness-focused support helps address these physical and emotional imbalances so people can engage more fully in treatment.
 
-At [New Beginnings Recovery](https://newbeginningsrecovery.com/), wellness is approached thoughtfully — as an addition to clinical care, not an alternative. The goal isn’t to promise quick fixes or dramatic transformation. It’s to support the body and mind as they heal, helping people feel steadier as they move through treatment and into long-term recovery.
+At [New Beginnings Recovery](/), wellness is approached thoughtfully — as an addition to clinical care, not an alternative. The goal isn’t to promise quick fixes or dramatic transformation. It’s to support the body and mind as they heal, helping people feel steadier as they move through treatment and into long-term recovery.
 
 When wellness is integrated carefully, it can help recovery feel less overwhelming — and help individuals and families understand that healing involves more than just stopping substance use.
 
@@ -70,7 +70,7 @@ At New Beginnings Recovery, mind-body practices are offered as supportive option
 
 ![nutrition during drug detox wellness in recovery](/images/blog/inline/nutrition-during-drug-detox.jpg)
 
-[Wellness services](https://newbeginningsrecovery.com/wellness-services-in-rancho-mirage-palm-springs/) work best when they are integrated thoughtfully into treatment — not layered on top as an expectation or used as a substitute for therapy or medical support.
+[Wellness services](/wellness/) work best when they are integrated thoughtfully into treatment — not layered on top as an expectation or used as a substitute for therapy or medical support.
 
 At New Beginnings Recovery, wellness is meant to support the work happening in treatment, not distract from it. Nutrition support and mind-body practices are offered to help people feel more physically steady, emotionally regulated, and mentally present so they can engage more fully in therapy, group work, and recovery planning.
 
@@ -84,7 +84,7 @@ For families, this approach often brings reassurance. It signals that care is co
 
 Recovery is not one-dimensional. It involves the body, the mind, and the daily habits that help people stay regulated and engaged over time.
 
-[Wellness services](https://newbeginningsrecovery.com/wellness-services-in-rancho-mirage-palm-springs/) don’t replace treatment — but when used appropriately, they can make treatment feel more sustainable. They help people feel cared for as whole individuals, not just managed through symptoms.
+[Wellness services](/wellness/) don’t replace treatment — but when used appropriately, they can make treatment feel more sustainable. They help people feel cared for as whole individuals, not just managed through symptoms.
 
 If you’re exploring treatment options and wondering how wellness fits into recovery, a conversation with admissions can help clarify what support looks like and how these services are integrated alongside clinical care.
 

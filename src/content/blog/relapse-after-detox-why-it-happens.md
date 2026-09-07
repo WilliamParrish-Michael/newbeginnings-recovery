@@ -12,13 +12,13 @@ Completing detox is a major step. For many people, it’s the first time their b
 
 This is why **relapse after detox is common—and not a sign of failure**.
 
-Understanding why relapse happens after detox, and what types of treatment reduce that risk, can help people make more informed decisions about next steps. In many cases, transitioning from detox into **[residential treatment](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/)** provides the structure and support needed to protect early recovery.
+Understanding why relapse happens after detox, and what types of treatment reduce that risk, can help people make more informed decisions about next steps. In many cases, transitioning from detox into **[residential treatment](/programs/residential/)** provides the structure and support needed to protect early recovery.
 
 ## What Detox Does—and What It Doesn’t
 
 ![relapse after detox coachella](/images/blog/inline/relapse-after-detox-coachella.jpg)
 
-[Detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) focuses on **physical stabilization**. Its goals are to:
+[Detox](/programs/medical-detox/) focuses on **physical stabilization**. Its goals are to:
 
 -   Manage withdrawal symptoms
 -   Prevent medical complications
@@ -196,4 +196,4 @@ National resources such as [**SAMHSA**](https://www.samhsa.gov/substance-use/rec
 
 If you’re concerned about relapse after detox or want to understand whether residential treatment may help reduce risk, speaking with a treatment professional can help clarify next steps.
 
-**[Call to plan next-step treatment after detox](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/)** and learn how residential care fits into a long-term recovery plan.
+**[Call to plan next-step treatment after detox](/contact/)** and learn how residential care fits into a long-term recovery plan.

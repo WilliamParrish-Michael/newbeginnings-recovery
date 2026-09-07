@@ -14,7 +14,7 @@ Searching for detox options in Rancho Mirage usually means you’re trying to ma
 
 The challenge is that many detox programs use similar language online. “Medical detox,” “private detox,” and “luxury detox” can all sound reassuring — but they don’t always mean the same level of care.
 
-This guide is designed to help you understand what [private medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) actually includes, what to look for when comparing options, and what questions matter most — especially when withdrawal symptoms may be starting or escalating.
+This guide is designed to help you understand what [private medical detox](/programs/medical-detox/) actually includes, what to look for when comparing options, and what questions matter most — especially when withdrawal symptoms may be starting or escalating.
 
 ## What “Private Medical Detox” Really Means
 
@@ -28,7 +28,7 @@ When people look for a private medical detox program near Rancho Mirage, they’
 
 Privacy is important — but the most important factor is still **medical safety**. Withdrawal can affect breathing, heart rate, blood pressure, sleep, and emotional stability. Symptoms can also shift quickly, especially in the first few days.
 
-A quality private [medical detox program](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) should be able to clearly explain:
+A quality private [medical detox program](/programs/medical-detox/) should be able to clearly explain:
 
 -   How withdrawal is monitored
 -   What clinical support is available
@@ -39,7 +39,7 @@ A private setting should never replace medical oversight — it should enhance c
 
 ## Checklist: How to Choose a Private Medical Detox Program Near Rancho Mirage
 
-When you’re choosing [detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) support near Rancho Mirage, it helps to focus on a few key quality markers. These details often matter more than marketing language — especially when privacy and safety are both priorities.
+When you’re choosing [detox](/programs/medical-detox/) support near Rancho Mirage, it helps to focus on a few key quality markers. These details often matter more than marketing language — especially when privacy and safety are both priorities.
 
 ### 1) Medical Supervision Comes First
 

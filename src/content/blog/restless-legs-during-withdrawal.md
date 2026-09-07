@@ -110,4 +110,4 @@ Research & Clinical Credibility
 
 ## **Call for Supportive Detox Assessment**
 
-If you or a loved one is experiencing **restless legs during withdrawal**, especially with severe insomnia or opioid withdrawal symptoms, you don’t have to push through it alone. [A detox assessment](https://newbeginningsrecovery.com/) can help determine the safest next step and what level of support may be needed.
+If you or a loved one is experiencing **restless legs during withdrawal**, especially with severe insomnia or opioid withdrawal symptoms, you don’t have to push through it alone. [A detox assessment](/) can help determine the safest next step and what level of support may be needed.

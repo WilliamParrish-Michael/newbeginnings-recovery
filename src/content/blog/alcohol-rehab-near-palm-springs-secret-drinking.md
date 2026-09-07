@@ -142,8 +142,8 @@ Seeking treatment for alcohol addiction can feel overwhelming, but Palm Springs 
 
 The area provides a wide range of treatment options, including:
 
--   [Medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/)
--   [Inpatient residential rehab](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/)
+-   [Medical detox](/programs/medical-detox/)
+-   [Inpatient residential rehab](/programs/residential/)
 -   Outpatient programs
 -   Therapy and counseling
 -   Dual-diagnosis treatment for mental health conditions
@@ -162,7 +162,7 @@ Treatment typically begins with a comprehensive evaluation to understand the sev
 
 ### 2\. Medical Detox
 
-For individuals who are physically dependent on alcohol, [detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is often the first step. Medical professionals supervise this process to manage withdrawal symptoms safely.
+For individuals who are physically dependent on alcohol, [detox](/programs/medical-detox/) is often the first step. Medical professionals supervise this process to manage withdrawal symptoms safely.
 
 ### 3\. Therapy and Counseling
 
@@ -223,4 +223,4 @@ Finding **alcohol rehab near Palm Springs** can provide the support, medical car
 
 Recovery isn’t about shame or judgment. It’s about reclaiming control of your life, rebuilding relationships, and discovering that lasting sobriety is possible.
 
-The first step is [reaching out](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/).
+The first step is [reaching out](/contact/).

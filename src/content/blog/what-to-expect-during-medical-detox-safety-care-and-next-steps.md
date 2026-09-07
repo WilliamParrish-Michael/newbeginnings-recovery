@@ -8,7 +8,7 @@ draft: false
 
 ## A Safe First Step Toward Recovery
 
-If you’re searching for [**medical detox in Rancho Mirage**](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) or near Palm Springs, there’s usually a lot sitting behind that search. Worry. Fear. Exhaustion. Maybe relief that you’re finally looking for answers — and maybe guilt for not knowing what to do sooner.
+If you’re searching for [**medical detox in Rancho Mirage**](/programs/medical-detox/) or near Palm Springs, there’s usually a lot sitting behind that search. Worry. Fear. Exhaustion. Maybe relief that you’re finally looking for answers — and maybe guilt for not knowing what to do sooner.
 
 Whether you’re here for yourself or for someone you love, it’s okay to admit this feels overwhelming.
 
@@ -16,7 +16,7 @@ Detox is often misunderstood. Many people believe it means things have reached a
 
 Withdrawal doesn’t always follow a predictable path. Symptoms can change quickly, intensify unexpectedly, or feel frightening even when they’re medically manageable. That uncertainty is what makes **medically supervised detox** so important. Having trained professionals monitoring symptoms around the clock helps ensure that changes are addressed early and that safety comes first.
 
-At **[New Beginnings Recovery](https://newbeginningsrecovery.com/)**, detox care is provided with dignity and respect. Each person is treated as an individual — not a diagnosis. The environment is calm and private, and care is available **24/7** to support both physical stability and emotional reassurance during a vulnerable time.
+At **[New Beginnings Recovery](/)**, detox care is provided with dignity and respect. Each person is treated as an individual — not a diagnosis. The environment is calm and private, and care is available **24/7** to support both physical stability and emotional reassurance during a vulnerable time.
 
 Detox isn’t about forcing change or taking control away from someone. It’s about **keeping people safe long enough to breathe, stabilize, and think clearly about what comes next**. For some, that means transitioning into residential treatment. For others, it means regaining enough stability to make informed decisions with support.
 
@@ -189,7 +189,7 @@ Medical detox provides structure, symptom support, and reassurance during this p
 
 ## Detox at Home Often Leads Back to Use
 
-One of the most painful patterns families see is repeated attempts to stop at home that don’t last. Each attempt brings hope — and each setback brings more frustration and fear. Medical detox doesn’t guarantee recovery, but it **creates a safer starting point**. It gives the body a chance to stabilize and the person a chance to think clearly about [next steps.](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/)
+One of the most painful patterns families see is repeated attempts to stop at home that don’t last. Each attempt brings hope — and each setback brings more frustration and fear. Medical detox doesn’t guarantee recovery, but it **creates a safer starting point**. It gives the body a chance to stabilize and the person a chance to think clearly about [next steps.](/programs/residential/)
 
 ## Choosing Medical Detox Is About Safety
 
@@ -209,7 +209,7 @@ The focus is on safety, comfort, and helping the body stabilize in an environmen
 
 The physical environment plays a real role in how withdrawal is experienced. Excess noise, constant activity, or a clinical atmosphere can increase anxiety and make symptoms feel worse.
 
-[Detox at New Beginnings takes place in a **quiet, private setting** near Palm Springs](https://newbeginningsrecovery.com/virtual-tour/), intentionally designed to reduce stimulation and allow the body to begin regulating itself. This calmer approach often helps people feel more at ease — and gives loved ones reassurance that care is happening in a thoughtful, contained space.
+[Detox at New Beginnings takes place in a **quiet, private setting** near Palm Springs](/virtual-tour/), intentionally designed to reduce stimulation and allow the body to begin regulating itself. This calmer approach often helps people feel more at ease — and gives loved ones reassurance that care is happening in a thoughtful, contained space.
 
 #### Medical Monitoring That Is Present and Attentive
 

@@ -80,7 +80,7 @@ It’s important to seek medical evaluation if temperature-related symptoms are 
 -   Uncontrolled vomiting or diarrhea
 -   Worsening symptoms instead of gradual stabilization
 
-These signs may indicate complications that go beyond typical withdrawal discomfort and require [medical attention](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/).
+These signs may indicate complications that go beyond typical withdrawal discomfort and require [medical attention](/programs/medical-detox/).
 
 ### Situations That Increase Risk
 
@@ -106,7 +106,7 @@ Temperature swings during opioid withdrawal can leave people feeling exhausted, 
 
 If symptoms feel severe, are getting worse, or are paired with dehydration, fever, confusion, or physical instability, reaching out for medical assessment can help protect your health. Getting help doesn’t automatically mean long-term treatment or a specific commitment — it simply means having symptoms evaluated in context.
 
-[Medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) provides monitoring during opioid withdrawal, allowing symptoms like chills, sweats, and autonomic instability to be observed and addressed safely. For many people, knowing that someone is watching for complications helps reduce fear and allows the body to settle more effectively.
+[Medical detox](/programs/medical-detox/) provides monitoring during opioid withdrawal, allowing symptoms like chills, sweats, and autonomic instability to be observed and addressed safely. For many people, knowing that someone is watching for complications helps reduce fear and allows the body to settle more effectively.
 
 If you’re unsure whether what you’re experiencing is typical withdrawal or something that needs attention, it’s okay to ask. A conversation can bring clarity, reassurance, and guidance — without pressure or judgment.
 
@@ -138,4 +138,4 @@ If temperature swings are severe, persistent, or paired with other withdrawal sy
 
 If opioid withdrawal symptoms like chills and sweats feel overwhelming or unpredictable, you don’t have to manage them alone. Medical detox provides monitoring and support during withdrawal, helping symptoms be evaluated in context rather than guessed at.
 
-If you’re unsure whether what you’re experiencing is typical or needs attention, a [call to admissions](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) can help you understand your options and decide on next steps — confidentially and without pressure.
+If you’re unsure whether what you’re experiencing is typical or needs attention, a [call to admissions](/contact/) can help you understand your options and decide on next steps — confidentially and without pressure.

@@ -12,7 +12,7 @@ If this sounds familiar, you’re not alone. And more importantly: you shouldn�
 
 [Alcohol-induced blackouts](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/interrupted-memories-alcohol-induced-blackouts) are one of the clearest signals your body can send that drinking has crossed a line. They’re not just an inconvenient side effect of a big night. They’re a neurological warning — evidence that your brain’s ability to form memories is being chemically shut down, and that your relationship with alcohol has become something that deserves serious attention.
 
-This article isn’t meant to frighten you. It’s meant to give you the honest information you need to understand what’s happening — and why seeking [medically supervised alcohol detox](https://newbeginningsrecovery.com/alcohol-detox-coachella-valley/) sooner rather than later is one of the most important decisions you can make.
+This article isn’t meant to frighten you. It’s meant to give you the honest information you need to understand what’s happening — and why seeking [medically supervised alcohol detox](/programs/alcohol-detox/) sooner rather than later is one of the most important decisions you can make.
 
 ## What Actually Happens During an Alcohol Blackout
 
@@ -70,7 +70,7 @@ Blackouts indicate a level of consumption and tolerance that doesn’t typically
 
 There’s also a phenomenon researchers call _kindling_: each cycle of heavy drinking followed by withdrawal sensitizes the nervous system, making the next withdrawal more severe and the next round of blackouts more likely. In other words, waiting and hoping things improve on their own doesn’t just delay recovery — it can actively make the path to recovery harder and more medically dangerous.
 
-[Medically supervised detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) interrupts that cycle. It creates a safe physiological reset — the foundation from which real recovery becomes possible.
+[Medically supervised detox](/programs/medical-detox/) interrupts that cycle. It creates a safe physiological reset — the foundation from which real recovery becomes possible.
 
 ### 5\. There Is a Version of Your Life That Doesn’t Include This
 
@@ -86,7 +86,7 @@ You don’t have to wait until things get worse to decide that you want somethin
 
 ## Why Medical Detox Matters — And What to Look For
 
-Not all detox is created equal. The safest and most effective [alcohol detox is medically supervised](https://newbeginningsrecovery.com/alcohol-detox-coachella-valley/) — meaning you have clinical staff monitoring your vitals, managing withdrawal symptoms with appropriate medications, and responding immediately if complications arise.
+Not all detox is created equal. The safest and most effective [alcohol detox is medically supervised](/programs/alcohol-detox/) — meaning you have clinical staff monitoring your vitals, managing withdrawal symptoms with appropriate medications, and responding immediately if complications arise.
 
 What separates a quality detox program from a bare-minimum one is the level of individualized attention and the environment in which care is delivered. Hospital-based detox can be clinically competent but impersonal and disorienting. Private residential detox programs offer something different: the medical rigor of supervised withdrawal combined with a setting that supports rest, comfort, and dignity during one of the most physically and emotionally demanding experiences a person can go through.
 
@@ -102,8 +102,8 @@ Blackouts are not normal. They are not a harmless side effect of a good time. Th
 
 That doesn’t make you a bad person. It doesn’t mean your life is over. It means your body is telling you something important, and you now have the information to listen to it.
 
-If you’re in the Rancho Mirage or Palm Springs area and are ready to take an honest next step, [**New Beginnings Recovery**](https://newbeginningsrecovery.com/) offers medically supervised detox in a private, compassionate setting — designed for people who are serious about getting well. Our admissions team is available around the clock and every conversation is completely confidential.
+If you’re in the Rancho Mirage or Palm Springs area and are ready to take an honest next step, [**New Beginnings Recovery**](/) offers medically supervised detox in a private, compassionate setting — designed for people who are serious about getting well. Our admissions team is available around the clock and every conversation is completely confidential.
 
-You can reach us at **(760) 924-9419** or [connect with us online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/). We’re here when you’re ready.
+You can reach us at **(760) 924-9419** or [connect with us online](/contact/). We’re here when you’re ready.
 
 _New Beginnings Recovery is a private detox and residential treatment program located in Rancho Mirage, California, serving individuals and families across Palm Springs and the Coachella Valley._

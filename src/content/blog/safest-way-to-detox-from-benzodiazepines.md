@@ -105,7 +105,7 @@ If you’re dependent on benzodiazepines and you want to stop — whether they w
 
 **New Beginnings Recovery** in Rancho Mirage provides medically supervised detox in a private, compassionate residential setting. Our clinical team has experience managing the specific complexities of benzodiazepine withdrawal — including prescription dependence, co-occurring alcohol use, and dual diagnosis presentations — with individualized care and 24/7 monitoring throughout the process.
 
-Our admissions team is available around the clock at **(760) 924-9419**, or you can [reach out confidentially online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes.
+Our admissions team is available around the clock at **(760) 924-9419**, or you can [reach out confidentially online](/contact/) at any time. [Insurance verification](/verify-insurance/) takes just a few minutes.
 
 There is a safe way through this. It starts with the right clinical support — and it starts with a call.
 

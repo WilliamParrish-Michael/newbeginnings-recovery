@@ -8,9 +8,9 @@ draft: false
 
 For many people struggling with substance use, the idea of going to a hospital emergency room for detox can feel overwhelming. Concerns about crowded waiting rooms, lack of privacy, or the clinical hospital environment may prevent some individuals from seeking help when they need it most.
 
-Fortunately, there are alternatives. Many individuals choose **[private detox programs near Palm Springs](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/)** where they can begin the recovery process in a more supportive and comfortable setting. These programs are designed specifically to help individuals safely move through withdrawal while preparing for the next stage of addiction treatment.
+Fortunately, there are alternatives. Many individuals choose **[private detox programs near Palm Springs](/programs/medical-detox/)** where they can begin the recovery process in a more supportive and comfortable setting. These programs are designed specifically to help individuals safely move through withdrawal while preparing for the next stage of addiction treatment.
 
-[https://newbeginningsrecovery.com/](https://newbeginningsrecovery.com/)At **New Beginnings Recovery**, we understand that taking the first step toward recovery can feel intimidating. Private detox options in the Coachella Valley provide a more focused environment where individuals can begin healing with guidance and support.
+At **New Beginnings Recovery**, we understand that taking the first step toward recovery can feel intimidating. Private detox options in the Coachella Valley provide a more focused environment where individuals can begin healing with guidance and support.
 
 ## What Is Private Detox?
 
@@ -26,7 +26,7 @@ Private detox programs are designed to help individuals move through withdrawal 
 
 Emergency rooms are designed to address immediate medical emergencies. While hospitals may treat severe withdrawal symptoms, they are not always designed to provide the supportive environment needed for the full detox and recovery process.
 
-[Private detox programs](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) focus specifically on addiction treatment and recovery support. Some individuals prefer this setting because it may offer:
+[Private detox programs](/programs/medical-detox/) focus specifically on addiction treatment and recovery support. Some individuals prefer this setting because it may offer:
 
 -   A quieter and more structured environment
 -   Greater privacy and confidentiality

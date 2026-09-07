@@ -18,7 +18,7 @@ Some people feel symptoms within hours of their last drink. Others feel fine for
 
 Alcohol affects how the brain regulates stress, sleep, heart rate, and temperature. Over time, the body adapts to alcohol’s presence. When drinking stops or is significantly reduced, the nervous system has to rebalance, and that process unfolds differently depending on factors like drinking history, frequency, and overall health.
 
-This article breaks down **alcohol withdrawal symptoms by day**, explains why timelines can vary, and outlines when [medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is often the safer option — even if symptoms start out mild.
+This article breaks down **alcohol withdrawal symptoms by day**, explains why timelines can vary, and outlines when [medical detox](/programs/medical-detox/) is often the safer option — even if symptoms start out mild.
 
 ## The First 24 Hours After the Last Drink
 
@@ -154,10 +154,10 @@ It’s important to seek guidance if:
 -   Anxiety, tremors, or agitation feel hard to manage
 -   Confusion, hallucinations, or severe restlessness appear
 -   Sleep deprivation, vomiting, or dehydration become significant
--   [You’re unsure how your body will respond based on past drinking](https://newbeginningsrecovery.com/blog/alcohol-withdrawal-chest-tightness/)
+-   [You’re unsure how your body will respond based on past drinking](/blog/alcohol-withdrawal-chest-tightness/)
 
 You don’t need to wait until symptoms become extreme to ask for help. In fact, **early assessment is often what prevents complications**, especially during the higher-risk days of alcohol withdrawal.
 
-If you’re uncertain where you fall on the timeline or whether [detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) would be safer, a confidential conversation with admissions can help you understand your risk and options based on your situation. Many people reach out simply to get clarity — not because they’ve already decided on treatment.
+If you’re uncertain where you fall on the timeline or whether [detox](/programs/medical-detox/) would be safer, a confidential conversation with admissions can help you understand your risk and options based on your situation. Many people reach out simply to get clarity — not because they’ve already decided on treatment.
 
 When it comes to alcohol withdrawal, it’s always safer to ask than to guess.

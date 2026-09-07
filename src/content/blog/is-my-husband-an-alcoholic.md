@@ -96,7 +96,7 @@ Family support during this process matters enormously. Many residential programs
 
 If your husband is beginning to show openness to getting help — or if you want to be ready for that moment before it arrives — we’re here to talk through what that path looks like.
 
-**New Beginnings Recovery** offers private, medically supervised alcohol detox and residential treatment in Rancho Mirage, just minutes from Palm Springs, in a setting designed for people who take their recovery seriously. Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/). Family members are always welcome to call — you don’t have to wait for him to make the first move.
+**New Beginnings Recovery** offers private, medically supervised alcohol detox and residential treatment in Rancho Mirage, just minutes from Palm Springs, in a setting designed for people who take their recovery seriously. Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](/contact/). Family members are always welcome to call — you don’t have to wait for him to make the first move.
 
 Everything is confidential.
 

@@ -80,8 +80,8 @@ Targeted dual diagnosis care for bipolar disorder and substance use disorder tre
 
 ## Getting the Right Level of Care
 
-[**New Beginnings Recovery**](https://newbeginningsrecovery.com/) in Rancho Mirage offers medically supervised detox and residential treatment with a clinical approach built for the complexity of dual diagnosis. Our team includes psychiatric expertise alongside addiction medicine, and our individualized treatment planning takes the specific challenges of bipolar disorder and substance use disorder seriously — from medically managed detox through residential care and into thoughtful discharge planning.
+[**New Beginnings Recovery**](/) in Rancho Mirage offers medically supervised detox and residential treatment with a clinical approach built for the complexity of dual diagnosis. Our team includes psychiatric expertise alongside addiction medicine, and our individualized treatment planning takes the specific challenges of bipolar disorder and substance use disorder seriously — from medically managed detox through residential care and into thoughtful discharge planning.
 
-Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out confidentially online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes.
+Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out confidentially online](/contact/) at any time. [Insurance verification](/verify-insurance/) takes just a few minutes.
 
 Bipolar disorder and substance use disorder together are not a life sentence. They are a clinical picture that responds to targeted, integrated care — and getting that care is where the different kind of life begins.

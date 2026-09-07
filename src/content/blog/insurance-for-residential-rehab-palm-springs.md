@@ -36,9 +36,9 @@ In 2025, California adopted new enforcement regulations implementing SB 855 — 
 
 While the specifics vary by plan, most private insurance plans cover the following levels of care for addiction treatment when medically necessary:
 
-**[Medical Detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/)** — The first phase of treatment, involving medically supervised withdrawal management. Typically covered as an inpatient medical service.
+**[Medical Detox](/programs/medical-detox/)** — The first phase of treatment, involving medically supervised withdrawal management. Typically covered as an inpatient medical service.
 
-**[Residential Treatment](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) (Inpatient Rehab)** — The immersive, 24/7 therapeutic phase that follows detox. Under MHPAEA and SB 855, this must be covered on parity with inpatient medical or surgical care. Coverage is subject to medical necessity criteria and plan-specific terms including deductibles and out-of-pocket costs.
+**[Residential Treatment](/programs/residential/) (Inpatient Rehab)** — The immersive, 24/7 therapeutic phase that follows detox. Under MHPAEA and SB 855, this must be covered on parity with inpatient medical or surgical care. Coverage is subject to medical necessity criteria and plan-specific terms including deductibles and out-of-pocket costs.
 
 The specific terms — your deductible, your copay or coinsurance, your out-of-pocket maximum — vary by plan. Understanding these specifics requires verifying your individual benefits, which a quality admissions team will do on your behalf.
 
@@ -64,7 +64,7 @@ Prior authorization typically involves:
 -   Documentation of the substance use disorder and any co-occurring conditions
 -   Confirmation that the requested treatment meets the plan’s coverage criteria
 
-A quality [admissions team](https://newbeginningsrecovery.com/meet-our-team/) will manage the prior authorization process directly with your insurer — gathering the necessary clinical documentation, submitting the request, and following up to ensure timely approval. For most people with appropriate clinical indications, authorization for medically necessary residential rehab is granted.
+A quality [admissions team](/about/team/) will manage the prior authorization process directly with your insurer — gathering the necessary clinical documentation, submitting the request, and following up to ensure timely approval. For most people with appropriate clinical indications, authorization for medically necessary residential rehab is granted.
 
 If authorization is denied, you have the right to appeal. Under MHPAEA and California law, denials of behavioral health treatment that would not be applied to equivalent medical or surgical care are challengeable — and many denials are overturned on appeal with proper clinical documentation. A quality program will support you through this process if needed.
 
@@ -96,7 +96,7 @@ The Coachella Valley — home to Rancho Mirage, Palm Springs, Palm Desert, and t
 
 **New Beginnings Recovery** in Rancho Mirage works with most major private insurance plans — including PPOs and HMOs — and our admissions team verifies benefits promptly, handles prior authorization, and walks every client through their coverage clearly before any commitment is made. We are a private pay and private insurance facility, offering the level of discretion, individualized care, and clinical quality that people seeking treatment in this setting are looking for.
 
-You can [verify your insurance online](https://newbeginningsrecovery.com/verify-your-insurance/) in minutes, or call our admissions team directly at **(760) 924-9419** — available 24 hours a day. You can also [reach out through our contact page](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) with any questions. Everything is confidential, and there is no obligation in making the call.
+You can [verify your insurance online](/verify-insurance/) in minutes, or call our admissions team directly at **(760) 924-9419** — available 24 hours a day. You can also [reach out through our contact page](/contact/) with any questions. Everything is confidential, and there is no obligation in making the call.
 
 The coverage is likely there. Let us help you find out.
 

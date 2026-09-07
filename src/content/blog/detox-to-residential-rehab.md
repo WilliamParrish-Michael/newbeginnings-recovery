@@ -16,7 +16,7 @@ Here’s why that matters, what the transition actually looks like, and what to 
 
 ![medically managed detox los angeles ca](/images/blog/inline/medically-managed-detox-los-angeles-ca.jpg)
 
-[Detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is the process of safely managing the physical withdrawal that occurs when alcohol or substances are removed from the body. For people with significant dependence — particularly alcohol, opioids, or benzodiazepines — withdrawal can be medically serious, and medically supervised detox provides the clinical monitoring, medications, and support needed to get through that process safely.
+[Detox](/programs/medical-detox/) is the process of safely managing the physical withdrawal that occurs when alcohol or substances are removed from the body. For people with significant dependence — particularly alcohol, opioids, or benzodiazepines — withdrawal can be medically serious, and medically supervised detox provides the clinical monitoring, medications, and support needed to get through that process safely.
 
 Detox typically lasts between five and ten days for alcohol, though this varies depending on the substance, the severity of dependence, and individual health factors. By the end of the acute detox phase, the most dangerous withdrawal symptoms have passed, the body has begun to stabilize, and the person is physically cleared to engage in the next phase of treatment.
 
@@ -88,7 +88,7 @@ Going straight from detox to residential rehab, at the same facility, with the s
 
 From the first day of detox through the full arc of residential treatment, our clients experience continuity of care in a calm, private, comfortable setting in the heart of the Coachella Valley. Our clinical team builds the foundation of treatment during detox and carries that knowledge directly into the residential phase — so that by the time the acute withdrawal resolves, the work of recovery is already underway.
 
-Our admissions team is available 24 hours a day at **(760) 924-9419**. You can also [verify your insurance online](https://newbeginningsrecovery.com/verify-your-insurance/) in minutes or [reach out through our contact page](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. Same-day admission is available for those who are ready.
+Our admissions team is available 24 hours a day at **(760) 924-9419**. You can also [verify your insurance online](/verify-insurance/) in minutes or [reach out through our contact page](/contact/) at any time. Same-day admission is available for those who are ready.
 
 Detox is the beginning. Residential treatment is where recovery really starts. We offer both — and we make sure there’s nothing in between.
 

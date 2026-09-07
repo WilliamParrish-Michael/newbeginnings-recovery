@@ -78,8 +78,8 @@ The Veterans Crisis Line is available 24 hours a day, staffed by responders who 
 
 If you’re a veteran in Riverside County or the Coachella Valley who is ready to address both the substance use and the mental health condition that have been driving it — and you want access to private, expert, integrated care without a waitlist — help is available now.
 
-**[New Beginnings Recovery](https://newbeginningsrecovery.com/)** is a private detox and residential treatment program in Rancho Mirage, just over an hour from Riverside and minutes from the heart of the Coachella Valley. Our program offers medically supervised detox and residential dual diagnosis treatment in a calm, private setting — with a clinical team experienced in trauma-informed care and the specific challenges veterans face.
+**[New Beginnings Recovery](/)** is a private detox and residential treatment program in Rancho Mirage, just over an hour from Riverside and minutes from the heart of the Coachella Valley. Our program offers medically supervised detox and residential dual diagnosis treatment in a calm, private setting — with a clinical team experienced in trauma-informed care and the specific challenges veterans face.
 
-We work with TRICARE and most private insurance plans. Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out confidentially online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) — including TRICARE — takes just a few minutes.
+We work with TRICARE and most private insurance plans. Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out confidentially online](/contact/) at any time. [Insurance verification](/verify-insurance/) — including TRICARE — takes just a few minutes.
 
 You served. You deserve care that takes all of what you’ve been through seriously. We’re here when you’re ready.

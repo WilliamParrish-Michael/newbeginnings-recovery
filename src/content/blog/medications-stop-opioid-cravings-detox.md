@@ -84,7 +84,7 @@ If you or someone you love is dependent on opioids and ready to start the detox 
 
 **New Beginnings Recovery** in Rancho Mirage provides medically supervised detox with individualized medication management, 24/7 clinical monitoring, and a direct pathway into residential treatment — giving you the best possible foundation for recovery from opioid dependence.
 
-Our admissions team is available around the clock at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes.
+Our admissions team is available around the clock at **(760) 924-9419**, or you can [reach out online](/contact/) at any time. [Insurance verification](/verify-insurance/) takes just a few minutes.
 
 The right medications exist. The right clinical support exists. Let us help you access both.
 

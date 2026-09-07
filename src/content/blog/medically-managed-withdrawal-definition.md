@@ -20,7 +20,7 @@ This guide explains what medically managed withdrawal means, how it works, and w
 
 ![medically managed detox los angeles ca](/images/blog/inline/medically-managed-detox-los-angeles-ca.jpg)
 
-**[Medically managed withdrawal](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/)** refers to the process of helping someone safely withdraw from alcohol or drugs **under the supervision of licensed medical professionals**.
+**[Medically managed withdrawal](/programs/medical-detox/)** refers to the process of helping someone safely withdraw from alcohol or drugs **under the supervision of licensed medical professionals**.
 
 It is the most clinically intensive form of withdrawal management and is designed for individuals at higher risk of complications during detox.
 
@@ -212,4 +212,4 @@ Understanding what it means (and what it doesn’t) empowers individuals to make
 
 If you’re exploring detox and want to understand what medically managed withdrawal would look like in your situation, speaking with a professional can help clarify next steps.
 
-**[Call to ask what to expect in detox](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/)** and learn how withdrawal is managed safely as part of a broader treatment plan.
+**[Call to ask what to expect in detox](/contact/)** and learn how withdrawal is managed safely as part of a broader treatment plan.

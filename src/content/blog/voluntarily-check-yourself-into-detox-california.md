@@ -101,10 +101,10 @@ For people traveling from Los Angeles, the Bay Area, or elsewhere in Southern Ca
 
 ## You Can Do This Today
 
-**[New Beginnings Recovery](https://newbeginningsrecovery.com/)** in Rancho Mirage offers voluntary same-day admission to medically supervised alcohol detox and residential treatment in a private, compassionate setting. Our admissions team is available 24 hours a day at **(760) 924-9419** — no referral needed, no court order required, no prerequisites beyond the decision to get help.
+**[New Beginnings Recovery](/)** in Rancho Mirage offers voluntary same-day admission to medically supervised alcohol detox and residential treatment in a private, compassionate setting. Our admissions team is available 24 hours a day at **(760) 924-9419** — no referral needed, no court order required, no prerequisites beyond the decision to get help.
 
 If you or someone you know is looking for treatment without leaving home, there are also [at-home detox options such as HART Recovery Care](https://hartrecoverycare.com/) available for those in Northern California who qualify.
 
-You can also [verify your insurance online](https://newbeginningsrecovery.com/verify-your-insurance/) in minutes, or [reach out through our contact page](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. Everything is confidential.
+You can also [verify your insurance online](/verify-insurance/) in minutes, or [reach out through our contact page](/contact/) at any time. Everything is confidential.
 
 The decision is yours. That’s exactly how it should be — and we’re here to support it the moment you’re ready to make it.

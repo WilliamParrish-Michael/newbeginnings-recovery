@@ -43,7 +43,7 @@ This is one of the main reasons kratom can:
 -   Produce mild euphoria in some people
 -   Help some people feel less opioid withdrawal discomfort
 
-But it’s also why kratom can lead to **tolerance and dependence** over time. Because kratom interacts with opioid receptors, its withdrawal can resemble opioid withdrawal in important ways. For a deeper comparison of how these experiences overlap — and where they differ — see our guide on **[kratom withdrawal vs opioid withdrawal](https://newbeginningsrecovery.com/blog/kratom-withdrawal-vs-opioid-withdrawal/)**.
+But it’s also why kratom can lead to **tolerance and dependence** over time. Because kratom interacts with opioid receptors, its withdrawal can resemble opioid withdrawal in important ways. For a deeper comparison of how these experiences overlap — and where they differ — see our guide on **[kratom withdrawal vs opioid withdrawal](/blog/kratom-withdrawal-vs-opioid-withdrawal/)**.
 
 ### Why Dependence Can Develop
 
@@ -223,6 +223,6 @@ It may be time to reach out for help if:
 
 Getting support doesn’t mean you’ve failed. It means you’re responding appropriately to what your nervous system is going through.
 
-Many people contact **[New Beginnings Recovery](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/)** simply to talk through what they’re experiencing, understand what to expect next, and learn whether medical detox support could make withdrawal safer and more manageable.
+Many people contact **[New Beginnings Recovery](/contact/)** simply to talk through what they’re experiencing, understand what to expect next, and learn whether medical detox support could make withdrawal safer and more manageable.
 
-A [confidential admissions](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) call can help you explore options and determine what level of care makes sense — especially if symptoms feel intense, unpredictable, or tied to stronger kratom products.
+A [confidential admissions](/contact/) call can help you explore options and determine what level of care makes sense — especially if symptoms feel intense, unpredictable, or tied to stronger kratom products.

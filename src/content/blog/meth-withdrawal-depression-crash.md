@@ -177,6 +177,6 @@ It’s reasonable to seek support if:
 -   Emotional numbness or hopelessness doesn’t seem to lift
 -   You’re unsure whether what you’re feeling is part of withdrawal or something more
 
-Reaching out doesn’t mean you’ve committed to treatment. Many people contact [**New Beginnings Recovery**](https://newbeginningsrecovery.com/) simply to talk through what they’re experiencing, understand whether symptoms fit meth withdrawal, and learn what types of support might help during this phase.
+Reaching out doesn’t mean you’ve committed to treatment. Many people contact [**New Beginnings Recovery**](/) simply to talk through what they’re experiencing, understand whether symptoms fit meth withdrawal, and learn what types of support might help during this phase.
 
-A [confidential conversation](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) with admissions can provide clarity, reassurance, and guidance on safer next steps — especially when mood symptoms feel heavy or confusing. Meth withdrawal can be emotionally exhausting, but **you don’t have to go through it alone**.
+A [confidential conversation](/contact/) with admissions can provide clarity, reassurance, and guidance on safer next steps — especially when mood symptoms feel heavy or confusing. Meth withdrawal can be emotionally exhausting, but **you don’t have to go through it alone**.

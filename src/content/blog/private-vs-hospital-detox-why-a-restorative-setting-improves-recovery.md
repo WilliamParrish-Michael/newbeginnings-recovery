@@ -10,7 +10,7 @@ draft: false
 
 ![Private Detox in Rancho Mirage](/images/blog/inline/Private-Detox-in-Rancho-Mirage.jpg)
 
-When someone needs [detox,](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) one of the first decisions is where that detox should take place.
+When someone needs [detox,](/programs/medical-detox/) one of the first decisions is where that detox should take place.
 
 For some individuals, hospital-based detox may be necessary — particularly in medical emergencies. For others, a private medical detox setting may offer a more stable and restorative environment for early recovery.
 
@@ -66,7 +66,7 @@ However, once immediate stabilization occurs, hospitals are not typically design
 
 Once someone is medically stable, the environment where detox continues can significantly influence both comfort and recovery outcomes.
 
-[Private medical detox programs](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) are designed specifically for withdrawal management — not emergency response. That distinction matters.
+[Private medical detox programs](/programs/medical-detox/) are designed specifically for withdrawal management — not emergency response. That distinction matters.
 
 ### 1\. A Calmer, More Structured Environment
 
@@ -197,7 +197,7 @@ You may want to consider a private medical detox setting if:
 -   Privacy and discretion matter
 -   You want a clear transition plan after detox
 
-If you’re unsure, speaking with [admissions](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) before making a decision can help clarify what level of care is most appropriate.
+If you’re unsure, speaking with [admissions](/contact/) before making a decision can help clarify what level of care is most appropriate.
 
 In many cases, a confidential conversation can determine whether hospital-based detox is necessary or whether a private medical detox program is suitable.
 
@@ -207,7 +207,7 @@ The goal is not to choose the most dramatic option — it’s to choose the safe
 
 If you’re weighing private vs. hospital detox, you likely care deeply about doing this the right way.
 
-At **[New Beginnings Recovery](https://newbeginningsrecovery.com/)**, admissions can help you:
+At **[New Beginnings Recovery](/)**, admissions can help you:
 
 -   Talk through current symptoms
 -   Assess whether emergency care is needed

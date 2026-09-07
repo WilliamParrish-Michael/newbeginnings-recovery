@@ -21,7 +21,7 @@ The concern comes from how **[alcohol and benzodiazepines affect the same system
 
 When alcohol, benzodiazepines (such as Xanax, Ativan, Valium, or Klonopin), or both are reduced or stopped, the nervous system can rebound aggressively. This rebound is what makes **alcohol and benzo withdrawal particularly dangerous**, especially when the two occur together.
 
-This article explains why withdrawing from alcohol and benzodiazepines at the same time raises medical risk, what makes this combination different from other withdrawals, and why [supervised detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is often recommended — without providing tapering or dosing instructions.
+This article explains why withdrawing from alcohol and benzodiazepines at the same time raises medical risk, what makes this combination different from other withdrawals, and why [supervised detox](/programs/medical-detox/) is often recommended — without providing tapering or dosing instructions.
 
 ## How Alcohol and Benzodiazepines Interact in the Brain
 
@@ -73,7 +73,7 @@ Alcohol withdrawal alone can be dangerous. Benzodiazepine withdrawal alone can b
 
 This is why clinicians view alcohol and benzo withdrawal as a medical situation that requires close monitoring. The nervous system’s ability to regulate itself is compromised on multiple levels, and symptoms can escalate quickly and unpredictably.
 
-Understanding this interaction helps explain why [medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is often recommended — not as a precaution, but as a safety measure.
+Understanding this interaction helps explain why [medical detox](/programs/medical-detox/) is often recommended — not as a precaution, but as a safety measure.
 
 ## Specific Risks of Alcohol + Benzodiazepine Withdrawal
 

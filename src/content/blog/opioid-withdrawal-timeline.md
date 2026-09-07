@@ -16,7 +16,7 @@ When people search for an opioid withdrawal timeline, they’re usually trying t
 
 Opioids affect how the brain regulates pain, stress, mood, and motivation. With regular use, the body adapts to their presence. When opioids are reduced or stopped, the nervous system has to rebalance, and that process unfolds over time — not all at once.
 
-While there is a **general opioid withdrawal timeline**, symptoms don’t follow a single, universal schedule. [The type of opioid used](https://newbeginningsrecovery.com/blog/kratom-withdrawal-vs-opioid-withdrawal/), how long it was taken, polysubstance abuse, and individual health factors all influence how withdrawal feels and how long it lasts.
+While there is a **general opioid withdrawal timeline**, symptoms don’t follow a single, universal schedule. [The type of opioid used](/blog/kratom-withdrawal-vs-opioid-withdrawal/), how long it was taken, polysubstance abuse, and individual health factors all influence how withdrawal feels and how long it lasts.
 
 This article breaks down opioid withdrawal **by stage**, explains what symptoms commonly appear at each point, and explores why medical and emotional support can make the process safer and more manageable — especially during the most difficult days.
 
@@ -175,6 +175,6 @@ Uncertainty is common. Many people reach out simply to understand where they are
 
 If you’re unsure where you fall on the opioid withdrawal timeline or whether symptoms will continue to intensify, it’s okay to ask for guidance.
 
-Reaching out doesn’t mean you’ve committed to treatment. Many people contact **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** simply to understand what they’re experiencing, what to expect next, and whether medical detox could help them get through withdrawal more safely.
+Reaching out doesn’t mean you’ve committed to treatment. Many people contact **[New Beginnings Recovery](/)** simply to understand what they’re experiencing, what to expect next, and whether medical detox could help them get through withdrawal more safely.
 
 A confidential conversation with admissions can help clarify options, answer questions, and reduce uncertainty during a challenging time. When it comes to opioid withdrawal, **support can make the difference between enduring symptoms alone and getting through them safely**.

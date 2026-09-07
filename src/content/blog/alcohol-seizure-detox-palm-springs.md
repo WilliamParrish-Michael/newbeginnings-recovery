@@ -59,7 +59,7 @@ If you or someone else is experiencing any of the following, it’s important to
 -   Uncontrollable shaking
 -   Hallucinations
 
-Even if symptoms seem to pass, [medical evaluation](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) is still important. A seizure is a serious event and may indicate a higher risk of additional complications.
+Even if symptoms seem to pass, [medical evaluation](/contact/) is still important. A seizure is a serious event and may indicate a higher risk of additional complications.
 
 ## Do You Need Detox After an Alcohol Seizure?
 
@@ -100,7 +100,7 @@ While each experience is different, alcohol detox typically follows a general ti
 -   Severe confusion
 -   Delirium tremens (in some cases)
 
-[Medical detox](https://newbeginningsrecovery.com/alcohol-detox-coachella-valley/) helps manage each stage safely, reducing discomfort and preventing complications wherever possible.
+[Medical detox](/programs/alcohol-detox/) helps manage each stage safely, reducing discomfort and preventing complications wherever possible.
 
 ## Why Choose Detox Near Palm Springs?
 
@@ -124,7 +124,7 @@ Detox addresses the physical side of alcohol dependence, but recovery involves m
 
 After detox, many individuals benefit from continued care, such as:
 
--   [Inpatient (residential) rehab](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/)
+-   [Inpatient (residential) rehab](/programs/residential/)
 -   Therapy and counseling
 -   Dual diagnosis treatment for co-occurring mental health conditions
 -   Ongoing support and relapse prevention planning
@@ -162,6 +162,6 @@ After detox, many people continue with inpatient rehab or other treatment progra
 
 If you’re searching for detox near Palm Springs because of an alcohol seizure or severe withdrawal symptoms, it may be time to take the next step toward care.
 
-At [New Beginnings Recovery](https://newbeginningsrecovery.com/), we’re here to help you understand your options, answer your questions, and provide a safe place to begin again—without pressure or judgment.
+At [New Beginnings Recovery](/), we’re here to help you understand your options, answer your questions, and provide a safe place to begin again—without pressure or judgment.
 
 Recovery doesn’t have to start perfectly. It just has to start safely.

@@ -122,10 +122,10 @@ alcohol withdrawal pain
 
 Chest tightness and a racing heart during alcohol withdrawal are symptoms that deserve attention — especially when they feel new, intense, or different from anything you’ve experienced before. Even when anxiety may be part of the picture, it’s not always possible to safely separate anxiety from withdrawal without medical input.
 
-If symptoms feel frightening, are getting worse, or are accompanied by other withdrawal signs, [reaching out for assessment](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) can help protect your health. Getting help doesn’t mean you’ve done something wrong, and it doesn’t lock you into a specific treatment decision. It simply means you’re choosing safety over uncertainty.
+If symptoms feel frightening, are getting worse, or are accompanied by other withdrawal signs, [reaching out for assessment](/contact/) can help protect your health. Getting help doesn’t mean you’ve done something wrong, and it doesn’t lock you into a specific treatment decision. It simply means you’re choosing safety over uncertainty.
 
 Medical detox provides monitoring and support during withdrawal, allowing symptoms like heart racing and chest tightness to be evaluated in context rather than guessed at. For many people, just knowing that someone is watching symptoms closely can reduce fear and help the nervous system settle.
 
 If you’re unsure whether what you’re feeling is anxiety, alcohol withdrawal, or something more serious, it’s okay to ask. A brief conversation can help clarify risk, explain options, and guide next steps — without pressure or obligation.
 
-When it comes to chest symptoms and withdrawal, [**it’s always better to check than to wait**.](https://newbeginningsrecovery.com/)
+When it comes to chest symptoms and withdrawal, [**it’s always better to check than to wait**.](/)

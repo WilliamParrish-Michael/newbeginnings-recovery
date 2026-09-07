@@ -35,7 +35,7 @@ This is one of the most important categories to get right, and one where the rul
 
 **Bring all current prescription medications in their original containers, with the prescription label intact.** Facilities need to verify what you’re taking, the correct dosage, and who prescribed it — and this can only be done reliably from original, labeled containers. Pills in a daily organizer or unmarked container will likely need to be re-verified or may not be accepted.
 
-Most medically [supervised detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) and residential programs do not have an on-site pharmacy but will have the medications needed to manage your specific situation safely, including any medications required for your detox protocol. Bring enough of your regular prescriptions to last your expected stay, and call ahead if you have questions about a specific medication.
+Most medically [supervised detox](/programs/medical-detox/) and residential programs do not have an on-site pharmacy but will have the medications needed to manage your specific situation safely, including any medications required for your detox protocol. Bring enough of your regular prescriptions to last your expected stay, and call ahead if you have questions about a specific medication.
 
 **Over-the-counter medications, supplements, and vitamins are often allowed but should be sealed and unopened** — check with your facility, as policies vary.
 
@@ -138,7 +138,7 @@ Across virtually every residential treatment and detox program, the following ar
 
 ## California-Specific Considerations
 
-A few things worth knowing if you’re traveling to a [California facility](https://newbeginningsrecovery.com/), particularly in desert regions like the Coachella Valley:
+A few things worth knowing if you’re traveling to a [California facility](/), particularly in desert regions like the Coachella Valley:
 
 **Climate.** Desert heat in spring through fall can be intense, with significant daily temperature swings. Pack breathable fabrics for daytime and a layer for cooler mornings and evenings, even in summer.
 
@@ -156,9 +156,9 @@ If you’re unsure about any specific item, the simplest approach is always to a
 
 ![What to pack for rehab](/images/blog/inline/What-to-pack-for-rehab.webp)
 
-**[New Beginnings Recovery](https://newbeginningsrecovery.com/)** in Rancho Mirage provides a specific packing list to every client prior to admission, so there’s no guesswork involved in preparing for your stay. Our admissions team is happy to answer any questions about what to bring, what to expect, and how to prepare — including travel logistics for those coming from outside the Coachella Valley.
+**[New Beginnings Recovery](/)** in Rancho Mirage provides a specific packing list to every client prior to admission, so there’s no guesswork involved in preparing for your stay. Our admissions team is happy to answer any questions about what to bring, what to expect, and how to prepare — including travel logistics for those coming from outside the Coachella Valley.
 
-Our team is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) with any questions before your arrival.
+Our team is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](/contact/) with any questions before your arrival.
 
 Packing is one small, manageable step in a much bigger journey. Let us help make it easy.
 

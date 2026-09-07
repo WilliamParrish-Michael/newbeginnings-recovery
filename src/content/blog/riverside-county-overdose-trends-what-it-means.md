@@ -150,7 +150,7 @@ Overdose risk often increases during certain windows, such as:
 -   During relapse after treatment or detox
 -   When substances are being mixed
 
-Families can’t control these moments — but [awareness helps families](https://newbeginningsrecovery.com/) respond faster and more strategically.
+Families can’t control these moments — but [awareness helps families](/) respond faster and more strategically.
 
 ### 5) Get Support for the Family Too
 
@@ -179,6 +179,6 @@ It may be time to reach out if:
 
 Families often need guidance just as much as the person struggling. Knowing what to say, how to respond, and what options exist can reduce fear and help you act with more confidence.
 
-Many people contact **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** simply to talk through what’s happening, understand local risk trends, and learn what support options may be appropriate — whether for detox, treatment, or family guidance. A confidential conversation can help you feel less alone and more prepared, even if your loved one isn’t ready to accept help yet.
+Many people contact **[New Beginnings Recovery](/)** simply to talk through what’s happening, understand local risk trends, and learn what support options may be appropriate — whether for detox, treatment, or family guidance. A confidential conversation can help you feel less alone and more prepared, even if your loved one isn’t ready to accept help yet.
 
 When it comes to overdose risk, early support and clear information can make a life-saving difference.

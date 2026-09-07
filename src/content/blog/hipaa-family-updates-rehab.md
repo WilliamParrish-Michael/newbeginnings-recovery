@@ -106,7 +106,7 @@ HIPAA supports this process — even when it feels uncomfortable for loved ones 
 
 It’s natural to want updates and reassurance. HIPAA doesn’t erase your role as a caring family member — it simply sets boundaries around medical information.
 
-[Support, care, and connection](https://newbeginningsrecovery.com/family-support-in-addiction-recovery/) are still possible, even when details are limited. In the next section, we’ll talk about **how families can stay involved and helpful during rehab**, while still respecting confidentiality.
+[Support, care, and connection](/family/) are still possible, even when details are limited. In the next section, we’ll talk about **how families can stay involved and helpful during rehab**, while still respecting confidentiality.
 
 ## How Families Can Still Support a Loved One During Rehab
 
@@ -249,8 +249,8 @@ Rehab is a time of change, learning, and adjustment. Families are part of that p
 
 ## Family Support During Rehab at New Beginnings Recovery
 
-If you’re supporting someone in treatment and have questions about confidentiality, communication, or how to help, **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** offers [guidance for families](https://newbeginningsrecovery.com/family-support-in-addiction-recovery/) navigating this process.
+If you’re supporting someone in treatment and have questions about confidentiality, communication, or how to help, **[New Beginnings Recovery](/)** offers [guidance for families](/family/) navigating this process.
 
 A confidential conversation with the admissions or family support team can help you better understand what to expect and how to stay supportive during rehab — without pressure or obligation.
 
-**[Call to speak with admissions for family guidance and support.](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/)**
+**[Call to speak with admissions for family guidance and support.](/contact/)**

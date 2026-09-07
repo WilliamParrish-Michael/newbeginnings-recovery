@@ -108,9 +108,9 @@ If you haven’t already, verifying insurance and researching programs now — b
 
 ## We Welcome Calls From Family Members
 
-**[New Beginnings Recovery](https://newbeginningsrecovery.com/)** in Rancho Mirage welcomes calls from family members — you don’t have to wait for your loved one to be ready before reaching out to us. Our admissions team can walk you through what residential rehab looks like, answer your questions about the admissions process and insurance, and help you understand what to expect so you’re prepared when your loved one says yes.
+**[New Beginnings Recovery](/)** in Rancho Mirage welcomes calls from family members — you don’t have to wait for your loved one to be ready before reaching out to us. Our admissions team can walk you through what residential rehab looks like, answer your questions about the admissions process and insurance, and help you understand what to expect so you’re prepared when your loved one says yes.
 
-We’re available 24 hours a day at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes — and having that information in hand before the conversation can make all the difference.
+We’re available 24 hours a day at **(760) 924-9419**, or you can [reach out online](/contact/) at any time. [Insurance verification](/verify-insurance/) takes just a few minutes — and having that information in hand before the conversation can make all the difference.
 
 You can’t make this decision for them. But you can be ready to help them make it for themselves.
 

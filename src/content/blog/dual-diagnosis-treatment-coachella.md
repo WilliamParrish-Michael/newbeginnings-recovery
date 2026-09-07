@@ -72,7 +72,7 @@ Recovery doesn’t end at discharge. Ask specifically about discharge planning: 
 
 Understanding the continuum of care helps you make sense of what a program is recommending and why.
 
-**Medical Detox** is the appropriate starting point for anyone with significant alcohol or substance dependence. It provides medically [supervised withdrawal management](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) — with 24/7 monitoring, appropriate medications to prevent seizures and manage withdrawal symptoms, and clinical assessment of psychiatric status. For dual diagnosis patients, detox is also the beginning of the diagnostic picture — a careful clinical team will be observing psychiatric symptoms throughout the detox process to inform treatment planning.
+**Medical Detox** is the appropriate starting point for anyone with significant alcohol or substance dependence. It provides medically [supervised withdrawal management](/programs/medical-detox/) — with 24/7 monitoring, appropriate medications to prevent seizures and manage withdrawal symptoms, and clinical assessment of psychiatric status. For dual diagnosis patients, detox is also the beginning of the diagnostic picture — a careful clinical team will be observing psychiatric symptoms throughout the detox process to inform treatment planning.
 
 **Residential Treatment** (sometimes called inpatient rehab) follows detox for most individuals with significant dual diagnosis presentations. Residential treatment provides a structured, immersive environment in which the integrated clinical work of recovery happens: individual therapy, group therapy, psychiatric care, medication management, psychoeducation, and the development of coping skills and relapse prevention strategies. For dual diagnosis patients, residential treatment is where the mental health and addiction components of the work are addressed together, consistently, over a sustained period.
 
@@ -86,7 +86,7 @@ When evaluating dual diagnosis treatment options in the Coachella Valley, it’s
 
 The early period of treatment — detox and residential care — places significant physiological and emotional demands on the nervous system. The brain and body are recalibrating from the neurological disruption of chronic substance use while simultaneously engaging in intensive therapeutic work. A calm, private, comfortable environment reduces background stress and supports the kind of rest and physiological stabilization that this process requires.
 
-A [private residential setting](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) — with individual rooms, attentive staff, nutritious meals, and an environment designed specifically for healing — creates meaningfully better conditions for this work than a crowded, institutional, high-stimulus environment. For individuals who value privacy, dignity, and personalized care, the setting in which treatment happens is not a secondary consideration. It is part of the treatment.
+A [private residential setting](/programs/residential/) — with individual rooms, attentive staff, nutritious meals, and an environment designed specifically for healing — creates meaningfully better conditions for this work than a crowded, institutional, high-stimulus environment. For individuals who value privacy, dignity, and personalized care, the setting in which treatment happens is not a secondary consideration. It is part of the treatment.
 
 ## Taking the Next Step
 
@@ -94,7 +94,7 @@ Finding the right dual diagnosis treatment program in the Coachella Valley in 20
 
 **New Beginnings Recovery** is a private detox and residential treatment program in Rancho Mirage that approaches every client with an understanding that alcohol use disorder rarely exists in isolation. Our clinical team brings expertise in co-occurring disorders to every phase of care — from medically supervised detox through residential treatment — and our program includes optional wellness services designed to support the whole person throughout recovery.
 
-If you’re ready to ask those questions and find out whether we’re the right fit, our admissions team is available around the clock at **(760) 924-9419**. You can also [verify your insurance](https://newbeginningsrecovery.com/verify-your-insurance/) online in minutes, or [reach out through our contact page](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) to start the conversation. Everything is confidential.
+If you’re ready to ask those questions and find out whether we’re the right fit, our admissions team is available around the clock at **(760) 924-9419**. You can also [verify your insurance](/verify-insurance/) online in minutes, or [reach out through our contact page](/contact/) to start the conversation. Everything is confidential.
 
 The right program is out there. We’d be honored to be part of your story.
 

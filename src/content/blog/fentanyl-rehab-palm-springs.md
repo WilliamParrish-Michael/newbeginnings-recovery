@@ -12,7 +12,7 @@ Fentanyl is one of the most powerful opioids currently affecting communities acr
 
 Seeking professional treatment after an overdose can provide individuals with the support and structure needed to begin healing. For those searching for **fentanyl rehab near Palm Springs**, treatment programs in the Coachella Valley can help individuals stabilize, understand their addiction, and begin building a healthier future.
 
-At **[New Beginnings Recovery](https://newbeginningsrecovery.com/)**, we understand that reaching out for help can feel overwhelming. Our goal is to provide compassionate support for individuals who are ready to take the next step toward recovery.
+At **[New Beginnings Recovery](/)**, we understand that reaching out for help can feel overwhelming. Our goal is to provide compassionate support for individuals who are ready to take the next step toward recovery.
 
 ## Understanding Fentanyl Dependence
 
@@ -55,7 +55,7 @@ This is why many treatment professionals encourage individuals to seek help afte
 
 An overdose can serve as a turning point. While the experience can be frightening, it can also motivate individuals to explore treatment and begin making changes.
 
-[Rehabilitation programs](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) focus on helping individuals understand and address the physical, emotional, and behavioral aspects of addiction. Rather than focusing only on stopping drug use, rehab helps individuals develop the tools needed to build a healthier lifestyle.
+[Rehabilitation programs](/programs/residential/) focus on helping individuals understand and address the physical, emotional, and behavioral aspects of addiction. Rather than focusing only on stopping drug use, rehab helps individuals develop the tools needed to build a healthier lifestyle.
 
 Treatment programs often include a variety of services designed to support recovery, such as:
 
@@ -73,7 +73,7 @@ Each individual’s recovery journey is unique, and treatment plans may vary dep
 
 ### Detox and Stabilization
 
-[Detox](https://newbeginningsrecovery.com/drug-detox-coachella-valley/) is often the first step for individuals entering treatment after fentanyl use. During detox, the body begins adjusting to the absence of opioids.
+[Detox](/programs/drug-detox/) is often the first step for individuals entering treatment after fentanyl use. During detox, the body begins adjusting to the absence of opioids.
 
 Support during this stage focuses on helping individuals manage withdrawal symptoms and stabilize physically before beginning deeper therapeutic work.
 
@@ -111,7 +111,7 @@ Fentanyl withdrawal symptoms can include nausea, sweating, anxiety, muscle aches
 
 ### Do people usually start fentanyl rehab with detox?
 
-Yes, many individuals begin [fentanyl rehab](https://newbeginningsrecovery.com/drug-detox-coachella-valley/) with a detox program. Detox helps the body adjust to the absence of opioids while managing withdrawal symptoms. Once individuals stabilize physically, they can begin therapy and other treatment services that support long-term recovery.
+Yes, many individuals begin [fentanyl rehab](/programs/drug-detox/) with a detox program. Detox helps the body adjust to the absence of opioids while managing withdrawal symptoms. Once individuals stabilize physically, they can begin therapy and other treatment services that support long-term recovery.
 
 ### How long does fentanyl rehab usually last?
 
@@ -127,7 +127,7 @@ Seeking help after an overdose can feel like a major step, but it may also be th
 
 For those searching for **fentanyl rehab near Palm Springs**, programs in the Coachella Valley offer services that help individuals stabilize, begin therapy, and develop long-term recovery strategies.
 
-At **[New Beginnings Recovery](https://newbeginningsrecovery.com/)**, we are committed to supporting individuals who are ready to take the next step. Our team works to provide compassionate care for those seeking help with fentanyl addiction and other substance use challenges.
+At **[New Beginnings Recovery](/)**, we are committed to supporting individuals who are ready to take the next step. Our team works to provide compassionate care for those seeking help with fentanyl addiction and other substance use challenges.
 
 If you or someone you care about has survived an overdose or is struggling with fentanyl use, help is available.
 

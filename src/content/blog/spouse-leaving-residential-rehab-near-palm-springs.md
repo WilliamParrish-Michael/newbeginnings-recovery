@@ -48,7 +48,7 @@ It can help shift the focus from trying to “fix” the relationship in the mom
 
 Rehab isn’t a quick fix for a relationship—but it can be a meaningful step toward rebuilding one.
 
-[Residential rehab](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) focuses on helping you:
+[Residential rehab](/programs/residential/) focuses on helping you:
 
 -   Understand your relationship with substances
 -   Develop healthier coping strategies
@@ -105,13 +105,13 @@ Anxiety, depression, trauma, or stress can all influence both substance use and 
 
 Healing doesn’t happen in isolation from environment.
 
-Choosing [residential rehab](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) near Palm Springs offers:
+Choosing [residential rehab](/programs/residential/) near Palm Springs offers:
 
 -   A calm, quiet setting away from everyday pressures
 -   Natural surroundings that support reflection and clarity
 -   Distance from triggers and familiar stressors
 
-At [New Beginnings Recovery](https://newbeginningsrecovery.com/), our [Rancho Mirage](https://en.wikipedia.org/wiki/Rancho_Mirage,_California) location is designed to feel supportive, structured, and restorative—providing a space where individuals can step back and begin again with intention.
+At [New Beginnings Recovery](/), our [Rancho Mirage](https://en.wikipedia.org/wiki/Rancho_Mirage,_California) location is designed to feel supportive, structured, and restorative—providing a space where individuals can step back and begin again with intention.
 
 ## What to Expect in Residential Rehab
 
@@ -186,7 +186,7 @@ But this moment can also be a turning point—one where you choose to focus on h
 
 Residential rehab near Palm Springs offers a space to step back, reflect, and begin that process.
 
-At [New Beginnings Recovery](https://newbeginningsrecovery.com/), we’re here to support you with information, guidance, and care—at your pace, and without pressure.
+At [New Beginnings Recovery](/), we’re here to support you with information, guidance, and care—at your pace, and without pressure.
 
 Sometimes, the first step isn’t about fixing everything.
 

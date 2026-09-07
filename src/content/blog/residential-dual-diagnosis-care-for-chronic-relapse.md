@@ -90,7 +90,7 @@ That approach exists. And for many people with a history of chronic relapse and 
 
 At **New Beginnings Recovery** in Rancho Mirage, we work with clients whose recovery journeys have been complicated — who have tried before, who carry the weight of that, and who are ready for a clinical approach that takes the full picture seriously. From medically supervised detox through residential treatment, our program integrates addiction medicine and mental health care with the individualized attention that complex presentations require. Our optional wellness services also support the physiological and emotional restoration that sustainable recovery is built on.
 
-Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out confidentially online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/). [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes.
+Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out confidentially online](/contact/). [Insurance verification](/verify-insurance/) takes just a few minutes.
 
 You haven’t run out of chances. You may just not have had the right level of care yet.
 

@@ -21,7 +21,7 @@ People looking for detox near [Cathedral City](https://en.wikipedia.org/wiki/Cat
 -   When is medical detox necessary versus trying to quit at home?
 -   What happens after detox is complete?
 
-This guide explains how to evaluate [detox options](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) near Cathedral City, what medically supervised care includes, and what questions to ask so you can make a decision based on safety — not stress or guesswork.
+This guide explains how to evaluate [detox options](/programs/medical-detox/) near Cathedral City, what medically supervised care includes, and what questions to ask so you can make a decision based on safety — not stress or guesswork.
 
 ### Why Medically Supervised Detox Matters
 
@@ -132,7 +132,7 @@ Some people consider stopping on their own, especially if symptoms feel manageab
 Medical detox may be the safer option when:
 
 -   Alcohol or benzodiazepines are involved
--   [Opioids](https://newbeginningsrecovery.com/blog/opioid-withdrawal-vomiting-diarrhea-whats-normal/) like fentanyl are involved
+-   [Opioids](/blog/opioid-withdrawal-vomiting-diarrhea-whats-normal/) like fentanyl are involved
 -   Multiple substances are being used
 -   There’s a history of severe withdrawal symptoms
 -   Anxiety, [panic](https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms), or sleep deprivation is worsening

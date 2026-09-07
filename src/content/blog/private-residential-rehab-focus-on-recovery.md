@@ -26,7 +26,7 @@ Research published by [NIDA](https://nida.nih.gov/) found that drug-related imag
 
 ## What “Distraction” Really Means in Early Recovery
 
-When people talk about [residential treatment](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) removing “distractions,” it’s easy to think of this in a surface-level way — fewer emails, fewer phone calls, fewer obligations. That’s true, but it understates what’s actually happening.
+When people talk about [residential treatment](/programs/residential/) removing “distractions,” it’s easy to think of this in a surface-level way — fewer emails, fewer phone calls, fewer obligations. That’s true, but it understates what’s actually happening.
 
 The deeper distraction that residential treatment removes is the cognitive and emotional bandwidth consumed by simply managing daily life in a triggering environment. Every interaction with a using friend that has to be navigated. Every trip past a familiar bar. Every argument with a family member that echoes old patterns. Every work stressor that used to be managed with a drink. Each of these requires emotional energy to manage — energy that, in a familiar environment, is constantly being diverted away from the actual work of recovery and toward simply getting through the day without relapsing.
 
@@ -48,7 +48,7 @@ There’s a second dimension to “distraction” that’s particularly relevant
 
 For many people, especially professionals, parents, and anyone whose drinking has been carefully managed to remain invisible to the outside world, part of what consumes mental energy day after day is the work of managing appearances — making sure colleagues don’t notice, making sure family doesn’t ask too many questions, managing the careful performance of being fine.
 
-A [private residential setting](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) removes this performance entirely. There’s no audience to manage, no image to maintain, no one from daily life watching. That privacy isn’t incidental — it’s part of what allows people to actually be honest in therapy, to let their guard down in group sessions, and to engage with the deeper emotional material that recovery requires without the added cognitive load of simultaneously protecting their reputation.
+A [private residential setting](/programs/residential/) removes this performance entirely. There’s no audience to manage, no image to maintain, no one from daily life watching. That privacy isn’t incidental — it’s part of what allows people to actually be honest in therapy, to let their guard down in group sessions, and to engage with the deeper emotional material that recovery requires without the added cognitive load of simultaneously protecting their reputation.
 
 This kind of privacy is one of the most underappreciated benefits of private residential care — and one of the reasons many people find that the depth of work they’re able to do in this setting exceeds what they expected.
 
@@ -70,7 +70,7 @@ Addiction develops over months or years, woven into the fabric of daily life, en
 
 **New Beginnings Recovery** in Rancho Mirage offers private, medically supervised detox and residential treatment in a calm, focused setting designed specifically to remove the distractions and triggers that make early recovery so difficult to navigate in daily life. Our clients have the space, privacy, and structure to give recovery the full attention it requires — without the competing demands of the environment they came from.
 
-Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes.
+Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](/contact/) at any time. [Insurance verification](/verify-insurance/) takes just a few minutes.
 
 Recovery works best when it has room to breathe. We’re here to give it that room.
 

@@ -186,6 +186,6 @@ It’s important to seek medical guidance if:
 
 Alcohol withdrawal doesn’t always peak right away, and early symptoms don’t reliably predict how severe withdrawal may become. Getting guidance early can help determine whether symptoms are likely to remain mild or whether medical detox would be the safer option.
 
-Reaching out doesn’t mean you’ve decided on treatment. Many people contact **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** simply to talk through what they’re experiencing and understand whether alcohol withdrawal symptoms are something that can be managed safely or require medical support.
+Reaching out doesn’t mean you’ve decided on treatment. Many people contact **[New Beginnings Recovery](/)** simply to talk through what they’re experiencing and understand whether alcohol withdrawal symptoms are something that can be managed safely or require medical support.
 
 A confidential conversation with admissions can help you get clarity on next steps — and when it comes to alcohol withdrawal, it’s always safer to ask than to guess.

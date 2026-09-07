@@ -59,7 +59,7 @@ However, FMLA does not protect absences related to ongoing substance use itself.
 
 ### Why This Matters for Medical Detox
 
-For individuals considering [medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/), understanding FMLA eligibility can reduce fear around job security. Many people delay treatment because they assume they will automatically lose their position — but in many cases, job protection laws may apply.
+For individuals considering [medical detox](/programs/medical-detox/), understanding FMLA eligibility can reduce fear around job security. Many people delay treatment because they assume they will automatically lose their position — but in many cases, job protection laws may apply.
 
 The next section will explain how FMLA specifically relates to medical detox and what that means in practical terms.
 
@@ -71,7 +71,7 @@ Under federal guidelines, substance use disorder can be considered a serious hea
 
 However, it’s important to understand an important distinction:
 
-FMLA protects leave taken for [**treatment**](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) — not absences caused by ongoing substance use.
+FMLA protects leave taken for [**treatment**](/programs/medical-detox/) — not absences caused by ongoing substance use.
 
 In other words:
 
@@ -100,7 +100,7 @@ Eligibility depends on employer size, length of employment, and hours worked. If
 
 -   Your HR department
 -   A benefits administrator
--   Or an [admissions team](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) that can help you understand what documentation is typically required
+-   Or an [admissions team](/contact/) that can help you understand what documentation is typically required
 
 For authoritative guidance, the U.S. Department of Labor provides detailed information about FMLA eligibility and employee rights.
 
@@ -140,7 +140,7 @@ However, workplace policies and individual situations vary, which is why underst
 
 Fear of judgment is one of the most common reasons people delay detox.
 
-But [medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is healthcare. It is a medically supervised intervention designed to protect your health — and federal laws exist specifically to prevent employment consequences when someone seeks appropriate treatment.
+But [medical detox](/programs/medical-detox/) is healthcare. It is a medically supervised intervention designed to protect your health — and federal laws exist specifically to prevent employment consequences when someone seeks appropriate treatment.
 
 ### Returning to Work After Medical Detox
 
@@ -184,7 +184,7 @@ Admissions teams can often help individuals understand what paperwork may be req
 
 It’s normal to feel anxious about returning to work after treatment. Many people worry about perception or stigma.
 
-But seeking [medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is a health decision — not a professional failure.
+But seeking [medical detox](/programs/medical-detox/) is a health decision — not a professional failure.
 
 Stabilizing your health often improves:
 
@@ -224,7 +224,7 @@ Protecting your livelihood is important. So is protecting your health.
 
 Medical detox is healthcare. Seeking treatment is not a failure — it’s a proactive step toward stability.
 
-At **[New Beginnings Recovery](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/)**, admissions can walk you through:
+At **[New Beginnings Recovery](/contact/)**, admissions can walk you through:
 
 -   What medical detox involves
 -   What timelines may look like

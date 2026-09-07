@@ -12,13 +12,13 @@ One of the most common questions people ask when considering detox is simple but
 
 The honest answer is that detox timelines vary by substance, individual health, and level of medical support. Alcohol detox does not follow the same timeline as opioid detox, and benzodiazepine detox is often much longer and more gradual than people expect.
 
-Understanding **realistic [detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) timelines—by substance—can help reduce uncertainty and support safer planning**. This guide breaks down typical detox durations for alcohol, opioids, and benzodiazepines, explains why timelines vary, and outlines what factors can shorten or extend the process.
+Understanding **realistic [detox](/programs/medical-detox/) timelines—by substance—can help reduce uncertainty and support safer planning**. This guide breaks down typical detox durations for alcohol, opioids, and benzodiazepines, explains why timelines vary, and outlines what factors can shorten or extend the process.
 
 ## What “Detox” Actually Refers To
 
 ![drug detox timeline](/images/blog/inline/drug-detox-timeline.jpg)
 
-[Detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) refers to the **withdrawal and stabilization phase** that occurs after stopping alcohol or drugs. During detox, the body clears substances from the system and adjusts to functioning without them.
+[Detox](/programs/medical-detox/) refers to the **withdrawal and stabilization phase** that occurs after stopping alcohol or drugs. During detox, the body clears substances from the system and adjusts to functioning without them.
 
 Detox focuses on:
 
@@ -195,4 +195,4 @@ Trusted medical resources such as **[MedlinePlus](https://medlineplus.gov/)** pr
 
 If you’re considering detox and want to understand how long it might take based on your situation, speaking with a professional can help clarify expectations and next steps.
 
-**[Call to discuss timing and next steps](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/)** and learn how detox fits into a broader plan for care.
+**[Call to discuss timing and next steps](/contact/)** and learn how detox fits into a broader plan for care.

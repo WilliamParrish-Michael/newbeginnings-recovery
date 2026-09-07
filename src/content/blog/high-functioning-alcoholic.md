@@ -108,4 +108,4 @@ High-functioning alcoholism has a way of making people feel like they have to hi
 
 The desert setting of Rancho Mirage is home to a private recovery program designed for people who take their health and their privacy seriously — people who need support that meets them where they are, with the discretion and clinical expertise that makes real recovery possible.
 
-If you’re ready to have an honest conversation, we’re here. Reach out to **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** at **(760) 924-9419** or [connect with our admissions team online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/). Everything is confidential.
+If you’re ready to have an honest conversation, we’re here. Reach out to **[New Beginnings Recovery](/)** at **(760) 924-9419** or [connect with our admissions team online](/contact/). Everything is confidential.

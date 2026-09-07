@@ -8,7 +8,7 @@ draft: false
 
 ## When Getting to Treatment Feels Like the Hardest Part
 
-Deciding to go to [detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is one step. Figuring out how to get there is often another — and for many people, it feels just as overwhelming.
+Deciding to go to [detox](/programs/medical-detox/) is one step. Figuring out how to get there is often another — and for many people, it feels just as overwhelming.
 
 Traveling for detox can raise a lot of questions all at once. Is it safe to fly while withdrawing? Should someone drive instead? What if symptoms start on the way? What do you pack? Who helps coordinate everything when you’re already exhausted?
 
@@ -76,7 +76,7 @@ The goal isn’t just to get to treatment — it’s to arrive safely, supported
 
 ## What to Pack and Prepare Before Traveling for Detox
 
-When traveling for [detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/), keeping things simple is best. Packing thoughtfully — and preparing a few details ahead of time — can make arrival smoother and reduce stress during an already vulnerable moment.
+When traveling for [detox](/programs/medical-detox/), keeping things simple is best. Packing thoughtfully — and preparing a few details ahead of time — can make arrival smoother and reduce stress during an already vulnerable moment.
 
 **Bring the Essentials**  
 Most detox programs will provide guidance on what’s allowed, but in general, it helps to pack:
@@ -153,4 +153,4 @@ Choosing to travel for detox is a meaningful step — and it doesn’t have to b
 
 With the right planning and guidance, people travel safely to treatment every day. The key is asking questions early and letting professionals help coordinate the process so safety comes first.
 
-If you’re considering treatment and unsure how to get there, a [call to admissions](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) can help you understand your options and plan a safe arrival. There’s no obligation — just support, clarity, and guidance when you need it.
+If you’re considering treatment and unsure how to get there, a [call to admissions](/contact/) can help you understand your options and plan a safe arrival. There’s no obligation — just support, clarity, and guidance when you need it.

@@ -97,7 +97,7 @@ In a medically supervised detox setting, individuals may receive:
 -   support for sleep and nervous system regulation
 -   immediate response if symptoms escalate
 
-This kind of [supervision](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) can reduce both physical risk and psychological distress, especially for people withdrawing from alcohol or benzodiazepines.
+This kind of [supervision](/programs/medical-detox/) can reduce both physical risk and psychological distress, especially for people withdrawing from alcohol or benzodiazepines.
 
 ## **What to Do If You’re Experiencing Panic Attacks During Withdrawal**
 
@@ -139,10 +139,10 @@ Yes. Panic attacks can occur during alcohol withdrawal, along with other symptom
 
 ### **Can panic attacks happen during benzodiazepine withdrawal?**
 
-Yes. Anxiety and panic symptoms are common during benzodiazepine withdrawal. Because benzos affect the central nervous system, stopping suddenly can lead to severe rebound symptoms. Benzodiazepine withdrawal may involve serious medical risks, and should be supervised by professionals. You can also learn more about [rebound anxiety during benzo withdrawal.](https://newbeginningsrecovery.com/blog/benzo-withdrawal-vs-rebound-anxiety/)
+Yes. Anxiety and panic symptoms are common during benzodiazepine withdrawal. Because benzos affect the central nervous system, stopping suddenly can lead to severe rebound symptoms. Benzodiazepine withdrawal may involve serious medical risks, and should be supervised by professionals. You can also learn more about [rebound anxiety during benzo withdrawal.](/blog/benzo-withdrawal-vs-rebound-anxiety/)
 
 ## **When to Call for Assessment**
 
 If symptoms are severe, worsening, or difficult to distinguish from medical risk, it is important to seek assessment immediately. Panic attacks during withdrawal can be terrifying — and you do not have to navigate them alone.
 
-A [medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) assessment can help determine what level of care is safest and most appropriate, especially when alcohol or benzodiazepine withdrawal is involved.
+A [medical detox](/programs/medical-detox/) assessment can help determine what level of care is safest and most appropriate, especially when alcohol or benzodiazepine withdrawal is involved.

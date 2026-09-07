@@ -60,7 +60,7 @@ To the organizers, speakers, researchers, and fellow treatment professionals who
 
 We left Palm Springs this year with new ideas, renewed energy, and a deeper appreciation for the community of professionals working alongside us in this field.
 
-If you or someone you love is ready to take the next step toward recovery — in a program staffed by a team committed to growing alongside the science — we’re here. **New Beginnings Recovery** is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time.
+If you or someone you love is ready to take the next step toward recovery — in a program staffed by a team committed to growing alongside the science — we’re here. **New Beginnings Recovery** is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](/contact/) at any time.
 
 Recovery is always evolving. And so are we.
 

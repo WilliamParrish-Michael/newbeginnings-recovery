@@ -66,7 +66,7 @@ Research consistently shows that untreated anxiety disorders increase the risk o
 
 At the same time, assuming that anxiety will automatically resolve once alcohol use stops is also a clinical error. As the NIAAA has noted, it would be incorrect to assume that most anxiety in people with alcohol use disorder is simply a byproduct of intoxication or withdrawal that will disappear on its own. Many people have genuine, independent anxiety disorders that existed before or alongside their drinking and that require their own targeted treatment.
 
-The most effective approach — supported by clinical evidence — is integrated treatment: care that addresses both the alcohol use disorder and the co-occurring anxiety simultaneously, rather than in sequence. This means [medically supervised detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) that manages the acute neurological symptoms of withdrawal (including withdrawal anxiety), followed by therapeutic work that specifically addresses anxiety — its roots, its triggers, and healthier tools for managing it.
+The most effective approach — supported by clinical evidence — is integrated treatment: care that addresses both the alcohol use disorder and the co-occurring anxiety simultaneously, rather than in sequence. This means [medically supervised detox](/programs/medical-detox/) that manages the acute neurological symptoms of withdrawal (including withdrawal anxiety), followed by therapeutic work that specifically addresses anxiety — its roots, its triggers, and healthier tools for managing it.
 
 ## What Integrated Recovery Actually Looks Like
 
@@ -90,8 +90,8 @@ The anxiety you’ll face in early recovery is real. But it is also treatable. A
 
 The key is not going through that process alone or without support designed for exactly this situation.
 
-At **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** in Rancho Mirage, we understand that alcohol use disorder rarely exists in isolation. Our approach to treatment acknowledges the whole person — including the anxiety, the stress, the underlying emotional patterns that made alcohol feel necessary in the first place. From medically supervised detox to optional wellness services designed to support the nervous system and restore calm, our program is built for people who need more than just detox.
+At **[New Beginnings Recovery](/)** in Rancho Mirage, we understand that alcohol use disorder rarely exists in isolation. Our approach to treatment acknowledges the whole person — including the anxiety, the stress, the underlying emotional patterns that made alcohol feel necessary in the first place. From medically supervised detox to optional wellness services designed to support the nervous system and restore calm, our program is built for people who need more than just detox.
 
-If you’re ready to talk, our admissions team is available around the clock at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/). Everything is confidential.
+If you’re ready to talk, our admissions team is available around the clock at **(760) 924-9419**, or you can [reach out online](/contact/). Everything is confidential.
 
 _New Beginnings Recovery is a private detox and residential treatment program located in Rancho Mirage, California, serving individuals and families across Palm Springs and the Coachella Valley._

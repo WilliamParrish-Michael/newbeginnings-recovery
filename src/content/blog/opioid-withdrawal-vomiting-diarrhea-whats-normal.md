@@ -87,7 +87,7 @@ If you’re unsure whether symptoms are normal withdrawal or something more seri
 
 Medical detox provides monitoring and support during withdrawal, especially when symptoms involve dehydration risk, sleep disruption, or intense physical distress.
 
-In a [supervised detox setting](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/), staff can:
+In a [supervised detox setting](/programs/medical-detox/), staff can:
 
 -   monitor vital signs and overall stability
 -   evaluate dehydration risk
@@ -138,7 +138,7 @@ Yes. Diarrhea is a common opioid withdrawal symptom because opioids often slow d
 
 If nausea, vomiting, and diarrhea are severe — or if you are concerned about dehydration — it’s important to seek medical assessment. Opioid withdrawal can be physically demanding, and supportive detox care can help reduce risk and improve safety.
 
-If you or a loved one is experiencing intense withdrawal symptoms, reaching out for a [professional detox assessment](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) can help clarify the safest next step.
+If you or a loved one is experiencing intense withdrawal symptoms, reaching out for a [professional detox assessment](/contact/) can help clarify the safest next step.
 
 ### **Why does opioid withdrawal cause stomach problems?**
 

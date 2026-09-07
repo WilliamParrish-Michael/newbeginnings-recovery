@@ -14,7 +14,7 @@ If you’ve been noticing pain or discomfort in the area of your liver — the u
 
 The liver is one of the most remarkable organs in the human body. It filters toxins, metabolizes alcohol, produces proteins essential to clotting, regulates blood sugar, and performs hundreds of other functions that keep you alive and well. It is also one of the organs most profoundly damaged by chronic heavy drinking — and one of the few that can, under the right conditions, heal.
 
-The key phrase is _under the right conditions_. For the liver, that condition is stopping alcohol. And [stopping alcohol safely](https://newbeginningsrecovery.com/alcohol-detox-coachella-valley/), particularly for someone who has been drinking heavily, requires medical supervision.
+The key phrase is _under the right conditions_. For the liver, that condition is stopping alcohol. And [stopping alcohol safely](/programs/alcohol-detox/), particularly for someone who has been drinking heavily, requires medical supervision.
 
 This article explains what liver pain from drinking actually means, the five warning signs that indicate it’s time to seek alcohol detox now, and why acting sooner — rather than waiting to see if things improve on their own — makes a genuine difference in what’s reversible and what isn’t.
 
@@ -94,9 +94,9 @@ What determines whether that recovery is possible is time — and action.
 
 Waiting to see if the discomfort resolves, hoping the symptoms are something else, postponing the conversation with a doctor or a treatment program — each of these choices narrows the window of what remains reversible.
 
-**[New Beginnings Recovery](https://newbeginningsrecovery.com/)** offers medically supervised alcohol detox in a private residential setting in Rancho Mirage, minutes from Palm Springs. Our clinical team understands the complex relationship between alcohol use disorder and liver health — and our approach to detox includes the nutritional support, medical monitoring, and individualized care that people with alcohol-related health concerns need.
+**[New Beginnings Recovery](/)** offers medically supervised alcohol detox in a private residential setting in Rancho Mirage, minutes from Palm Springs. Our clinical team understands the complex relationship between alcohol use disorder and liver health — and our approach to detox includes the nutritional support, medical monitoring, and individualized care that people with alcohol-related health concerns need.
 
-If you’re ready to take the first step, our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/). You can also [verify your insurance](https://newbeginningsrecovery.com/verify-your-insurance/) in minutes.
+If you’re ready to take the first step, our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out online](/contact/). You can also [verify your insurance](/verify-insurance/) in minutes.
 
 Everything is confidential. The window is still open. Please use it.
 

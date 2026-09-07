@@ -90,7 +90,7 @@ The research is clear that people who progress through a continuum of care follo
 
 **New Beginnings Recovery** in Rancho Mirage offers both medically supervised alcohol detox and residential treatment under one roof — meaning the transition from detox to the next phase of recovery is seamless, immediate, and clinically connected. Our admissions team works with families as well as individuals, and we welcome questions about what the full arc of treatment looks like and how to support your loved one through it.
 
-We’re available 24 hours a day at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes.
+We’re available 24 hours a day at **(760) 924-9419**, or you can [reach out online](/contact/) at any time. [Insurance verification](/verify-insurance/) takes just a few minutes.
 
 Detox was a beginning. What comes next is where recovery is built. We’re here to help with both.
 

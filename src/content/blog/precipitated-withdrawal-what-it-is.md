@@ -34,7 +34,7 @@ Precipitated withdrawal happens because of how certain medications interact with
 
 When opioids are present in the body, they bind to opioid receptors and activate them. Over time, the brain adapts to this activation. When opioids are reduced or stopped, receptors gradually lose stimulation, and withdrawal symptoms develop as the nervous system adjusts.
 
-This process is usually **gradual**, which is why standard opioid withdrawal builds over time. [Learn more about the difference between opioid and Kratom withdrawals.](https://newbeginningsrecovery.com/blog/kratom-withdrawal-vs-opioid-withdrawal/)
+This process is usually **gradual**, which is why standard opioid withdrawal builds over time. [Learn more about the difference between opioid and Kratom withdrawals.](/blog/kratom-withdrawal-vs-opioid-withdrawal/)
 
 ### What Makes Precipitated Withdrawal Different
 
@@ -144,6 +144,6 @@ Support during this moment is about **protecting safety**, not forcing a particu
 
 If precipitated withdrawal has occurred — or if symptoms escalate suddenly after starting or changing medications — it’s important not to manage this alone.
 
-Reaching out doesn’t mean you’ve failed or made a mistake. Many people contact **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** simply to understand what’s happening, why symptoms feel so severe, and what options exist to help the body stabilize safely.
+Reaching out doesn’t mean you’ve failed or made a mistake. Many people contact **[New Beginnings Recovery](/)** simply to understand what’s happening, why symptoms feel so severe, and what options exist to help the body stabilize safely.
 
 A confidential conversation with admissions can help clarify next steps and determine whether medical detox or additional support may be appropriate. When withdrawal symptoms change suddenly or feel overwhelming, **it’s always safer to ask than to guess**.

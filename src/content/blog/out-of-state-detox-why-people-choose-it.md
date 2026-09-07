@@ -18,7 +18,7 @@ There is no “right” choice for everyone. What matters is understanding why p
 
 ![best palm springs detox center out of state detox treatment](/images/blog/inline/palm-springs-detox-center.jpg)
 
-For many people, the idea of leaving their state for [detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) isn’t about distance — it’s about relief.
+For many people, the idea of leaving their state for [detox](/programs/medical-detox/) isn’t about distance — it’s about relief.
 
 Relief from being watched.  
 Relief from having to explain.  
@@ -80,7 +80,7 @@ An admissions conversation is not a commitment. It’s a way to ask questions, t
 
 Admissions teams can help clarify things like:
 
--   Whether [detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is medically recommended based on current symptoms or substance use patterns
+-   Whether [detox](/programs/medical-detox/) is medically recommended based on current symptoms or substance use patterns
 -   If treatment away from home might be helpful given privacy, safety, or environmental concerns
 -   How travel can be coordinated safely, including timing and arrival planning
 -   What insurance may cover and what questions to ask before deciding

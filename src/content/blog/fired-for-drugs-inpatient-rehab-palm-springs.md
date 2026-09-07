@@ -46,7 +46,7 @@ A career setback doesn’t define your future.
 
 In fact, many people who enter treatment after a job loss later describe it as the moment things finally shifted. Without the daily pressure of work—or the ability to hide what’s going on—it becomes easier to step back and focus on what’s really needed.
 
-This is where [inpatient rehab](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) can play a meaningful role.
+This is where [inpatient rehab](/programs/residential/) can play a meaningful role.
 
 ## What Is Inpatient Rehab?
 
@@ -99,7 +99,7 @@ The Palm Springs and Rancho Mirage area offers a setting that supports healing i
 -   A sense of distance from everyday stress
 -   Access to professional, evidence-based care
 
-Treatment centers in the area provide a full continuum of care, including detox, [residential](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) treatment, and ongoing support.
+Treatment centers in the area provide a full continuum of care, including detox, [residential](/programs/residential/) treatment, and ongoing support.
 
 At New Beginnings Recovery, our program combines clinical expertise with a calm, supportive environment designed to help individuals begin again with dignity and stability.
 
@@ -121,7 +121,7 @@ You’ll have the opportunity to work one-on-one with a therapist while also con
 
 ### Medical and Clinical Support
 
-From [detox](https://newbeginningsrecovery.com/drug-detox-coachella-valley/) to ongoing care, licensed professionals help monitor your progress and adjust your treatment plan as needed.
+From [detox](/programs/drug-detox/) to ongoing care, licensed professionals help monitor your progress and adjust your treatment plan as needed.
 
 ### Skill-Building for Life After Treatment
 
@@ -129,7 +129,7 @@ Recovery isn’t just about stopping substance use—it’s about learning how t
 
 ### A Focus on Whole-Person Healing
 
-Many programs incorporate [wellness practices](https://newbeginningsrecovery.com/wellness-services-in-rancho-mirage-palm-springs/) like mindfulness, nutrition, and physical activity to support both mental and physical health.
+Many programs incorporate [wellness practices](/wellness/) like mindfulness, nutrition, and physical activity to support both mental and physical health.
 
 ## Rebuilding After Job Loss and Addiction
 
@@ -154,7 +154,7 @@ That’s okay.
 
 Reaching out for information doesn’t commit you to anything. It simply gives you clarity during a time that can feel overwhelming.
 
-At [New Beginnings Recovery](https://newbeginningsrecovery.com/), many people start with a conversation—asking questions, learning about options, and understanding what support might look like.
+At [New Beginnings Recovery](/), many people start with a conversation—asking questions, learning about options, and understanding what support might look like.
 
 ## A Quiet Opportunity to Begin Again
 
@@ -164,4 +164,4 @@ If you’re considering inpatient rehab near Palm Springs, you don’t have to h
 
 You just have to take the next step.
 
-At [New Beginnings Recovery](https://newbeginningsrecovery.com/), we’re here to provide guidance, answer questions, and support you in finding a path forward—at your pace, and on your terms.
+At [New Beginnings Recovery](/), we’re here to provide guidance, answer questions, and support you in finding a path forward—at your pace, and on your terms.

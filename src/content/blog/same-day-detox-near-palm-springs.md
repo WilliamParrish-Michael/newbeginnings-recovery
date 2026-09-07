@@ -8,7 +8,7 @@ draft: false
 
 For individuals struggling with substance use, waiting days or weeks to enter treatment can feel overwhelming. When someone decides they are ready to get help, immediate access to care can make a meaningful difference.
 
-Many treatment programs now offer **[same-day detox admissions near Palm Springs](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/)**, allowing individuals to begin the recovery process as soon as possible. These emergency admissions help people safely start detox without unnecessary delays.
+Many treatment programs now offer **[same-day detox admissions near Palm Springs](/programs/medical-detox/)**, allowing individuals to begin the recovery process as soon as possible. These emergency admissions help people safely start detox without unnecessary delays.
 
 At **New Beginnings Recovery**, we understand that the decision to seek help often happens in a critical moment. Our team works to make the admissions process simple and supportive for individuals seeking detox in the Coachella Valley.
 
@@ -105,7 +105,7 @@ Individuals seeking same-day detox near Palm Springs can contact treatment provi
 
 Individuals searching for **same-day detox near Palm Springs** often need immediate guidance and support. Treatment programs in the Coachella Valley may offer rapid admissions designed to help people begin detox without long wait times.
 
-At **[New Beginnings Recovery](https://newbeginningsrecovery.com/)**, our team helps individuals explore detox options and take the first step toward recovery in a supportive environment.
+At **[New Beginnings Recovery](/)**, our team helps individuals explore detox options and take the first step toward recovery in a supportive environment.
 
 If you or a loved one needs **same-day detox near Palm Springs**, compassionate help is available.
 

@@ -12,7 +12,7 @@ One of the first questions people ask when considering treatment is simple—but
 
 If you’re looking into rehab near Palm Springs, understanding how insurance works can feel confusing. You may not know what’s covered, what isn’t, or where to even begin.
 
-At [New Beginnings Recovery](https://newbeginningsrecovery.com/), we speak with many individuals and families who are trying to make sense of their options—often during an already stressful time.
+At [New Beginnings Recovery](/), we speak with many individuals and families who are trying to make sense of their options—often during an already stressful time.
 
 The good news is that many insurance plans _do_ cover addiction treatment, including detox and residential rehab.
 
@@ -26,8 +26,8 @@ Most health insurance plans—including PPO insurance—provide some level of co
 
 That means services like:
 
--   [Medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/)
--   [Residential (inpatient) rehab](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/)
+-   [Medical detox](/programs/medical-detox/)
+-   [Residential (inpatient) rehab](/programs/residential/)
 -   Further treatment
 -   Therapy and counseling
 
@@ -148,13 +148,13 @@ Getting clear information doesn’t mean you have to commit to anything right aw
 
 If you’re considering treatment, location can play an important role.
 
-[Rehab near Palm Springs offers:](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/)
+[Rehab near Palm Springs offers:](/programs/residential/)
 
 -   A peaceful, structured environment
 -   Distance from daily stressors and triggers
 -   Access to experienced, professional care
 
-At [New Beginnings Recovery,](https://newbeginningsrecovery.com/) we focus on providing a supportive space where individuals can begin recovery with clarity and stability—while also helping navigate practical concerns like insurance and coverage.
+At [New Beginnings Recovery,](/) we focus on providing a supportive space where individuals can begin recovery with clarity and stability—while also helping navigate practical concerns like insurance and coverage.
 
 ## Taking the First Step
 

@@ -62,7 +62,7 @@ This benefit is sometimes dismissed as a matter of preference rather than medica
 
 Hospitals are high-stimulus, high-stress environments. Bright lights, constant noise, shared spaces, rotating staff, the sounds and presence of other patients in crisis — none of these are conducive to the rest, physiological calm, and psychological safety that the nervous system needs to stabilize during alcohol withdrawal.
 
-[Private residential detox programs](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) are designed to be the opposite: quiet, calm, private, and restorative. A comfortable room that is yours. Nutritious meals. Outdoor space. A pace that is organized around your recovery rather than around hospital throughput.
+[Private residential detox programs](/programs/medical-detox/) are designed to be the opposite: quiet, calm, private, and restorative. A comfortable room that is yours. Nutritious meals. Outdoor space. A pace that is organized around your recovery rather than around hospital throughput.
 
 Research on environment and healing consistently supports the idea that calming, restorative settings reduce physiological stress markers — including cortisol levels — that are directly relevant to the neurological recalibration underway during alcohol withdrawal. This is not incidental to medical care. It is part of it.
 
@@ -84,7 +84,7 @@ Detox is not treatment. It is the beginning of treatment — the essential first
 
 When someone is discharged from a hospital after alcohol withdrawal stabilization, the typical outcome is a referral — a phone number, a pamphlet, a recommendation to follow up with a treatment program. The responsibility for navigating that next step falls entirely on the individual, at a moment when they are physically depleted, emotionally raw, and often without a strong support structure in place.
 
-In a [private residential program](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/), the transition from detox to continued treatment is built into the structure. When the acute phase of withdrawal resolves, the path forward — residential treatment, continued clinical therapy, ongoing support — is already in place. There is no gap to fall through. No moment of vulnerability where returning to old patterns becomes the path of least resistance.
+In a [private residential program](/programs/residential/), the transition from detox to continued treatment is built into the structure. When the acute phase of withdrawal resolves, the path forward — residential treatment, continued clinical therapy, ongoing support — is already in place. There is no gap to fall through. No moment of vulnerability where returning to old patterns becomes the path of least resistance.
 
 For many people, that continuity of care is the difference between detox becoming a genuine turning point and detox becoming one more attempt that didn’t hold.
 
@@ -98,7 +98,7 @@ For everyone else — for the person who has decided they are ready to stop drin
 
 **New Beginnings Recovery** is a private residential detox and treatment program located in Rancho Mirage, in the heart of the Coachella Valley. Our program provides medically supervised alcohol detox in a calm, private setting — with 24/7 clinical monitoring, individualized care, nutritional support, and a direct pathway into residential treatment for clients who are ready to take the next step.
 
-Same-day admission is available. Our admissions team is available around the clock at **(760) 924-9419**, and you can [verify your insurance online](https://newbeginningsrecovery.com/verify-your-insurance/) in minutes. Everything is confidential.
+Same-day admission is available. Our admissions team is available around the clock at **(760) 924-9419**, and you can [verify your insurance online](/verify-insurance/) in minutes. Everything is confidential.
 
 The decision to get help is the hardest one. Everything after that, we can help you navigate.
 

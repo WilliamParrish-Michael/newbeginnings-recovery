@@ -174,7 +174,7 @@ Persistent sleep deprivation can make withdrawal feel much harder, which is why 
 
 ## When to Seek Help for Insomnia During Detox
 
-Not sleeping during [detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) can make everything feel harder — emotionally, physically, and mentally. While sleep disruption is common, you don’t need to wait until exhaustion becomes unbearable to ask for help.
+Not sleeping during [detox](/programs/medical-detox/) can make everything feel harder — emotionally, physically, and mentally. While sleep disruption is common, you don’t need to wait until exhaustion becomes unbearable to ask for help.
 
 It’s reasonable to reach out if:
 
@@ -186,6 +186,6 @@ It’s reasonable to reach out if:
 
 Getting support doesn’t mean something is wrong or that you’ve failed to cope. It means you’re responding appropriately to how your body is adjusting.
 
-Many people contact **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** simply to talk through what they’re experiencing and understand whether sleep disruption is expected during detox — or whether additional support could help stabilize things sooner.
+Many people contact **[New Beginnings Recovery](/)** simply to talk through what they’re experiencing and understand whether sleep disruption is expected during detox — or whether additional support could help stabilize things sooner.
 
 A confidential conversation with admissions can help clarify next steps, reduce uncertainty, and make this phase feel more manageable. When sleep loss starts to affect your well-being, **you don’t have to push through it alone**.

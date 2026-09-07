@@ -80,6 +80,6 @@ Your pain is real. What you’ve been through matters. And your own healing is n
 
 You didn’t cause this. You can’t control it. And you can’t cure it. But you can be part of a recovery process that is honest about the complexity of what your family has been living — and that gives everyone in it, not just the person in treatment, the support they actually need.
 
-If you’re looking for a treatment program for someone you love — or looking for guidance on how to help — **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** welcomes family members in the process. Our admissions team is available 24 hours a day at **(760) 924-9419**, and family members are always welcome to call and ask questions before their loved one is ready. You can also [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. Everything is confidential.
+If you’re looking for a treatment program for someone you love — or looking for guidance on how to help — **[New Beginnings Recovery](/)** welcomes family members in the process. Our admissions team is available 24 hours a day at **(760) 924-9419**, and family members are always welcome to call and ask questions before their loved one is ready. You can also [reach out online](/contact/) at any time. Everything is confidential.
 
 Healing the family starts with believing the whole family deserves to heal. We do too.

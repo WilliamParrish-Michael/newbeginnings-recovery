@@ -22,7 +22,7 @@ The first 24 hours of medical detox are often the most uncertain. People commonl
 
 Understanding what the first day looks like can reduce fear and make the decision to seek help feel more manageable.
 
-[Medical detox](https://newbeginningsrecovery.com/) is designed to provide structure and clinical oversight during the earliest phase of withdrawal — when symptoms may begin, intensify, or shift unpredictably. The first 24 hours focus on **assessment, stabilization, and safety**.
+[Medical detox](/) is designed to provide structure and clinical oversight during the earliest phase of withdrawal — when symptoms may begin, intensify, or shift unpredictably. The first 24 hours focus on **assessment, stabilization, and safety**.
 
 While every individual’s experience is different, the goal during this first day is consistent:  
 to ensure the body begins adjusting safely while medical professionals monitor symptoms and respond appropriately.
@@ -102,7 +102,7 @@ Withdrawal symptoms can build gradually, which is why structured monitoring duri
 
 ### Adjusting Support as Symptoms Change
 
-[Medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is not static. If symptoms intensify, the clinical team adjusts the level of support to maintain stability and safety.
+[Medical detox](/programs/medical-detox/) is not static. If symptoms intensify, the clinical team adjusts the level of support to maintain stability and safety.
 
 Some individuals experience mild early symptoms. Others may notice discomfort increasing over several hours. Monitoring allows care to be responsive rather than reactive.
 
@@ -110,7 +110,7 @@ The goal during the first day is stabilization — helping the body begin adjust
 
 ## What You May Feel During the First 24 Hours
 
-The first 24 hours of [medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) can feel different for everyone. Some people notice symptoms quickly, while others feel only mild changes at first.
+The first 24 hours of [medical detox](/programs/medical-detox/) can feel different for everyone. Some people notice symptoms quickly, while others feel only mild changes at first.
 
 Understanding what may happen during this time can reduce uncertainty.
 
@@ -147,7 +147,7 @@ One of the most important things to understand is that symptoms don’t always a
 
 Some people feel relatively stable early on and experience stronger symptoms later. Others may feel uncomfortable quickly but stabilize with support.
 
-This unpredictability is exactly why [medical detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) focuses heavily on monitoring during the first 24 hours.
+This unpredictability is exactly why [medical detox](/programs/medical-detox/) focuses heavily on monitoring during the first 24 hours.
 
 ## When Symptoms Can Escalate — and Why Monitoring Matters
 
@@ -230,7 +230,7 @@ If you’re considering medical detox, uncertainty about the first 24 hours is c
 
 You don’t have to wait until symptoms become severe to reach out.
 
-At **[New Beginnings Recovery](https://newbeginningsrecovery.com/)**, admissions can walk you through what the first day of medical detox looks like, talk through the substances involved, and help determine whether detox is appropriate.
+At **[New Beginnings Recovery](/)**, admissions can walk you through what the first day of medical detox looks like, talk through the substances involved, and help determine whether detox is appropriate.
 
 A confidential conversation can provide clarity about next steps — whether you’re calling for yourself or a loved one.
 

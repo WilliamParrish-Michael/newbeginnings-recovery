@@ -62,7 +62,7 @@ As withdrawal progresses, symptoms may intensify and include:
 -   Hallucinations
 -   **Seizures**
 
-These symptoms signal that the nervous system is becoming increasingly unstable and that **[medical assessment is needed immediately](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/)**.
+These symptoms signal that the nervous system is becoming increasingly unstable and that **[medical assessment is needed immediately](/programs/medical-detox/)**.
 
 ### Why Symptoms Can Escalate Quickly
 
@@ -111,7 +111,7 @@ Medical detox isn’t about rushing the process or assuming the worst. It’s ab
 
 ### Monitoring During a High-Risk Period
 
-Benzo withdrawal can involve sudden changes in anxiety levels, heart rate, blood pressure, and neurological function. In a [supervised detox setting](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/), these changes can be identified early and addressed before they become emergencies.
+Benzo withdrawal can involve sudden changes in anxiety levels, heart rate, blood pressure, and neurological function. In a [supervised detox setting](/programs/medical-detox/), these changes can be identified early and addressed before they become emergencies.
 
 This level of monitoring is especially important because people experiencing withdrawal may not recognize how quickly symptoms are escalating.
 
@@ -151,6 +151,6 @@ Medical detox provides monitoring during a high-risk period and allows clinician
 
 If you or someone you care about is considering stopping Xanax, Ativan, or another benzodiazepine — or if withdrawal symptoms have already begun — it’s important not to manage this alone.
 
-Reaching out doesn’t mean you’ve committed to treatment. Many people contact **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** simply to understand whether symptoms can be managed safely and what options exist for supervised care.
+Reaching out doesn’t mean you’ve committed to treatment. Many people contact **[New Beginnings Recovery](/)** simply to understand whether symptoms can be managed safely and what options exist for supervised care.
 
-A confidential conversation with admissions can help clarify risk, answer questions, and determine whether medical detox is the safer path forward. When it comes to benzodiazepine withdrawal, **[it’s always safer to ask than to guess](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/)**.
+A confidential conversation with admissions can help clarify risk, answer questions, and determine whether medical detox is the safer path forward. When it comes to benzodiazepine withdrawal, **[it’s always safer to ask than to guess](/contact/)**.

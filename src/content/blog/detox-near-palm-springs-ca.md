@@ -95,7 +95,7 @@ Detox should never be “one-size-fits-all.”
 
 ### 3) Clear Safety Standards (Not Vague Promises)
 
-[A trustworthy detox program](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) should be able to explain:
+[A trustworthy detox program](/programs/medical-detox/) should be able to explain:
 
 -   What happens during the first 24–72 hours
 -   How symptoms are monitored
@@ -145,7 +145,7 @@ If answers feel vague or dismissive, that’s a red flag.
 
 ### “Do you treat fentanyl withdrawal or polysubstance withdrawal?”
 
-In the Coachella Valley and across Southern California, fentanyl exposure and mixed substance use are increasingly common. [A detox program](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) should be prepared to support withdrawal that involves more than one substance.
+In the Coachella Valley and across Southern California, fentanyl exposure and mixed substance use are increasingly common. [A detox program](/programs/medical-detox/) should be prepared to support withdrawal that involves more than one substance.
 
 ### “What does the first 72 hours look like?”
 
@@ -182,7 +182,7 @@ Detox provides a controlled environment where symptoms can be monitored, safety 
 
 ## Getting Help Near Palm Springs
 
-If you’re searching for **[detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) near Palm Springs, CA**, you don’t have to have everything figured out before reaching out. Many people contact **New Beginnings Recovery** simply to ask questions, understand what medical detox involves, and learn whether it’s the right step for their situation.
+If you’re searching for **[detox](/programs/medical-detox/) near Palm Springs, CA**, you don’t have to have everything figured out before reaching out. Many people contact **New Beginnings Recovery** simply to ask questions, understand what medical detox involves, and learn whether it’s the right step for their situation.
 
 A confidential admissions call can help you:
 

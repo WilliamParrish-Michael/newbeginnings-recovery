@@ -156,6 +156,6 @@ Support during cocaine withdrawal isn’t about forcing improvement — it’s a
 
 If you’re unsure whether what you’re feeling is a normal cocaine crash, ongoing withdrawal, or something that needs support, it’s okay to ask.
 
-Reaching out doesn’t mean you’ve committed to treatment. Many people contact **[New Beginnings Recovery](https://newbeginningsrecovery.com/)** simply to talk through what they’re experiencing, understand what’s normal during cocaine withdrawal, and learn whether additional support could help.
+Reaching out doesn’t mean you’ve committed to treatment. Many people contact **[New Beginnings Recovery](/)** simply to talk through what they’re experiencing, understand what’s normal during cocaine withdrawal, and learn whether additional support could help.
 
-A confidential conversation with [admissions](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) can offer clarity, reassurance, and guidance on safer next steps. When mood symptoms feel heavy or confusing, **you don’t have to navigate them alone**.
+A confidential conversation with [admissions](/contact/) can offer clarity, reassurance, and guidance on safer next steps. When mood symptoms feel heavy or confusing, **you don’t have to navigate them alone**.

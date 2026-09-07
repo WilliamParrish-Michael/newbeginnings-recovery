@@ -105,7 +105,7 @@ The brain is capable of healing. What it needs to do that is time, structure, su
 
 **New Beginnings Recovery** in Rancho Mirage offers medically supervised detox and residential treatment in a private, structured setting designed to support the kind of focused, sustained recovery that meth detox requires. Our clinical team provides 24/7 monitoring, nutritional support, and individualized care — and our residential program provides the therapeutic environment and clinical support that bridges detox into the longer arc of meth recovery.
 
-Our admissions team is available around the clock at **(760) 924-9419**, or you can [reach out online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes.
+Our admissions team is available around the clock at **(760) 924-9419**, or you can [reach out online](/contact/) at any time. [Insurance verification](/verify-insurance/) takes just a few minutes.
 
 Stopping meth is genuinely hard. Getting through the early days and weeks is genuinely hard. But it’s also genuinely possible — and the brain’s capacity to recover, given the right support, is real.
 

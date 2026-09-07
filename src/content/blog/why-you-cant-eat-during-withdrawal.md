@@ -88,7 +88,7 @@ If nausea, appetite loss, or vomiting are preventing you from keeping fluids dow
 
 Reaching out doesn’t mean you’ve failed or that something is “wrong.” It means you’re responding appropriately to how your body is reacting. Withdrawal affects everyone differently, and getting guidance early can prevent complications and reduce unnecessary suffering.
 
-If you’re unsure whether what you’re experiencing is normal or something that needs attention, it’s always reasonable to ask. When it comes to [withdrawal](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) and hydration, **err on the side of safety**.
+If you’re unsure whether what you’re experiencing is normal or something that needs attention, it’s always reasonable to ask. When it comes to [withdrawal](/programs/medical-detox/) and hydration, **err on the side of safety**.
 
 ### When to Reach Out for Help
 
@@ -96,8 +96,8 @@ Not being able to eat or drink during withdrawal isn’t just uncomfortable — 
 
 If nausea, appetite loss, or vomiting are making it difficult to keep fluids down, or if dizziness, confusion, or increasing fatigue are present, a medical assessment can help determine whether additional support is needed to stay safe.
 
-The admissions team at [New Beginnings Recovery](https://newbeginningsrecovery.com/) can help you talk through what you’re experiencing and determine whether medical detox or another level of care may be appropriate. These conversations are confidential and focused on safety — not pressure.
+The admissions team at [New Beginnings Recovery](/) can help you talk through what you’re experiencing and determine whether medical detox or another level of care may be appropriate. These conversations are confidential and focused on safety — not pressure.
 
 If you’re unsure whether symptoms are serious enough to reach out, it’s always safer to ask. Early guidance can prevent complications and help your body stabilize during withdrawal.
 
-If you’re unsure, [it’s always safer to ask than to wait.](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/)
+If you’re unsure, [it’s always safer to ask than to wait.](/contact/)

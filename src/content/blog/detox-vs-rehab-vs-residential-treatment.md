@@ -8,7 +8,7 @@ draft: false
 
 ## Why These Addiction Treatment Terms Are So Often Confusing
 
-If you’re trying to understand **[detox](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) vs rehab vs [residential treatment](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/)**, you’re not alone. Many people searching for help are met with terms that sound similar but mean very different things, and that confusion can make an already stressful situation feel even harder to navigate.
+If you’re trying to understand **[detox](/programs/medical-detox/) vs rehab vs [residential treatment](/programs/residential/)**, you’re not alone. Many people searching for help are met with terms that sound similar but mean very different things, and that confusion can make an already stressful situation feel even harder to navigate.
 
 Detox, rehab, and residential treatment are often talked about interchangeably, but they serve distinct purposes at different stages of recovery. Knowing what each one actually means — and how they work together — can make it much easier to figure out where to start and what kind of support is most appropriate.
 
@@ -74,7 +74,7 @@ Rehab can happen in different settings, including outpatient, intensive outpatie
 
 ### What Residential Treatment Is
 
-[Residential treatment](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) is a **live-in level of care** where individuals stay on-site for a period of time while receiving structured therapy and support. This setting provides consistency, routine, and separation from daily stressors that can make early recovery harder.
+[Residential treatment](/programs/medical-detox/) is a **live-in level of care** where individuals stay on-site for a period of time while receiving structured therapy and support. This setting provides consistency, routine, and separation from daily stressors that can make early recovery harder.
 
 Residential treatment is often recommended when:
 
@@ -134,7 +134,7 @@ The right place to start is usually based on a few key questions:
 
 Answering these questions helps clarify whether detox is needed first, or whether another level of care is more appropriate.
 
-In many cases, a brief conversation with [admissions](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) is enough to provide direction. That conversation isn’t about pushing a program — it’s about understanding what’s going on medically and emotionally, and matching that with the right level of support.
+In many cases, a brief conversation with [admissions](/contact/) is enough to provide direction. That conversation isn’t about pushing a program — it’s about understanding what’s going on medically and emotionally, and matching that with the right level of support.
 
 Treatment works best when care is aligned with actual needs, not assumptions or guesswork. Starting in the right place can make the entire process feel more manageable and far less overwhelming.
 

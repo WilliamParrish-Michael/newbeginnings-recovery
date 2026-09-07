@@ -104,8 +104,8 @@ The best time to understand your coverage is before you make any commitment — 
 
 **New Beginnings Recovery** in Rancho Mirage verifies insurance benefits promptly, handles prior authorization, and manages concurrent review throughout your stay — so that insurance coordination happens in the background while you focus on recovery. We work with most major private insurance plans and are transparent about coverage and any out-of-pocket costs before you arrive.
 
-Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [verify your insurance online](https://newbeginningsrecovery.com/verify-your-insurance/) in minutes. You can also [reach out through our contact page](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time with any questions about coverage or the admissions process.
+Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [verify your insurance online](/verify-insurance/) in minutes. You can also [reach out through our contact page](/contact/) at any time with any questions about coverage or the admissions process.
 
 The length of your stay should be determined by what you need — not by what you assume insurance will cover. Let’s find out what your plan actually provides.
 
-[New Beginnings Recovery](https://newbeginningsrecovery.com/) is a private detox and residential treatment program located in Rancho Mirage, California, serving individuals and families across Palm Springs and the Coachella Valley. We work with private insurance plans and private pay only.
+[New Beginnings Recovery](/) is a private detox and residential treatment program located in Rancho Mirage, California, serving individuals and families across Palm Springs and the Coachella Valley. We work with private insurance plans and private pay only.

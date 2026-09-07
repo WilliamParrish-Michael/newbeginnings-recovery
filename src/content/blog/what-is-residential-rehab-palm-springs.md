@@ -52,7 +52,7 @@ Residential rehab may be recommended for individuals who:
 
 For many people, residential treatment provides a **reset**—a chance to focus on recovery without the pressures of work, family obligations, or daily stressors.
 
-**Important to know:** Most residential programs begin **[after medical detox](https://newbeginningsrecovery.com/blog/what-to-expect-during-medical-detox-safety-care-and-next-steps/)**, once withdrawal symptoms are stabilized. Admissions teams typically help coordinate the appropriate level of care based on individual needs.
+**Important to know:** Most residential programs begin **[after medical detox](/blog/what-to-expect-during-medical-detox-safety-care-and-next-steps/)**, once withdrawal symptoms are stabilized. Admissions teams typically help coordinate the appropriate level of care based on individual needs.
 
 uring a difficult time.
 
@@ -79,7 +79,7 @@ Every program is a little different, but residential rehab generally follows a p
 -   How treatment evolves over time
 -   How residential rehab prepares people for life after treatment
 
-If you’re researching **what happens in** [**residential treatment**](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) and want a realistic, easy-to-understand picture—this guide is meant to help.
+If you’re researching **what happens in** [**residential treatment**](/programs/residential/) and want a realistic, easy-to-understand picture—this guide is meant to help.
 
 ## Day 1 in Residential Rehab: A Quick Overview
 
@@ -171,7 +171,7 @@ This balance between engagement and rest helps recovery feel sustainable rather 
 
 ### A Reassuring Perspective for Families
 
-Families often worry about what their loved one’s days will look like in residential rehab. At [New Beginnings](https://newbeginningsrecovery.com/), care is centered on **safety, dignity, and steady progress**—not pressure or isolation.
+Families often worry about what their loved one’s days will look like in residential rehab. At [New Beginnings](/), care is centered on **safety, dignity, and steady progress**—not pressure or isolation.
 
 Clients are supported throughout the day by a team whose goal is to help recovery feel manageable, not intimidating.
 
@@ -193,7 +193,7 @@ Residential treatment is designed to be **individualized**, meaning length of st
 
 ### Typical Length of Stay in Residential Rehab
 
-[Residential rehab](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) programs often last anywhere from **several weeks to longer stays**, depending on factors such as:
+[Residential rehab](/programs/residential/) programs often last anywhere from **several weeks to longer stays**, depending on factors such as:
 
 -   Substance use history
 -   Mental and physical health needs
@@ -247,7 +247,7 @@ A thoughtful transition plan helps ensure clients leave treatment with support i
 
 ### Why This Flexibility Matters
 
-When [residential rehab](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) is paced thoughtfully, people are more likely to:
+When [residential rehab](/programs/residential/) is paced thoughtfully, people are more likely to:
 
 -   Build confidence in their recovery
 -   Develop sustainable habits
@@ -257,7 +257,7 @@ This approach supports long-term recovery rather than short-term change.
 
 ## When Residential Rehab Is the Right Next Step
 
-[Residential rehab](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) can be the right next step for people who need more support than outpatient care can provide—and for families who want to know their loved one isn’t facing recovery alone.
+[Residential rehab](/programs/residential/) can be the right next step for people who need more support than outpatient care can provide—and for families who want to know their loved one isn’t facing recovery alone.
 
 It’s often a good fit for individuals who:
 
@@ -301,7 +301,7 @@ If you or someone you love is exploring **residential rehab near Palm Springs or
 
 A confidential conversation with the admissions team can help you understand available options and determine the next best step—without pressure or obligation.
 
-**[Call today to learn more about residential treatment and how support can begin.](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/)**
+**[Call today to learn more about residential treatment and how support can begin.](/programs/residential/)**
 
 ## Resources & Sources
 

@@ -82,8 +82,8 @@ If you’ve been told your trauma “isn’t bad enough” to explain your drink
 
 **New Beginnings Recovery** in Rancho Mirage offers medically supervised detox and residential treatment with a clinical approach that takes the connection between trauma and alcohol seriously. Our team includes clinicians with expertise in trauma-informed care, and our program — including optional wellness services designed to support nervous system restoration — is built for people whose recovery involves more than simply removing the alcohol.
 
-Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out confidentially online](https://newbeginningsrecovery.com/contact-new-beginnings-recovery/) at any time. [Insurance verification](https://newbeginningsrecovery.com/verify-your-insurance/) takes just a few minutes.
+Our admissions team is available 24 hours a day at **(760) 924-9419**, or you can [reach out confidentially online](/contact/) at any time. [Insurance verification](/verify-insurance/) takes just a few minutes.
 
 Healing the trauma and healing the addiction are not two separate journeys. When the right care addresses both at once, they become the same one.
 
-_[New Beginnings Recovery](https://newbeginningsrecovery.com/) is a private detox and residential treatment program located in Rancho Mirage, California, serving individuals and families across Palm Springs and the Coachella Valley._
+_[New Beginnings Recovery](/) is a private detox and residential treatment program located in Rancho Mirage, California, serving individuals and families across Palm Springs and the Coachella Valley._

@@ -18,9 +18,9 @@ Alcohol use disorder is not a static condition. It progresses. And for people wh
 
 [Alcohol withdrawal](https://pmc.ncbi.nlm.nih.gov/articles/PMC6943828/) is one of the only substance withdrawals that can be medically life-threatening. Seizures can begin within 6 to 48 hours of the last drink. Delirium tremens — a severe withdrawal syndrome involving confusion, hallucinations, and dangerous cardiovascular instability — can emerge within 48 to 96 hours. Without medical supervision, delirium tremens carries a mortality rate of up to 25%.
 
-This isn’t meant to frighten anyone away from seeking help. It’s meant to make clear why acting quickly, and acting with proper medical support, is so important. When someone decides they are ready, that readiness is precious. Getting into a medically [supervised detox program](https://newbeginningsrecovery.com/medical-detox-in-rancho-mirage-palm-springs/) the same day — or as close to it as possible — honors that readiness and keeps the person safe while their body begins to stabilize.
+This isn’t meant to frighten anyone away from seeking help. It’s meant to make clear why acting quickly, and acting with proper medical support, is so important. When someone decides they are ready, that readiness is precious. Getting into a medically [supervised detox program](/programs/medical-detox/) the same day — or as close to it as possible — honors that readiness and keeps the person safe while their body begins to stabilize.
 
-The good news is that same-day admission to [alcohol detox](https://newbeginningsrecovery.com/alcohol-detox-coachella-valley/) is genuinely possible in California. Here’s exactly how it works.
+The good news is that same-day admission to [alcohol detox](/programs/alcohol-detox/) is genuinely possible in California. Here’s exactly how it works.
 
 ## Step 1: Make the Call
 
@@ -75,7 +75,7 @@ Detox is the essential first step — but it is the beginning of recovery, not t
 
 Alcohol use disorder is a complex condition that involves neurological, psychological, and behavioral dimensions that detox alone does not address. Once your body has stabilized and withdrawal has been safely managed, the transition to a residential treatment program is typically the recommended next step — particularly for individuals with significant dependence or a history of relapse.
 
-[Residential treatment](https://newbeginningsrecovery.com/residential-rehab-in-palm-springs-rancho-mirage/) provides the structured environment, clinical therapy, and community support that help people understand the roots of their drinking, develop new coping skills, and build a foundation for long-term sobriety. The transition from detox directly into residential care — in the same facility or in a closely connected program — is the most seamless and effective pathway for most people.
+[Residential treatment](/programs/residential/) provides the structured environment, clinical therapy, and community support that help people understand the roots of their drinking, develop new coping skills, and build a foundation for long-term sobriety. The transition from detox directly into residential care — in the same facility or in a closely connected program — is the most seamless and effective pathway for most people.
 
 This continuity of care matters. The days immediately following detox are a vulnerable period. Having a clear next step already in place — rather than returning home to the same environment with no ongoing support — significantly improves long-term outcomes.
 
@@ -101,9 +101,9 @@ You don’t.
 
 The admissions team’s job is to help you figure those things out. A good program will work around your circumstances — answering questions about confidentiality, helping you think through logistics, and making the process as clear and manageable as possible. You bring the readiness. They’ll help with the rest.
 
-If you’re in California — in the Palm Springs area, the Coachella Valley, or anywhere across Southern California — and you’re ready to take that step today, [**New Beginnings Recovery**](https://newbeginningsrecovery.com/) offers same-day admissions to medically supervised alcohol detox in a private, compassionate setting in Rancho Mirage.
+If you’re in California — in the Palm Springs area, the Coachella Valley, or anywhere across Southern California — and you’re ready to take that step today, [**New Beginnings Recovery**](/) offers same-day admissions to medically supervised alcohol detox in a private, compassionate setting in Rancho Mirage.
 
-Our admissions team is available right now at **(760) 924-9419**, or you can [verify your insurance online](https://newbeginningsrecovery.com/verify-your-insurance/) in minutes. Everything is confidential. There’s no obligation in making the call.
+Our admissions team is available right now at **(760) 924-9419**, or you can [verify your insurance online](/verify-insurance/) in minutes. Everything is confidential. There’s no obligation in making the call.
 
 When you’re ready, we’re here.
 
