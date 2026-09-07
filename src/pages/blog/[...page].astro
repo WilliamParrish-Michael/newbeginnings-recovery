@@ -4,21 +4,27 @@ import Base from '../../layouts/Base.astro';
 import PageHero from '../../components/PageHero.astro';
 import { url } from '../../lib/url';
 
-const posts = (await getCollection('blog', ({ data }) => !data.draft))
-  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+export async function getStaticPaths({ paginate }) {
+  const posts = (await getCollection('blog', ({ data }) => !data.draft))
+    .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+  return paginate(posts, { pageSize: 12 });
+}
+
+const { page } = Astro.props;
 const fmt = (d) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const pageHref = (n) => url(n <= 1 ? '/blog/' : `/blog/${n}/`);
 ---
-<Base title="Blog — New Beginnings Recovery" description="Guidance on detox, residential rehab, insurance, and recovery from the New Beginnings Recovery team in the Coachella Valley.">
+<Base title={page.currentPage > 1 ? `Blog (page ${page.currentPage}) — New Beginnings Recovery` : 'Blog — New Beginnings Recovery'} description="Guidance on detox, residential rehab, insurance, and recovery from the New Beginnings Recovery team in the Coachella Valley.">
   <PageHero eyebrow="Blog" title="Recovery, explained" lede="Honest, practical guidance on detox, treatment, insurance, and supporting a loved one — from our team in Rancho Mirage." />
 
   <section class="section">
     <div class="container">
       <ul class="post-grid">
-        {posts.map((p) => (
+        {page.data.map((p) => (
           <li class="post card">
             <a href={url(`/blog/${p.slug}/`)} class="post-link">
               {p.data.heroImage && (
-                <img class="post-img" src={url(p.data.heroImage)} alt="" width="600" height="360" loading="lazy" />
+                <img class="post-img" src={url(p.data.heroImage)} alt={p.data.title} width="600" height="360" loading="lazy" />
               )}
               <div class="post-body">
                 <time class="post-date" datetime={p.data.pubDate.toISOString()}>{fmt(p.data.pubDate)}</time>
@@ -30,6 +36,12 @@ const fmt = (d) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long
           </li>
         ))}
       </ul>
+
+      <nav class="pager" aria-label="Blog pages">
+        {page.currentPage > 1 && <a class="pg prev" href={pageHref(page.currentPage - 1)} rel="prev">← Newer</a>}
+        <span class="pg-count">Page {page.currentPage} of {page.lastPage}</span>
+        {page.currentPage < page.lastPage && <a class="pg next" href={pageHref(page.currentPage + 1)} rel="next">Older →</a>}
+      </nav>
     </div>
   </section>
 
@@ -45,6 +57,10 @@ const fmt = (d) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long
     .post .more { font-weight: 700; color: var(--accent); font-size: .88rem; }
     .post-link:hover { box-shadow: var(--shadow-md); }
     .post-link:hover h2 { text-decoration: underline; }
+    .pager { display: flex; align-items: center; justify-content: center; gap: 1.5rem; margin-top: 2.5rem; }
+    .pager .pg { font-weight: 700; color: var(--accent); text-decoration: none; padding: .5rem .9rem; border: 1px solid var(--hair); border-radius: var(--r-md); }
+    .pager .pg:hover { border-color: var(--accent); }
+    .pg-count { color: var(--text-muted); font-size: .9rem; font-family: "Mulish", sans-serif; }
     @media (max-width: 60rem) { .post-grid { grid-template-columns: repeat(2, 1fr); } }
     @media (max-width: 38rem) { .post-grid { grid-template-columns: 1fr; } }
   </style>

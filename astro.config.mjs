@@ -34,6 +34,27 @@ export default defineConfig({
   base: BASE,
   build: { format: 'directory' },
   compressHTML: true,
+  // Preserve SEO from the old WordPress URLs: forward each retired URL to its
+  // rebuild route (static redirect pages for the GitHub Pages / static host).
+  redirects: {
+    '/medical-detox-in-rancho-mirage-palm-springs/': '/programs/medical-detox/',
+    '/residential-rehab-in-palm-springs-rancho-mirage/': '/programs/residential/',
+    '/alcohol-detox-coachella-valley/': '/programs/alcohol-detox/',
+    '/drug-detox-coachella-valley/': '/programs/drug-detox/',
+    '/alcohol-rehab-in-the-coachella-valley/': '/programs/residential/',
+    '/drug-rehab-in-the-coachella-valley/': '/programs/residential/',
+    '/addiction-treatment-programs-in-rancho-mirage-palm-springs/': '/programs/',
+    '/contact-new-beginnings-recovery/': '/contact/',
+    '/verify-your-insurance/': '/verify-insurance/',
+    '/thank-you-for-verifying-your-insurance/': '/verify-insurance/',
+    '/wellness-services-in-rancho-mirage-palm-springs/': '/wellness/',
+    '/mindfulness/': '/wellness/mindfulness/',
+    '/nutrition-counseling/': '/wellness/nutrition-counseling/',
+    '/ayurveda-mindfulness/': '/wellness/ayurveda/',
+    '/family-support-in-addiction-recovery/': '/family/',
+    '/about-us/': '/about/',
+    '/meet-our-team/': '/about/team/',
+  },
   markdown: { rehypePlugins: [rehypeBaseUrl] },
   // Generates sitemap-index.xml + sitemap-0.xml from every built page. When the
   // PHI intake form ships on a noindex page, exclude it here via `filter`.
