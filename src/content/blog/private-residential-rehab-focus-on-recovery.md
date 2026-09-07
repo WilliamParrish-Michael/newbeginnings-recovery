@@ -14,7 +14,7 @@ This is one of the most important and least discussed advantages of private resi
 
 ## Why Environment Has More Power Over Recovery Than People Expect
 
-![](/images/blog/inline/Private-Detox-in-Rancho-Mirage.jpg)
+![Private Detox In Rancho Mirage](/images/blog/inline/Private-Detox-in-Rancho-Mirage.jpg)
 
 Addiction is not just a behavioral pattern — it’s a learned association between substances and the environments in which they were used. This isn’t a metaphor. It’s a documented neurobiological process.
 

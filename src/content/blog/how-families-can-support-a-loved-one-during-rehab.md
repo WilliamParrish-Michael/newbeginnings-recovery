@@ -26,7 +26,7 @@ In other words: what you do during this time matters. The question is what to do
 
 ## First: What Residential Rehab Actually Looks Like
 
-![](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-092.jpg)
+![Drug Alcohol Detox Residential Rehab In Rancho Mirage Palm Springs New Beginnings Recovery](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-092.jpg)
 
 Before anything else, it helps to understand what your loved one is actually experiencing — because assumptions about residential rehab often don’t match reality, and that gap can make it harder to know how to connect.
 

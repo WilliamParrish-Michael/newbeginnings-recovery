@@ -16,7 +16,7 @@ If any part of this sounds familiar, this article is for you.
 
 ## The Professional Trap: Why High Achievers Wait Longest
 
-![](/images/blog/inline/Kratom-Detox-in-California.jpg)
+![Kratom Detox In California](/images/blog/inline/Kratom-Detox-in-California.jpg)
 
 There’s a reason that professionals often delay getting help longer than almost anyone else. And it’s not because they don’t recognize the problem.
 

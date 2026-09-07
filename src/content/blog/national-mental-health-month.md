@@ -6,7 +6,7 @@ heroImage: "/images/blog/national-mental-health-month.jpg"
 draft: false
 ---
 
-![](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-089.jpg)
+![Drug Alcohol Detox Residential Rehab In Rancho Mirage Palm Springs New Beginnings Recovery](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-089.jpg)
 
 Every May, the United States pauses to recognize Mental Health Awareness Month — a tradition that has been observed since 1949 and has grown into one of the most important public health conversations of the year. This May, the [National Alliance on Mental Illness (NAMI)](https://www.nami.org/stay-connected/events/awareness-events/mental-health-awareness-month/) is leading the charge with the theme _“In Every Story, There’s Strength”_ — a celebration of the resilience and diverse experiences that shape mental health journeys across the country.
 

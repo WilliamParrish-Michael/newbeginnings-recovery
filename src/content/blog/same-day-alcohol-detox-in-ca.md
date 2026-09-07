@@ -24,7 +24,7 @@ The good news is that same-day admission to [alcohol detox](/programs/alcohol-de
 
 ## Step 1: Make the Call
 
-![](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-027.jpg)
+![Drug Alcohol Detox Residential Rehab In Rancho Mirage Palm Springs New Beginnings Recovery](/images/blog/inline/Drug-Alcohol-Detox-Residential-Rehab-in-Rancho-Mirage-Palm-Springs-New-Beginnings-Recovery-027.jpg)
 
 The entire process starts with a phone call — and it is simpler and faster than most people expect.
 

@@ -14,7 +14,7 @@ If you’ve been searching for guidance on what comes after detox — for a spou
 
 ## First: Understand What Detox Actually Accomplished
 
-![](/images/blog/inline/Kratom-Detox-in-California.jpg)
+![Kratom Detox In California](/images/blog/inline/Kratom-Detox-in-California.jpg)
 
 Detox is an essential first step — and it is exactly that: a first step.
 
