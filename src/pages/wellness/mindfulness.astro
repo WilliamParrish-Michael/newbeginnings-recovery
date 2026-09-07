@@ -1,0 +1,37 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHero from '../../components/PageHero.astro';
+import CtaBand from '../../components/CtaBand.astro';
+import { url } from '../../lib/url';
+
+const practices = [
+  { t: 'Guided meditation', d: 'Short, led sessions that teach the mind to settle and observe cravings and emotions without acting on them.' },
+  { t: 'Mindful breathwork', d: 'Simple breathing techniques that calm the nervous system in moments of stress or urge.' },
+  { t: 'Body scan practice', d: 'Gentle attention to physical sensation — helpful for reconnecting with a body that substance use has numbed.' },
+  { t: 'Mindful journaling', d: 'Reflective writing that surfaces triggers and tracks progress through early recovery.' },
+  { t: 'Mindful movement', d: 'Slow, yoga-inspired movement that pairs breath with motion to restore calm and focus.' },
+];
+---
+<Base title="Mindfulness for Addiction Recovery — New Beginnings Recovery" description="Mindfulness practices at New Beginnings Recovery in Rancho Mirage help reduce cravings, manage stress, and support lasting sobriety — offered alongside clinical care.">
+  <PageHero eyebrow="Wellness · Mindfulness" title="Learn to be present — without reaching for a substance" lede="Mindfulness is a practical, learnable skill for early recovery: noticing a craving or a hard emotion, and letting it pass instead of acting on it." image="/images/wellness/mindfulness.jpeg" imageAlt="A calm space for mindfulness practice at New Beginnings Recovery" />
+
+  <section class="section">
+    <div class="container prose" style="max-width:52rem">
+      <h2>What is mindfulness in recovery?</h2>
+      <p>Mindfulness is the practice of paying attention to the present moment — thoughts, feelings, and physical sensations — with acceptance rather than judgment. In addiction recovery, that skill matters because so much of relapse begins with an automatic reaction to discomfort. Learning to pause, notice, and choose creates space between a trigger and a decision.</p>
+      <p>At New Beginnings, mindfulness is an <strong>optional, supplemental</strong> support offered alongside — not in place of — medical detox and clinical treatment.</p>
+
+      <h2>Mindfulness practices we offer</h2>
+      <div class="feature-grid">
+        {practices.map((p) => (<div class="feature"><h3>{p.t}</h3><p>{p.d}</p></div>))}
+      </div>
+
+      <h2>Why it helps</h2>
+      <p>Research on mindfulness-based approaches in substance use points to real benefits: lower stress reactivity, better emotion regulation, and improved ability to sit with cravings until they fade. None of it replaces therapy or medication — it strengthens the work clients are already doing, and gives them tools they can keep for life.</p>
+
+      <p style="margin-top:1.5rem"><a href={url('/wellness/')}>← Back to all wellness services</a></p>
+    </div>
+  </section>
+
+  <CtaBand title="Recovery that treats the whole person" text="Mindfulness is one of several optional supports alongside medically supervised care. Talk with our team about what fits." />
+</Base>

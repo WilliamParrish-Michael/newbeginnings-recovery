@@ -1,0 +1,36 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHero from '../../components/PageHero.astro';
+import CtaBand from '../../components/CtaBand.astro';
+import { url } from '../../lib/url';
+
+const practices = [
+  { t: 'Ayurvedic daily rhythm', d: 'Gentle daily structure — consistent sleep, meals, and rest — that helps a dysregulated system find stability.' },
+  { t: 'Breathwork', d: 'Simple breathing practices to calm the nervous system and ease stress and cravings.' },
+  { t: 'Yoga-inspired movement', d: 'Slow, accessible movement that reconnects body and mind and restores a sense of calm.' },
+  { t: 'Mindful reflection', d: 'Quiet, guided reflection to build self-awareness and emotional balance.' },
+  { t: 'Lifestyle balance guidance', d: 'Practical strategies for rebuilding everyday routine and a more grounded way of living.' },
+];
+---
+<Base title="Ayurveda for Addiction Recovery — New Beginnings Recovery" description="Ayurveda-inspired practices at New Beginnings Recovery help restore balance, reduce stress, and support holistic healing in the Coachella Valley — alongside clinical care.">
+  <PageHero eyebrow="Wellness · Ayurveda" title="Ancient wisdom, a calmer path forward" lede="Ayurveda-inspired practices bring balance and calm to recovery — restoring rhythm to a body and mind that substance use has thrown off course." image="/images/wellness/ayurveda.jpeg" imageAlt="A peaceful, balanced setting for Ayurveda-inspired practice at New Beginnings Recovery" />
+
+  <section class="section">
+    <div class="container prose" style="max-width:52rem">
+      <h2>What is Ayurveda?</h2>
+      <p>Ayurveda is a traditional system of holistic wellness centered on balance — between body, mind, and daily rhythm. Our founder’s passion for Ayurveda shapes the spirit of New Beginnings, and clients who wish to explore it may do so as an <strong>optional support</strong>. These practices are not part of our licensed treatment program; they complement, rather than replace, medical and therapeutic care.</p>
+
+      <h2>Ayurveda-inspired practices we offer</h2>
+      <div class="feature-grid">
+        {practices.map((p) => (<div class="feature"><h3>{p.t}</h3><p>{p.d}</p></div>))}
+      </div>
+
+      <h2>Why it helps</h2>
+      <p>Early recovery can feel chaotic — sleep, appetite, and mood are often disrupted. The steadying rhythm and calming practices Ayurveda emphasizes can help clients feel more centered and resilient, making it easier to engage in the clinical work of recovery. It’s about restoring balance, not replacing treatment.</p>
+
+      <p style="margin-top:1.5rem"><a href={url('/wellness/')}>← Back to all wellness services</a></p>
+    </div>
+  </section>
+
+  <CtaBand title="Whole-person healing, grounded in real care" text="Ayurveda-inspired support sits alongside medically supervised detox and treatment. Ask our team what’s right for you." />
+</Base>

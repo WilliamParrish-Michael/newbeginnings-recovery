@@ -3,6 +3,13 @@ import Base from '../layouts/Base.astro';
 import PageHero from '../components/PageHero.astro';
 import CtaBand from '../components/CtaBand.astro';
 import Faq from '../components/Faq.astro';
+import { url } from '../lib/url';
+
+const services = [
+  { t: 'Mindfulness', d: 'Practical skills to notice cravings and hard emotions — and let them pass.', href: '/wellness/mindfulness/', img: '/images/wellness/mindfulness.jpeg' },
+  { t: 'Nutrition counseling', d: 'Rebuilding the body after substance use to steady mood, energy, and cravings.', href: '/wellness/nutrition-counseling/', img: '/images/wellness/nutrition-counseling.jpeg' },
+  { t: 'Ayurveda', d: 'Ayurveda-inspired rhythm and calm to restore balance in early recovery.', href: '/wellness/ayurveda/', img: '/images/wellness/ayurveda.jpeg' },
+];
 
 const nutrition = [
   { t: 'Stability', d: 'Balanced meals regulate blood sugar, reducing mood swings and cravings.' },
@@ -38,6 +45,36 @@ const faqs = [
     </div>
   </section>
 
+  <section class="section" style="background: var(--surface-alt)">
+    <div class="container">
+      <div class="section-head stack"><span class="eyebrow">Explore each service</span><h2>Optional supports, tailored to you</h2></div>
+      <div class="svc-grid">
+        {services.map((s) => (
+          <a class="svc card" href={url(s.href)}>
+            <img src={url(s.img)} alt="" width="600" height="360" loading="lazy" />
+            <div class="svc-body">
+              <h3>{s.t}</h3>
+              <p>{s.d}</p>
+              <span class="more">Learn more →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
   <Faq items={faqs} title="FAQs about wellness services" />
+
+  <style>
+    .svc-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; }
+    .svc { padding: 0; overflow: hidden; text-decoration: none; color: var(--text); display: flex; flex-direction: column; }
+    .svc img { width: 100%; aspect-ratio: 5 / 3; object-fit: cover; }
+    .svc-body { padding: 1.1rem 1.2rem 1.3rem; display: flex; flex-direction: column; gap: .4rem; flex: 1; }
+    .svc h3 { font-size: 1.2rem; color: var(--accent-ink); }
+    .svc p { color: var(--text-soft); font-size: .93rem; flex: 1; }
+    .svc .more { font-weight: 700; color: var(--accent); font-size: .88rem; }
+    .svc:hover { box-shadow: var(--shadow-md); }
+    @media (max-width: 56rem) { .svc-grid { grid-template-columns: 1fr; } }
+  </style>
   <CtaBand title="Begin whole-person healing today" text="Every client receives safe, evidence-based care, with the option to explore services that strengthen body, mind, and spirit." />
 </Base>

@@ -1,0 +1,46 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHero from '../components/PageHero.astro';
+import CtaBand from '../components/CtaBand.astro';
+import { url } from '../lib/url';
+
+// The facility photo library (optimized, from the live site). All are of the
+// New Beginnings Recovery property in Rancho Mirage.
+const photoNums = ['108','131','141','145','148','157','159','160','161','162','163','164','165','166','167','169','171','172','174','176','178','180','098','102','109','111','116'];
+const photos = photoNums.map((n) => ({
+  src: `/images/photo-${n}.jpg`,
+  alt: 'The New Beginnings Recovery property in Rancho Mirage, California',
+}));
+---
+<Base title="Virtual Tour — New Beginnings Recovery" description="Take a closer look at New Beginnings Recovery in Rancho Mirage — the calming spaces, private courtyards, and comfortable settings that support recovery.">
+  <PageHero eyebrow="Virtual Tour" title="Take a closer look at where healing begins" lede="Our Rancho Mirage property is intentionally unlike a hospital — calm, private, and comfortable. Browse the spaces where detox and residential recovery happen." image="/images/photo-160.jpg" imageAlt="New Beginnings Recovery — private desert setting in Rancho Mirage, California" />
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head stack">
+        <span class="eyebrow">Hope &amp; healing in Rancho Mirage</span>
+        <h2>A restorative setting, by design</h2>
+        <p class="measure">Comfortable interiors, private courtyards framed by desert and mountain views, and quiet places to rest and reflect — the environment is part of the treatment.</p>
+      </div>
+      <ul class="gallery">
+        {photos.map((p) => (
+          <li><img src={url(p.src)} alt={p.alt} loading="lazy" width="600" height="400" /></li>
+        ))}
+      </ul>
+      <p class="tour-note">Want to see it in person? We welcome a confidential conversation and can arrange a visit.</p>
+    </div>
+  </section>
+
+  <CtaBand title="See if New Beginnings is the right fit" text="Our admissions team is available 24/7 — confidential, and no obligation." />
+
+  <style>
+    .section-head { margin-bottom: 2rem; }
+    .section-head h2 { font-size: clamp(1.7rem, 1.3rem + 1.6vw, 2.4rem); }
+    .gallery { list-style: none; margin: 0; padding: 0; columns: 3; column-gap: 1rem; }
+    .gallery li { break-inside: avoid; margin-bottom: 1rem; }
+    .gallery img { width: 100%; height: auto; border-radius: var(--r-md); box-shadow: var(--shadow-sm); display: block; background: var(--surface-alt); }
+    .tour-note { margin-top: 1.5rem; color: var(--text-soft); font-size: .95rem; }
+    @media (max-width: 60rem) { .gallery { columns: 2; } }
+    @media (max-width: 36rem) { .gallery { columns: 1; } }
+  </style>
+</Base>

@@ -1,0 +1,38 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHero from '../../components/PageHero.astro';
+import CtaBand from '../../components/CtaBand.astro';
+import { url } from '../../lib/url';
+
+const depletion = [
+  { t: 'Vitamin & mineral loss', d: 'Alcohol and drugs interfere with absorption of B vitamins, magnesium, zinc, and more — deficiencies that affect mood, energy, and healing.' },
+  { t: 'Gut health disruption', d: 'Substance use damages the digestive lining and microbiome, worsening inflammation and nutrient uptake.' },
+  { t: 'Blood sugar imbalance', d: 'Erratic eating and substance use swing blood sugar, driving mood swings, fatigue, and cravings.' },
+  { t: 'Unhealthy weight change', d: 'Appetite suppression or loss during active use can leave the body undernourished going into recovery.' },
+];
+---
+<Base title="Nutrition Counseling for Addiction Recovery — New Beginnings Recovery" description="Nutrition counseling at New Beginnings Recovery helps rebuild the body after substance use — reducing cravings and supporting lasting sobriety in the Coachella Valley.">
+  <PageHero eyebrow="Wellness · Nutrition" title="Rebuilding your body from the inside out" lede="Substance use leaves the body depleted. Nutrition counseling helps restore what addiction takes — steadying mood, energy, and the physical foundation recovery is built on." image="/images/wellness/nutrition-counseling.jpeg" imageAlt="Nourishing food supporting recovery at New Beginnings Recovery" />
+
+  <section class="section">
+    <div class="container prose" style="max-width:52rem">
+      <h2>What is nutrition counseling in recovery?</h2>
+      <p>Nutrition counseling pairs clients with guidance on eating for healing — restoring nutrients, stabilizing blood sugar, and rebuilding the body’s systems after the toll of substance use. It’s a practical, supportive part of whole-person recovery, offered <strong>alongside</strong> medical and clinical care.</p>
+
+      <h2>How addiction depletes the body</h2>
+      <div class="feature-grid">
+        {depletion.map((d) => (<div class="feature"><h3>{d.t}</h3><p>{d.d}</p></div>))}
+      </div>
+
+      <h2>The gut–brain connection</h2>
+      <p>Much of the body’s serotonin is produced in the gut, so the digestive damage from substance use can directly affect mood and anxiety in early recovery. Rebuilding gut health with steady, balanced nutrition supports emotional stability — one of the reasons clients often feel clearer and more resilient as their eating stabilizes.</p>
+
+      <h2>What it looks like here</h2>
+      <p>Balanced meals, steady routines, and guidance tailored to each client help turn small daily wins — better appetite, energy, and sleep — into momentum for the harder work of recovery.</p>
+
+      <p style="margin-top:1.5rem"><a href={url('/wellness/')}>← Back to all wellness services</a></p>
+    </div>
+  </section>
+
+  <CtaBand title="Care that rebuilds body and mind" text="Nutrition counseling is one of several supports alongside medically supervised treatment. Our team can walk you through it." />
+</Base>
