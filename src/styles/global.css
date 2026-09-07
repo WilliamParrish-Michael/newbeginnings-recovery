@@ -153,10 +153,14 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* two-column feature list for program/wellness pages */
 .feature-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin-top: 1.5rem; }
+.feature-grid.three { grid-template-columns: repeat(3, 1fr); }
 .feature { background: var(--surface); border: 1px solid var(--hair); border-radius: var(--r-md); padding: 1.1rem 1.25rem; }
 .feature h3 { font-family: "Mulish", sans-serif; font-size: 1rem; font-weight: 700; color: var(--accent-ink); margin-bottom: .3rem; }
 .feature p { color: var(--text-soft); font-size: .93rem; margin: 0; }
-@media (max-width: 40rem) { .feature-grid { grid-template-columns: 1fr; } }
+/* Collapse columns as the viewport narrows. Use a modifier class (never an inline
+   grid-template override) so these responsive rules are never beaten by inline styles. */
+@media (max-width: 52rem) { .feature-grid.three { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 40rem) { .feature-grid, .feature-grid.three { grid-template-columns: 1fr; } }
 
 /* CTA band reused across interior pages */
 .cta-band { background: var(--band); color: var(--on-band); margin-top: 3rem; }

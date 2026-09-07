@@ -8,7 +8,7 @@ import { url } from '../lib/url';
 const promises = [
   { t: 'Safety first', d: 'Every client is medically monitored and cared for with dignity.' },
   { t: 'Trustworthy treatment', d: 'Built on evidence, guided by healthcare professionals.' },
-  { t: 'Compassion always', d: 'Because recovery is not just a medical process — it’s a human one.' },
+  { t: 'Compassion always', d: 'Because recovery is not only a medical process. It’s a human one.' },
 ];
 const admissions = [
   { t: 'Confidential call', d: 'A private call where our team listens, answers questions, and determines fit.' },
@@ -25,23 +25,23 @@ const faqs = [
   { q: 'What if insurance doesn’t cover everything?', a: 'We review all options and help find solutions to make treatment accessible, including flexible payment options for self-pay.' },
 ];
 ---
-<Base title="About New Beginnings Recovery" description="A private detox and residential addiction treatment center in Rancho Mirage, founded on more than 20 years of healthcare experience — safety, dignity, and compassion first.">
+<Base title="About New Beginnings Recovery" description="A private detox and residential addiction treatment center in Rancho Mirage, founded on more than 20 years of healthcare experience: safety, dignity, and compassion first.">
   <PageHero eyebrow="About Us" title="The kind of treatment center you’d want for your own family" lede="New Beginnings Recovery began with a vision: a place where safety is never in question, where compassion leads the way, and where healing is supported at every level." image="/images/photo-165.jpg" imageAlt="New Beginnings Recovery in Rancho Mirage, California" />
 
   <section class="section">
     <div class="container prose">
       <h2>Healthcare experience, human motivation</h2>
-      <p>The foundation of New Beginnings Recovery is rooted in decades of professional work across hospital systems, behavioral health programs, and addiction medicine. Founded by someone with more than 20 years of healthcare experience, the program combines expert medical care, a restorative setting, and dignified treatment — clinical credibility paired with a deep understanding of families facing addiction.</p>
+      <p>The foundation of New Beginnings Recovery is rooted in decades of professional work across hospital systems, behavioral health programs, and addiction medicine. Founded by someone with more than 20 years of healthcare experience, the program combines expert medical care, a restorative setting, and dignified treatment: clinical credibility paired with a deep understanding of families facing addiction.</p>
 
       <h2>Why we exist</h2>
       <p>Families deserve a treatment center they can trust — one that puts safety, dignity, and compassion first.</p>
-      <div class="feature-grid" style="grid-template-columns:repeat(3,1fr)">
+      <div class="feature-grid three">
         {promises.map((p) => (<div class="feature"><h3>{p.t}</h3><p>{p.d}</p></div>))}
       </div>
 
       <h2>Our mission & vision</h2>
-      <p><strong>Mission —</strong> To provide safe, compassionate, and clinically sound treatment for individuals struggling with addiction, while restoring hope to the families who love them.</p>
-      <p><strong>Vision —</strong> A community where addiction is met with dignity and healing, not stigma or fear — where people across Rancho Mirage, Palm Springs, and the Coachella Valley can access treatment they trust, close to home.</p>
+      <p><strong>Mission:</strong> To provide safe, compassionate, and clinically sound treatment for individuals struggling with addiction, while restoring hope to the families who love them.</p>
+      <p><strong>Vision:</strong> A community where addiction is met with dignity and healing, not stigma or fear. A place where people across Rancho Mirage, Palm Springs, and the Coachella Valley can access treatment they trust, close to home.</p>
       <p><a href={url('/about/team/')}>Meet our clinical and care team →</a></p>
     </div>
   </section>
@@ -52,7 +52,7 @@ const faqs = [
       <ol class="steps">
         {admissions.map((s, i) => (<li><span class="num tabular">{i + 1}</span><div><h3>{s.t}</h3><p>{s.d}</p></div></li>))}
       </ol>
-      <div class="callout" style="margin-top:1.5rem"><p><strong>Insurance & payment —</strong> Most major insurance plans accepted, with direct verification and billing support, flexible options for self-pay, and dedicated staff to walk families through every step.</p></div>
+      <div class="callout" style="margin-top:1.5rem"><p><strong>Insurance & payment:</strong> Most major insurance plans accepted, with direct verification and billing support, flexible options for self-pay, and dedicated staff to walk families through every step.</p></div>
     </div>
   </section>
 
