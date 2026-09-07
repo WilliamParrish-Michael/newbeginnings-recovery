@@ -4,15 +4,15 @@ interface Field { name: string; label: string; type?: string; required?: boolean
 interface Props { formType: string; fields: Field[]; submitLabel?: string; }
 const { formType, fields, submitLabel = 'Send securely' } = Astro.props;
 
-// Build-time gate: only render a live form when BOTH the public key and endpoint are
-// configured. Otherwise render the <slot name="fallback"> (the phone-only CTA), so we
-// never ship a form that could transmit PHI without the encrypted endpoint in place.
-const enabled = Boolean(site.intake.publicKey && site.intake.endpoint);
+// Build-time gate: only render a live form when the CTM FormReactor URL is configured.
+// Otherwise render the <slot name="fallback"> (the phone-only CTA), so we never ship a
+// form that could transmit PHI to an unconfigured destination.
+const enabled = Boolean(site.intake.formReactorUrl);
 ---
 {enabled ? (
   <form class="secure-form" data-secure-form data-form-type={formType}
-        data-pubkey={site.intake.publicKey} data-endpoint={site.intake.endpoint} novalidate>
-    <p class="enc-note">🔒 Your information is encrypted in your browser before it is sent, and can only be read by our admissions team.</p>
+        data-endpoint={site.intake.formReactorUrl} novalidate>
+    <p class="enc-note">🔒 Sent over a secure connection to our admissions team. We never share your information with advertising or analytics services.</p>
     <div class="fields">
       {fields.map((f) => (
         <p class="field">
@@ -39,11 +39,12 @@ const enabled = Boolean(site.intake.publicKey && site.intake.endpoint);
 )}
 
 <script>
-  // libsodium (the crypto) is dynamically imported only when a form actually exists
-  // and only on first submit, so fallback pages never ship the crypto bundle.
+  // The submit helper is dynamically imported only when a form actually exists and only
+  // on first submit, so fallback (phone-only) pages never ship the extra JS.
   document.querySelectorAll<HTMLFormElement>('[data-secure-form]').forEach((form) => {
     const statusEl = form.querySelector<HTMLElement>('.form-status');
     const btn = form.querySelector<HTMLButtonElement>('button[type="submit"]');
+    const originalLabel = btn?.textContent || 'Send';
     const show = (msg: string, ok: boolean) => {
       if (!statusEl) return;
       statusEl.hidden = false;
@@ -57,20 +58,19 @@ const enabled = Boolean(site.intake.publicKey && site.intake.endpoint);
       const data = new FormData(form);
       const payload: Record<string, unknown> = {};
       for (const [k, v] of data.entries()) payload[k] = v === 'on' ? true : v;
-      if (btn) { btn.disabled = true; btn.textContent = 'Encrypting…'; }
-      const { submitEncrypted } = await import('../lib/intake');
-      const res = await submitEncrypted(payload, {
-        publicKeyB64: form.dataset.pubkey || '',
-        endpoint: form.dataset.endpoint || '',
+      if (btn) { btn.disabled = true; btn.textContent = 'Sending…'; }
+      const { submitToCTM } = await import('../lib/intake');
+      const res = await submitToCTM(payload, {
+        formReactorUrl: form.dataset.endpoint || '',
         formType: form.dataset.formType || 'intake',
       });
       if (res.ok) {
         form.reset();
-        show('Thank you — your encrypted message was sent securely. Our admissions team will reach out shortly.', true);
+        show('Thank you — your message was sent securely. Our admissions team will reach out shortly.', true);
         if (btn) btn.textContent = 'Sent ✓';
       } else {
         show(res.error || 'Something went wrong. Please call us instead.', false);
-        if (btn) { btn.disabled = false; btn.textContent = 'Send securely'; }
+        if (btn) { btn.disabled = false; btn.textContent = originalLabel; }
       }
     });
   });

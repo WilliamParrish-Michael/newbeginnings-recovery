@@ -37,19 +37,15 @@ export const site = {
     email: 'info@newbeginningsrecovery.com', // recommend: privacy@newbeginningsrecovery.com
   },
 
-  // Secure intake configuration (self-hosted, end-to-end encrypted).
-  // The browser encrypts each submission to `publicKey` with a libsodium sealed box
-  // BEFORE it leaves the device, then POSTs the ciphertext to `endpoint`. The endpoint
-  // only ever stores ciphertext it cannot read; you decrypt locally with the private key.
-  //
-  // Until BOTH values are set, every intake form renders the phone-only fallback instead
-  // of a live form — so we never ship a form that could transmit PHI insecurely.
-  //   1. Run `node tools/gen-keypair.mjs` (you keep the private key OFFLINE; never commit it).
-  //   2. Paste the printed base64 PUBLIC key below.
-  //   3. Deploy server/intake-endpoint.mjs to BAA-covered infrastructure over HTTPS and
-  //      set `endpoint` to its URL. See server/README.md for the deploy + BAA checklist.
+  // Intake delivery — CallTrackingMetrics FormReactor.
+  // The form POSTs submissions to a CTM FormReactor webhook; CTM stores the lead under a
+  // signed BAA and ties it to call-tracking/attribution. Admissions reads leads in CTM.
+  // Set up: CTM → Settings → FormReactors → New FormReactor → copy the generated URL
+  //   (format: https://app.calltrackingmetrics.com/api/v1/formreactor/FRT-XXXXXXXX)
+  // Until formReactorUrl is set, every intake form renders the phone-only fallback, so we
+  // never ship a form that transmits PHI to an unconfigured destination.
+  // NOTE: confirm the CTM plan includes HIPAA + a signed BAA before going live.
   intake: {
-    publicKey: '', // base64 libsodium X25519 public key (from gen-keypair) — leave '' to disable the form
-    endpoint: '',  // https URL of your self-hosted endpoint — leave '' to disable the form
+    formReactorUrl: '', // paste the CTM FormReactor webhook URL — leave '' to keep the phone fallback
   },
 };

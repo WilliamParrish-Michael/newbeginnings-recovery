@@ -1,43 +1,50 @@
-// Client-side end-to-end encryption for intake submissions.
+// Intake submission → CallTrackingMetrics FormReactor.
 //
-// The visitor's browser encrypts the whole submission to the facility's PUBLIC key
-// using a libsodium "sealed box" (crypto_box_seal) — anonymous-sender public-key
-// encryption. The resulting ciphertext can only be opened by the holder of the
-// matching PRIVATE key (kept offline by the facility). The endpoint that receives
-// the POST therefore never sees plaintext PHI.
+// The form POSTs directly to a CTM FormReactor webhook URL. CTM ingests the lead,
+// stores it under a signed BAA, and ties it to call-tracking/attribution; admissions
+// reads leads inside CTM. Because CTM is the BAA-covered destination, no client-side
+// encryption is needed — the connection is HTTPS and PHI never touches analytics/ads.
 //
-// This module is imported only by the intake-form island, so libsodium is bundled
-// (self-hosted) and loaded only on the pages that actually have a form.
-import _sodium from 'libsodium-wrappers';
+// FormReactor accepts a standard set of fields (caller_name, phone_number, email,
+// country_code); any other fields are captured as custom fields. We POST
+// x-www-form-urlencoded to avoid a CORS preflight (FormReactor is designed to receive
+// posts from external web forms, e.g. Jotform/Elementor).
 
 export interface IntakeResult { ok: boolean; error?: string }
 
-/** Encrypt a submission object to the facility public key and POST the ciphertext. */
-export async function submitEncrypted(
+// Map our form field names → CTM standard field names. Anything not listed here is
+// forwarded as-is and lands in CTM as a custom field.
+const STANDARD: Record<string, string> = {
+  fullName: 'caller_name',
+  name: 'caller_name',
+  phone: 'phone_number',
+  email: 'email',
+};
+
+/** POST an intake submission to the CTM FormReactor webhook. */
+export async function submitToCTM(
   payload: Record<string, unknown>,
-  opts: { publicKeyB64: string; endpoint: string; formType: string },
+  opts: { formReactorUrl: string; formType: string },
 ): Promise<IntakeResult> {
+  if (!opts.formReactorUrl) {
+    return { ok: false, error: 'Online intake is not configured yet — please call us.' };
+  }
   try {
-    if (!opts.publicKeyB64 || !opts.endpoint) {
-      return { ok: false, error: 'Secure intake is not configured yet — please call us.' };
+    const body = new URLSearchParams();
+    body.set('country_code', '1'); // US default; CTM expects a country code with the number
+    body.set('form_type', opts.formType);
+    for (const [k, v] of Object.entries(payload)) {
+      if (v == null || v === '') continue;
+      body.set(STANDARD[k] ?? k, String(v));
     }
-    await _sodium.ready;
-    const sodium = _sodium;
-
-    const publicKey = sodium.from_base64(opts.publicKeyB64, sodium.base64_variants.ORIGINAL);
-    const plaintext = sodium.from_string(JSON.stringify(payload));
-    const sealed = sodium.crypto_box_seal(plaintext, publicKey);
-    const ciphertext = sodium.to_base64(sealed, sodium.base64_variants.ORIGINAL);
-
-    // Only non-PHI metadata travels in the clear: a form label and a timestamp.
-    const res = await fetch(opts.endpoint, {
+    const res = await fetch(opts.formReactorUrl, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ v: 1, formType: opts.formType, ts: new Date().toISOString(), ciphertext }),
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body,
     });
-    if (!res.ok) return { ok: false, error: `Submission failed (${res.status}).` };
+    if (!res.ok) return { ok: false, error: `Submission failed (${res.status}). Please call us.` };
     return { ok: true };
   } catch (e) {
-    return { ok: false, error: 'Could not encrypt or send your message. Please call us instead.' };
+    return { ok: false, error: 'Could not send your message. Please call us instead.' };
   }
 }
