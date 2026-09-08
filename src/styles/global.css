@@ -16,6 +16,15 @@
   --gold-500:   #e0a44e;   /* sunrise apricot */
   --gold-100:   #fbf0dd;
 
+  /* Desert Calm accent — desert-sky teal + sage. Replaces indigo as the site accent;
+     the periwinkle indigo now lives only in the logo art, harmonized by the gold + teal. */
+  --teal-700:   #2c6b81;   /* desert sky — primary accent, AA on white */
+  --teal-900:   #1f4a59;   /* deep teal — headings / accent-ink */
+  --teal-100:   #e3edf0;   /* teal tint — accent-soft */
+  --sage-500:   #7d9c8b;   /* desert sage — secondary */
+  --sage-100:   #e9f0ea;
+  --twilight-900: #1f3d47; /* deep desert-twilight — bands / footer */
+
   /* Neutrals — warm, biased toward the sand/gold side, never pure grey */
   --sand-50:  #faf7f2;
   --sand-100: #f3eee5;
@@ -29,55 +38,55 @@
   --bg:          var(--sand-50);
   --surface:     var(--white);
   --surface-alt: var(--sand-100);
-  --band:        var(--indigo-900);   /* deep bands / footer */
+  --band:        var(--twilight-900); /* deep desert-twilight bands / footer */
   --text:        var(--ink-900);
   --text-soft:   var(--ink-700);
   --text-muted:  var(--ink-500);
   --hair:        var(--sand-200);
-  --accent:      var(--indigo-700);
-  --accent-ink:  var(--indigo-900);
-  --accent-soft: var(--indigo-100);
+  --accent:      var(--teal-700);
+  --accent-ink:  var(--teal-900);
+  --accent-soft: var(--teal-100);
   --cta:         var(--gold-600);
   --cta-ink:     #ffffff;
-  --on-band:     #eef0ff;
-  --on-band-soft:#b9c0f0;
+  --on-band:     #eef4f3;
+  --on-band-soft:#b7ccc8;
   --focus:       var(--gold-500);
   --shadow-sm: 0 1px 2px rgba(35,40,58,.06), 0 4px 14px -8px rgba(35,40,58,.18);
   --shadow-md: 0 2px 6px rgba(35,40,58,.07), 0 18px 40px -20px rgba(35,40,58,.28);
 
   --maxw: 72rem;
   --measure: 40rem;
-  --r-sm: 8px; --r-md: 14px; --r-lg: 22px; --r-pill: 999px;
+  --r-sm: 8px; --r-md: 14px; --r-lg: 22px; --r-pill: 999px; --r-btn: 8px;
   --step: clamp(1rem, .9rem + .5vw, 1.125rem);
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg:          #14151c;
-    --surface:     #1b1d27;
-    --surface-alt: #20222e;
-    --band:        #10111a;
-    --text:        #eceded;
-    --text-soft:   #c3c6d4;
-    --text-muted:  #9096ab;
-    --hair:        #2c2f3d;
-    --accent:      #8b95f0;
-    --accent-ink:  #cdd2fb;
-    --accent-soft: #23263a;
+    --bg:          #13171a;
+    --surface:     #1b2127;
+    --surface-alt: #212830;
+    --band:        #0f2228;
+    --text:        #ecedec;
+    --text-soft:   #c3c8c8;
+    --text-muted:  #909a9a;
+    --hair:        #2c343a;
+    --accent:      #6fb2c4;
+    --accent-ink:  #a9d6e0;
+    --accent-soft: #17313a;
     --cta:         var(--gold-500);
     --cta-ink:     #23283a;
-    --on-band:     #eef0ff;
-    --on-band-soft:#aab1e0;
+    --on-band:     #eef4f3;
+    --on-band-soft:#a9c3c0;
     --focus:       var(--gold-500);
     --shadow-sm: 0 1px 2px rgba(0,0,0,.3), 0 6px 18px -10px rgba(0,0,0,.6);
     --shadow-md: 0 2px 8px rgba(0,0,0,.4), 0 22px 48px -22px rgba(0,0,0,.7);
   }
 }
 :root[data-theme="dark"] {
-  --bg:#14151c; --surface:#1b1d27; --surface-alt:#20222e; --band:#10111a;
-  --text:#eceded; --text-soft:#c3c6d4; --text-muted:#9096ab; --hair:#2c2f3d;
-  --accent:#8b95f0; --accent-ink:#cdd2fb; --accent-soft:#23263a;
-  --cta:var(--gold-500); --cta-ink:#23283a; --on-band:#eef0ff; --on-band-soft:#aab1e0; --focus:var(--gold-500);
+  --bg:#13171a; --surface:#1b2127; --surface-alt:#212830; --band:#0f2228;
+  --text:#ecedec; --text-soft:#c3c8c8; --text-muted:#909a9a; --hair:#2c343a;
+  --accent:#6fb2c4; --accent-ink:#a9d6e0; --accent-soft:#17313a;
+  --cta:var(--gold-500); --cta-ink:#23283a; --on-band:#eef4f3; --on-band-soft:#a9c3c0; --focus:var(--gold-500);
   --shadow-sm:0 1px 2px rgba(0,0,0,.3),0 6px 18px -10px rgba(0,0,0,.6);
   --shadow-md:0 2px 8px rgba(0,0,0,.4),0 22px 48px -22px rgba(0,0,0,.7);
 }
@@ -122,7 +131,7 @@ img { max-width: 100%; height: auto; display: block; }
 .measure { max-width: var(--measure); }
 
 /* ---------- Buttons ---------- */
-.btn { display: inline-flex; align-items: center; gap: .5rem; font-family: "Mulish", sans-serif; font-weight: 700; font-size: 1rem; padding: .85rem 1.4rem; border-radius: var(--r-pill); border: 2px solid transparent; cursor: pointer; text-decoration: none; transition: transform .15s ease, box-shadow .15s ease, background .15s ease; }
+.btn { display: inline-flex; align-items: center; gap: .5rem; font-family: "Mulish", sans-serif; font-weight: 700; font-size: 1rem; padding: .85rem 1.4rem; border-radius: var(--r-btn); border: 2px solid transparent; cursor: pointer; text-decoration: none; transition: transform .15s ease, box-shadow .15s ease, background .15s ease; }
 .btn:hover { transform: translateY(-1px); }
 .btn-cta { background: var(--cta); color: var(--cta-ink); box-shadow: var(--shadow-sm); }
 .btn-cta:hover { box-shadow: var(--shadow-md); }
