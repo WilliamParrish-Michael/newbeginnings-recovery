@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://williamparrish-michael.github.io/newbeginnings-recovery/sitemap-index.xml
