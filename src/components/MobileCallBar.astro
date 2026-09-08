@@ -1,0 +1,51 @@
+---
+// Phone-only sticky call bar. Mirrors the mobile-conversion pattern used by every
+// peer in the design audit (APN, Meadows, Sierra Tucson, Hazelden): a fixed bottom
+// bar with the two highest-intent actions — Call and Verify insurance — always a
+// thumb away. Shown only at phone widths; sits below the consent banner (z 60) so
+// first-visit consent is addressed first.
+import { site } from '../lib/site';
+import { url } from '../lib/url';
+---
+<nav class="mobile-callbar" aria-label="Quick contact">
+  <a class="mcb-btn mcb-call" href={site.phoneHref} aria-label={`Call New Beginnings Recovery 24/7 at ${site.phone}`}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M5 4h4l2 5-3 2a12 12 0 006 6l2-3 5 2v4a2 2 0 01-2 2A17 17 0 013 6a2 2 0 012-2z"/></svg>
+    <span>Call 24/7</span>
+  </a>
+  <a class="mcb-btn mcb-verify" href={url('/verify-insurance/')}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3l7 4v5c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V7z"/><path d="M9 12l2 2 4-4"/></svg>
+    <span>Verify insurance</span>
+  </a>
+</nav>
+
+<style>
+  .mobile-callbar { display: none; }
+  @media (max-width: 48rem) {
+    .mobile-callbar {
+      display: grid; grid-template-columns: 1fr 1fr; gap: .55rem;
+      position: fixed; left: 0; right: 0; bottom: 0; z-index: 50;
+      padding: .55rem .75rem calc(.55rem + env(safe-area-inset-bottom));
+      background: color-mix(in srgb, var(--bg) 92%, transparent);
+      backdrop-filter: saturate(1.4) blur(10px);
+      border-top: 1px solid var(--hair);
+    }
+    .mcb-btn {
+      display: inline-flex; align-items: center; justify-content: center; gap: .45rem;
+      min-height: 3rem; padding: 0 .5rem;
+      font-family: "Mulish", sans-serif; font-weight: 700; font-size: .95rem;
+      border-radius: var(--r-pill); text-decoration: none; border: 2px solid transparent;
+      white-space: nowrap;
+    }
+    .mcb-call { background: var(--cta); color: var(--cta-ink); }
+    .mcb-verify { background: var(--surface); color: var(--accent-ink); border-color: var(--hair); }
+    .mcb-btn svg { width: 17px; height: 17px; flex: none; }
+    .mcb-btn:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+  }
+</style>
+
+<style is:global>
+  /* Keep the fixed bar from covering page/footer content on phones. */
+  @media (max-width: 48rem) {
+    body { padding-bottom: calc(4.3rem + env(safe-area-inset-bottom)); }
+  }
+</style>
